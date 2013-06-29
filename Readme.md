@@ -17,7 +17,7 @@ Assuming that CMEP-site lives in parentDir/CMEP-site, please follow these instru
 1. `grunt clearance:0` -- Clearance levels of 0 or above will cause CMEP-site to use this CMEP-sources
 directory. The location of CMEP-sources is in fact configurable in `Gruntfile.coffee` through the variable `yeomanConfig.content`. By default it is set to '../CMEP-sources' - i.e. alongside CMEP-site.
 
-1. To switch to using the sample sources located at `yeomanConfig.samples` -- which by default is the sources directory inside CMEP-site, say `grunt clearance:-1`. All negative clearance levels cause the samples site to be used.
+1. To switch to using the sample sources located at `yeomanConfig.samples` -- which by default is the sources directory inside CMEP-site, say `grunt clearance:-1`. All negative clearance levels cause the sample sources to be used.
 
 
 1. To check at any time which sources are currently configured, use `grunt clearance`.
