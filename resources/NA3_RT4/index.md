@@ -6,7 +6,7 @@ keywords:
   - highest common factor
 resourceType: RT4
 highlight: true
-stids:
+stids1:
   - NA3
 stids2:
 pvids1:

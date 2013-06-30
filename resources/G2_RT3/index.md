@@ -6,7 +6,7 @@ keywords:
   - equation
   - Pythagoras
 resourceType: RT3
-highlight: true
+highlight: false
 stids1:
   - G2
 stids2:
