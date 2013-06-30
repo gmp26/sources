@@ -1,7 +1,9 @@
 ````
 layout: resource
 clearance: 0
-keywords: Euclid's algorithm, highest common factor
+keywords:
+  - Euclid's algorithm
+  - highest common factor
 resourceType: RT4
 highlight: true
 stids:

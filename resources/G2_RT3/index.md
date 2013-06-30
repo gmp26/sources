@@ -1,7 +1,10 @@
 ````
 layout: resource
 clearance: 0
-keywords: 
+keywords:
+  - circle
+  - equation
+  - Pythagoras
 resourceType: RT3
 highlight: true
 stids1:
