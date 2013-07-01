@@ -5,7 +5,8 @@ keywords:
   - Euclid's algorithm
   - highest common factor
 resourceType: RT1
-highlight: true
+highlight: 
+  - NA3
 stids1:
   - NA3
 stids2:
