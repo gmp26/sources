@@ -24,11 +24,13 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 	Experiment with a few examples, and then consider the questions that follow.
 </div>
 
-INTERACTIVITY FROM JASON AND PSUM (WITH FULL SCREEN OPTION AND A LARGE ENOUGH FONT SIZE THAT THE NUMBERS ARE VISIBLE WHEN THE FULL SCREEN VERSION IS DISPLAYED ON A DATA PROJECTOR)
+[INTERACTIVITY](http://nrich.maths.org/psum/picture-this/) FROM JASON AND PSUM (WITH FULL SCREEN OPTION AND A LARGE ENOUGH FONT SIZE THAT THE NUMBERS ARE VISIBLE WHEN THE FULL SCREEN VERSION IS DISPLAYED ON A DATA PROJECTOR)
 
 <div class="well">
-	* Given two positive integers, can you draw the corresponding diagram?
-	* Given a diagram, can you determine the corresponding pair of positive integers?
+	<ul>
+		<li>Given two positive integers, can you draw the corresponding diagram?</li>
+		<li>Given a diagram, can you determine the corresponding pair of positive integers?</li>
+	</ul>
 </div>
 
 You should now have a good understanding of the relationship between the diagram and the pair of positive integers.  There are many questions that you might now ask yourself.
@@ -65,7 +67,7 @@ Then you can look at our list of questions below.
 
 <div id="question3" class="collapse">
 	<p>
-		How can we record the information from the diagram in the form of questions?
+		How can we record the information from the diagram in the form of equations?
 
 		When might the diagram be more convenient?  When might the equations be more convenient?
 	</p>
