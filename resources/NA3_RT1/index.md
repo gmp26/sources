@@ -27,8 +27,8 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 INTERACTIVITY FROM JASON AND PSUM (WITH FULL SCREEN OPTION AND A LARGE ENOUGH FONT SIZE THAT THE NUMBERS ARE VISIBLE WHEN THE FULL SCREEN VERSION IS DISPLAYED ON A DATA PROJECTOR)
 
 <div class="well">
-	* Given two positive integers, can you draw the corresponding diagram?
-	* Given a diagram, can you determine the corresponding pair of positive integers?
+* Given two positive integers, can you draw the corresponding diagram?
+* Given a diagram, can you determine the corresponding pair of positive integers?
 </div>
 
 You should now have a good understanding of the relationship between the diagram and the pair of positive integers.  There are many questions that you might now ask yourself.
@@ -44,9 +44,7 @@ Then you can look at our list of questions below.
 </button>
 
 <div id="question1" class="collapse">
-	<p>
-		What is the relationship between the side length of the smallest square and the pair of positive integers?
-	</p>
+What is the relationship between the side length of the smallest square and the pair of positive integers?
 </div>
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question2">
@@ -54,9 +52,7 @@ Then you can look at our list of questions below.
 </button>
 
 <div id="question2" class="collapse">
-	<p>
 		How many steps (different colours) can we have?  Which pairs of integers give many steps and which give few?
-	</p>
 </div>
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question3">
