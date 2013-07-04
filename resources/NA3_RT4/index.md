@@ -44,9 +44,9 @@ $$\begin{eqnarray*}
 49 & = & 1 \times 35 + 14 \\
 35 & = & 2 \times 14 + 7 \\
 14 & = & 2 \times 7
-\end{eqnarray*}
+\end{eqnarray*}$$
 
-We stop there because the remainder is 0.
+We stop there because the remainder in the final equation is 0.
 
 <div class="well">
 	Here's a handy tip.  I've written numbers that do the same job in the same column.  For example, the quotients are all just before the $\times$ sign, and the remainders are all at the end.  There's a lot of flexibility about the order in which we write the components of these equations, but it's a lot easier to keep track of which numbers are doing which jobs if you keep them in the same place each time.
