@@ -49,7 +49,7 @@ $$\begin{eqnarray*}
 We stop there because the remainder in the final equation is 0.
 
 <div class="well">
-	Here's a handy tip.  I've written numbers that do the same job in the same column.  For example, the quotients are all just before the $\times$ sign, and the remainders are all at the end.  There's a lot of flexibility about the order in which we write the components of these equations, but it's a lot easier to keep track of which numbers are doing which jobs if you keep them in the same place each time.
+Here's a handy tip.  I've written numbers that do the same job in the same column.  For example, the quotients are all just before the $\times$ sign, and the remainders are all at the end.  There's a lot of flexibility about the order in which we write the components of these equations, but it's a lot easier to keep track of which numbers are doing which jobs if you keep them in the same place each time.
 </div>
 
 What can we deduce from these equations?
@@ -85,17 +85,17 @@ I'D QUITE LIKE A STYLISH SQUIGGLY HORIZONTAL LINE OF SOME SORT HERE TO SEPARATE 
 We do not have to write out all of that explanation every time we use Euclid's algorithm.  But it's important that you're able to explain why the algorithm finds the highest common factor.
 
 <div class="well">
-	Pick your own pair of positive integers, and run Euclid's algorithm on them.  Now explain to a friend why your equations have found the highest common factor for you.
+Pick your own pair of positive integers, and run Euclid's algorithm on them.  Now explain to a friend why your equations have found the highest common factor for you.
 </div>
 
 Here are some follow-up questions to help you develop your understanding of Euclid's algorithm.
 
 <div class="well">
-	1.  Find a pair of integers that have highest common factor 12 and where it takes exactly four steps of Euclid's algorithm to find that highest common factor.
+1.  Find a pair of integers that have highest common factor 12 and where it takes exactly four steps of Euclid's algorithm to find that highest common factor.
 
-	Can you still do this if you change the highest common factor and/or the number of steps?
+    Can you still do this if you change the highest common factor and/or the number of steps?
 
-	2.  Find a pair of four-digit numbers for which it takes very few steps for Euclid's algorithm to find their highest common factor.
+2.  Find a pair of four-digit numbers for which it takes very few steps for Euclid's algorithm to find their highest common factor.
 
-	3.  Find a pair of four-digit numbers for which it takes many steps for Euclid's algorithm to find their highest common factor.
+3.  Find a pair of four-digit numbers for which it takes many steps for Euclid's algorithm to find their highest common factor.
 </div>

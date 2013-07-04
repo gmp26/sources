@@ -21,7 +21,7 @@ pvids2:
 In this interactivity, you can specify two positive integers (whole numbers) and the computer will draw a corresponding diagram.
 
 <div class="well">
-	Experiment with a few examples, and then consider the questions that follow.
+Experiment with a few examples, and then consider the questions that follow.
 </div>
 
 [INTERACTIVITY](http://nrich.maths.org/psum/picture-this/) FROM JASON AND PSUM (WITH FULL SCREEN OPTION AND A LARGE ENOUGH FONT SIZE THAT THE NUMBERS ARE VISIBLE WHEN THE FULL SCREEN VERSION IS DISPLAYED ON A DATA PROJECTOR)
@@ -52,7 +52,7 @@ Question 2
 </button>
 
 <div id="question2" class="collapse">
-		How many steps (different colours) can we have?  Which pairs of integers give many steps and which give few?
+How many steps (different colours) can we have?  Which pairs of integers give many steps and which give few?
 </div>
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question3">

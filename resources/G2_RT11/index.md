@@ -16,4 +16,4 @@ pvids2:
 
 ````
 
-[NRICH RESOURCE](http://nrich.maths.org/5725) adapted to have further levels that allow collection of diamonds lying on circles, and perhaps mixed lines/circles.
+[NRICH RESOURCE](http://nrich.maths.org/5725) adapted to have further levels that allow users to collect diamonds lying on circles, and perhaps mixed lines/circles.

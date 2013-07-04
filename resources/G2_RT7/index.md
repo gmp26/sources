@@ -18,27 +18,27 @@ pvids2:
 
     What are the equations of the following circles?
 
-	- Centre $(a+1,b)$, radius $r$.
-	- Centre $(a-1,b)$, radius $r$.
-	- Centre $(a,b+1)$, radius $r$.
-	- Centre $(a,b-1)$, radius $r$.
-	- Centre $(-a,b)$, radius $r$.
-	- Centre $(b,a)$, radius $r$.
-	- Centre $(a-b,0)$, radius $r$.
-	- Centre $(2a,b)$, radius $r$.
-	- Centre $(a,b)$, radius $2r$.
-	- Centre $(a,b)$, radius $\frac{1}{3}r$.
-	- Centre $(a,b)$, radius $r+1$.
+    - Centre $(a+1,b)$, radius $r$.
+    - Centre $(a-1,b)$, radius $r$.
+    - Centre $(a,b+1)$, radius $r$.
+    - Centre $(a,b-1)$, radius $r$.
+    - Centre $(-a,b)$, radius $r$.
+    - Centre $(b,a)$, radius $r$.
+    - Centre $(a-b,0)$, radius $r$.
+    - Centre $(2a,b)$, radius $r$.
+    - Centre $(a,b)$, radius $2r$.
+    - Centre $(a,b)$, radius $\frac{1}{3}r$.
+    - Centre $(a,b)$, radius $r+1$.
 
 2. Which of the following are equations of circles?  For each that is, specify the centre and radius of the circle.  For each that isn't, can you say what shape the equation describes?
-	- $(x - \pi)^2 + (y + 2)^2 = 3$
-	- $(x + 1)^2 + (y - 4)^2 = -1$
-	- $x^2 + 2x + y = 2$
-	- $x^2 + y^2 = 4$
-	- $(x - 1)^2 + y^2 = 4$
-	- $(x - 1)^2 - y^2 = 4$
-	- $x^2 + y^2 - 3x - y = -1.5$
-	- $x^2 + y^2 + 3x + y = -1.5$
+    - $(x - \pi)^2 + (y + 2)^2 = 3$
+    - $(x + 1)^2 + (y - 4)^2 = -1$
+    - $x^2 + 2x + y = 2$
+    - $x^2 + y^2 = 4$
+    - $(x - 1)^2 + y^2 = 4$
+    - $(x - 1)^2 - y^2 = 4$
+    - $x^2 + y^2 - 3x - y = -1.5$
+    - $x^2 + y^2 + 3x + y = -1.5$
 
 3. Find the equation of the circle of which the line segment from $(-5, 2)$ to $(3, -1)$ is a diameter.
 
