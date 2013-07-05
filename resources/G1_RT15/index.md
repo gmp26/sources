@@ -19,3 +19,7 @@ pvids2:
 
 ````
 [NRICH RESOURCE](http://nrich.maths.org/6352)
+
+<div class="row-fluid">
+<iframe src="http://nrich.maths.org/6352?mobile=1" class="span12 nrich-embed"></iframe>
+</div>
