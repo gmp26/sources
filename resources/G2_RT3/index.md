@@ -1,4 +1,5 @@
 ````
+tab: Problem
 layout: resource
 clearance: 0
 keywords:
@@ -6,10 +7,8 @@ keywords:
   - equation
   - Pythagoras
 resourceType: RT3
-highlight: 
-  - G2
 stids1:
-  - G2
+  - G2*
 stids2:
 pvids1: 
 pvids2: 

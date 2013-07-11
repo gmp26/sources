@@ -5,7 +5,6 @@ title: Negatively Triangular
 author: NRICH
 keywords:
 resourceType: RT6
-highlight: false
 stids1:
   - G2
   - E2

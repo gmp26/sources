@@ -6,7 +6,6 @@ clearance: 0
 keywords:
   - least common multiple
 resourceType: RT12
-highlight: false
 stids1:
   - NA3
 stids2:

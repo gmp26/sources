@@ -8,7 +8,6 @@ keywords:
   - perpendicular
 author: NRICH
 resourceType: RT2
-highlight: false
 stids1:
   - G2
 stids2:

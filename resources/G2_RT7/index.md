@@ -1,11 +1,11 @@
 ````
+tab: Problem
 layout: resource
 clearance: 0
 keywords:
   - circle
   - equation
 resourceType: RT7
-highlight: false
 stids1:
   - G2
 stids2:

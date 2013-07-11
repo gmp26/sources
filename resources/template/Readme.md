@@ -19,14 +19,13 @@ to address the resource on the web so avoid characters that require special trea
 
 - Place any other asset files in the resource folder. Link to them from the main text using _relative_ links - i.e. by filename only, and not by pathname or full URI.
 
-Multi-page resources
+Multi-part resources
 --------------------
+These are common for resources that have problem, solution, or teacher support component. 
 
-We expect most resources to be published as a single _possibly quite long_ page rather to be than split arbitrarily into a multi-page form. Scrolling works well with all device formats.
+All parts are in fact rendered into the same index.html page under separate tabs. You must provide a tab name `tab` in the metadata and also a tab `weight`. Tabs are ordered in ascending weight order.
 
-If a resource naturally splits into more than one page, then second and subsequent pages may be created within the resource directory. Choose identifer names with .md or .tex suffix as appropriate.
-
-The index page should then live up to its name and provide relative links to these other pages.
+Non-markdown assets (such as images, pdfs, videos etc. must be explicitly linked in to the resource.)
 
 URL for publication
 -------------------

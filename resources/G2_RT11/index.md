@@ -7,7 +7,6 @@ keywords:
   - equation of line
   - equation of circle
 resourceType: RT11
-highlight: false
 stids1:
   - G2
 stids2:

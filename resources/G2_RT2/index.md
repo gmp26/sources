@@ -1,11 +1,11 @@
 ````
+tab: Problem
 layout: resource
 clearance: 0
 keywords:
   - straight line
   - equation
 resourceType: RT2
-highlight: false
 stids1:
   - G2
 stids2:

@@ -9,7 +9,6 @@ keywords:
   - non-Euclidean geometry
   - projective geometry
 resourceType: RT15
-highlight: false
 stids1:
   - G1
 stids2:
