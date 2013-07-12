@@ -1,5 +1,5 @@
 ````
-tab: name of this tab in a multipart resource. Optional if single part resource.
+alias: name of this tab in a multipart resource. Optional if single part resource.
 weight: weight of this tab. Heavier tabs appear later. Optional if single part resource.
 id: (optional = can omit if same as filename and url)
 title: (optional) but may be identified by resource type

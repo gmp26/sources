@@ -1,5 +1,5 @@
 ````
-tab: Problem
+alias: Problem
 layout: resource
 clearance: 0
 keywords:
