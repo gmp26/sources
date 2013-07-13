@@ -13,5 +13,6 @@ pvids1:
 pvids2:
 
 ````
-
-[NRICH RESOURCE](http://nrich.maths.org/6311)
+<div class="row-fluid">
+<iframe src="http://nrich.maths.org/6311?mobile=1" class="span12 nrich-embed"></iframe>
+</div>

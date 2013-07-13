@@ -11,6 +11,8 @@ stids1:
 stids2:
 pvids1:
 pvids2:
+priors:
+  - G2_RT3
 
 ````
 

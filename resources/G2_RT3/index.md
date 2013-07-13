@@ -65,4 +65,3 @@ Expand out the brackets and experiment with different ways of writing this equat
 
 Pick a radius and a centre, and find the equation of the corresponding circle, with an explanation.  Repeat until you feel confident.</div>
 
-[<span class="icon-folder-open"></span> more here](../G2_RT7/index.html)
