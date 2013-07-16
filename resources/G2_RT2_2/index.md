@@ -25,7 +25,7 @@ Move the dots until the lines are parallel.  What do you notice about the equati
 Experiment with the lines in several positions.  What can you say about the equations of parallel lines?
 
 <div class="row-fluid">
-<iframe src="http://nrich.maths.org/content/id/5609/lines2.swf" class="span12 nrich-embed"></iframe>
+<iframe src="http://nrich.maths.org/content/id/5609/lines2.swf" class="nrich-embed" style="width:400px;height:400px"></iframe>
 </div>
 
 Can you _explain_ your findings?
