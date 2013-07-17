@@ -22,7 +22,11 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 Experiment with a few examples, and then consider the questions that follow.
 </div>
 
-[INTERACTIVITY](http://nrich.maths.org/psum/picture-this/) FROM JASON AND PSUM (WITH FULL SCREEN OPTION AND A LARGE ENOUGH FONT SIZE THAT THE NUMBERS ARE VISIBLE WHEN THE FULL SCREEN VERSION IS DISPLAYED ON A DATA PROJECTOR)
+<div class="row-fluid">
+<iframe src="http://nrich.maths.org/psum/picture-this/full/?mobile=1" class="nrich-embed" style="width:700px;height:550px"></iframe>
+</div>
+
+_This will be tweaked to have a full screen version (in such a way that the numbers are still visible when displayed full screen).  We might also lose the option of a non-spiral version._
 
 <div class="well">
 * Given two positive integers, can you draw the corresponding diagram?

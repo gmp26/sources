@@ -17,6 +17,8 @@ pvids2:
 
 ````
 
+## Cartesian coordinates
+
 How do you remember the spot on a desert island where you have buried a treasure? You pick a landmark, say a palm tree, and measure how many steps North/South and how many steps East/West you have to go from that landmark to get to the treasure. It’s a simple idea but, surprisingly, mathematicians took centuries to develop its full potential in their own field. When they finally did, it revolutionised mathematics by bringing together two areas that on the face of it have little to do with each other: algebra and geometry.
 
 When we start learning geometry we usually think of simple shapes like lines, triangles and circles in the two-dimensional plane. You can construct these and more complicated shapes using a ruler, compasses and protractor. The ancient Greeks were masters at this type of geometry: using just compasses and a straight-edge (an unmarked ruler) they were able to construct a range of shapes and they could even prove mathematical results, such as Pythagoras’ theorem, using these simple tools.
