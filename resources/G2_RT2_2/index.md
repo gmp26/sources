@@ -6,7 +6,7 @@ keywords:
   - line
   - parallel
   - perpendicular
-author: NRICH
+source: NRICH
 resourceType: RT2
 stids1:
   - G2

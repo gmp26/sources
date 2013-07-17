@@ -1,5 +1,5 @@
 ````
-source: sourceId
+source: sourceId (choose from CamAss, NRICH, UKMT)
 layout: resource
 clearance: 0
 keywords: Welsh
@@ -10,8 +10,8 @@ stids1:
   - A1
   - G2
 stids2:
-pideas1:
-pideas2:
+pvids1:
+pvids2:
 ````
 
 Text of the Question

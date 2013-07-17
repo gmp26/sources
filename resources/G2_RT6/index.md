@@ -2,7 +2,7 @@
 layout: resource
 clearance: 0
 title: Negatively Triangular
-author: NRICH
+source: NRICH
 keywords:
 resourceType: RT6
 stids1:

@@ -1,7 +1,7 @@
 ````
 title: Diamond collector
 layout: resource
-author: NRICH
+source: NRICH
 clearance: 0
 keywords:
   - equation of line

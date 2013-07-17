@@ -1,7 +1,7 @@
 ````
 title: LCM sudoku
 layout: resource
-author: NRICH (Henry Kwok)
+source: NRICH (Henry Kwok)
 clearance: 0
 keywords:
   - least common multiple
