@@ -78,7 +78,8 @@ And so on, all the way down to the penultimate (last but one) equation, which we
 
 So if $d$ is any common factor of 122381 and 35889, then it divides 7, and also 7 is a common factor of 122381 and 35889.  But that means precisely that 7 is the _highest common factor_ of 122381 and 35889.
 
-<hr />
+* * *
+
 We do not have to write out all of that explanation every time we use Euclid's algorithm.  But it's important that you're able to explain why the algorithm finds the highest common factor.
 
 <div class="well">
