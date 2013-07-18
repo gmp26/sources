@@ -54,6 +54,11 @@ What can we deduce from these equations?
 
 The last non-zero remainder is 7, so we'd like to show that the highest common factor of 122381 and 35889 is 7.  (You might have been able to predict this if you'd made a suitable conjecture following your work on NA3_RT1 (I NEED TO FIND THE SYNTAX FOR GIVING A LINK TO ANOTHER RESOURCE).)
 
+To show that 7 is the highest common factor of these two numbers, we need to show two things:
+* that 7 really is a common factor of them (it divides both numbers);
+* and that it's the highest such number (any common factor 122381 and 35889 is at most 7).
+We'll show these things in order.
+
 Let's first start at the bottom and then work up.
 
 The last equation, $14 = 2 \times 7$, tells us that 7 divides 14.
@@ -78,7 +83,7 @@ And so on, all the way down to the penultimate (last but one) equation, which we
 
 So if $d$ is any common factor of 122381 and 35889, then it divides 7, and also 7 is a common factor of 122381 and 35889.  But that means precisely that 7 is the _highest common factor_ of 122381 and 35889.
 
-I'D QUITE LIKE A STYLISH SQUIGGLY HORIZONTAL LINE OF SOME SORT HERE TO SEPARATE IT SLIGHTLY FROM WHAT FOLLOWS.
+* * *
 
 We do not have to write out all of that explanation every time we use Euclid's algorithm.  But it's important that you're able to explain why the algorithm finds the highest common factor.
 
