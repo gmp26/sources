@@ -55,14 +55,9 @@ What can we deduce from these equations?
 The last non-zero remainder is 7, so we'd like to show that the highest common factor of 122381 and 35889 is 7.  (You might have been able to predict this if you'd made a suitable conjecture following your work on NA3_RT1 (I NEED TO FIND THE SYNTAX FOR GIVING A LINK TO ANOTHER RESOURCE).)
 
 To show that 7 is the highest common factor of these two numbers, we need to show two things:
-
 * that 7 really is a common factor of them (it divides both numbers);
-
-* and that it's the highest such number (any common factor of 122381 and 35889 is at most 7).
-
+* and that it's the highest such number (any common factor 122381 and 35889 is at most 7).
 We'll show these things in order.
-
-##### 7 is a common factor of 122381 and 35889
 
 Let's first start at the bottom and then work up.
 
@@ -76,8 +71,6 @@ And so on, all the way up to the first equation, $122381 = 3 \times 35889 + 1471
 
 That's a good start.  (You might reasonably think that it would be a lot easier just to check directly that 7 divides both numbers, but the advantage of what we've just done is that we can generalise it to _any_ pair of starting numbers and still know that the last non-zero remainder divides both starting numbers.)
 
-##### Any common factor of 122381 and 35889 is at most 7
-
 Now let's suppose that we have any old common factor of 122381 and 35889.  Let's call it $d$.  (It's much easier to talk about something if we've given it a name, and $d$ is a good name for a divisor.)
 
 Then the top equation, which we can rewrite as $14714 = 122381 - 3 \times 35889$, tells us that $d$ divides 14714 (because it divides both 122381 and 35889).
@@ -90,8 +83,12 @@ And so on, all the way down to the penultimate (last but one) equation, which we
 
 So if $d$ is any common factor of 122381 and 35889, then it divides 7, and also 7 is a common factor of 122381 and 35889.  But that means precisely that 7 is the _highest common factor_ of 122381 and 35889.
 
+<<<<<<< HEAD
 * * *
 
+=======
+<hr />
+>>>>>>> aa2d468d3cf44a0e5c1c24f3ab8b8293474ee70e
 We do not have to write out all of that explanation every time we use Euclid's algorithm.  But it's important that you're able to explain why the algorithm finds the highest common factor.
 
 <div class="well">
