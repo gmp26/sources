@@ -13,6 +13,7 @@ stids1: primary list of stations ids as yaml list. Add a star to highlight.
 stids2: secondary list of station ids as yaml list
 pvids1: primary list of pervasive idea ids as yaml list. Add a star to highlight.
 pvids2: secondary list of pervasive ideas ids as yaml list
+priors: links back to previous resources (laters get generated)
 
 ````
 
