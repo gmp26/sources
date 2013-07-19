@@ -10,4 +10,4 @@ dependencies:
 
 1. In how many ways can we describe a conic, and what are the relationships between these ways?
 
-1. How are conics related to planetary motion?
+1. Why are conics important and useful?
