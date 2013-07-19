@@ -15,6 +15,5 @@ pvids2:
 
 ````
 
-Prove that the line $y=mx+c$ will touch the circle $x^2+y^2=25$ if $c^2=25(1+m^2)$.
-
+Prove that the line $y=mx+c$ will touch the circle $x^2+y^2=25$ if $c^2=25(1+m^2).$
 Hence or otherwise find the equations of the two tangents to this circle from the point $(2,11)$.

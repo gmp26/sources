@@ -48,4 +48,4 @@ priors:
 
 4. If we specify two (distinct) points, is there necessarily a unique circle that passes through them?  What if we specify three (distinct) points?  Or four?  Or...?
 
-    Pick examples of a suitable number of points.  Can you find the equation of the unique circle that passes through them? 
+    Pick examples of a suitable number of points.  Can you find the equation of the unique circle that passes through them?  How many ways can you find to do this?
