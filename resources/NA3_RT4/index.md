@@ -52,7 +52,7 @@ Here's a handy tip.  I've written numbers that do the same job in the same colum
 
 What can we deduce from these equations?
 
-The last non-zero remainder is 7, so we'd like to show that the highest common factor of 122381 and 35889 is 7.  (You might have been able to predict this if you'd made a suitable conjecture following your work on NA3_RT1 (I NEED TO FIND THE SYNTAX FOR GIVING A LINK TO ANOTHER RESOURCE).)
+The last non-zero remainder is 7, so we'd like to show that the highest common factor of 122381 and 35889 is 7.  (You might have been able to predict this if you'd made a suitable conjecture following your work on [the introductory investigation at this station](../NA3_RT1/index.html).
 
 To show that 7 is the highest common factor of these two numbers, we need to show two things:
 

@@ -15,6 +15,6 @@ pvids2:
 
 ````
 
-Find the equation of the circle through the points $A$  $(2,0), $B$  $(8,0)$, and $C$  $(10,4)$, and prove that it touches the $y$-axis. 
+Find the equation of the circle through the points $A$  $(2,0)$, $B$  $(8,0)$, and $C$  $(10,4)$, and prove that it touches the $y$-axis. 
 
 Without the use of tables [or calculators] or measurement, find the equation of the the other tangent to this circle from the origin.

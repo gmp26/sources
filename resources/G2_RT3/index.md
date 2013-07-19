@@ -25,10 +25,6 @@ Now we're going to try to express this set of points as a set of solutions to an
 
 When is the point $(x,y)$ at distance 3 from $(-1,2)$?
 
-<div class="chalk span4 pull-right">
-  right chalky note
-</div>
-
 Here's a useful picture.
 
 <!-- ADD PICTURE OF AXES WITH THESE TWO POINTS MARKED AND A LINE SHOWING THE DISTANCE BETWEEN THEM -->
