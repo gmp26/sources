@@ -10,29 +10,29 @@ Now consider the first 3 points $(3,0)$, $(0,4)$, $(4,2)$.
 
 For the point $(3,0)$ to lie on this circle, we must have
 
-$$(3-a)^2 + b^2 = r^2. \qquad (1)$$
+$$(3-a)^2 + b^2 = r^2.$$
 
 And similarly, for the points $(0,4)$ and $(4,2)$ to lie on this circle, we must have  
-$$a^2 + (4-b)^2 = r^2 \qquad (2)$$  
+$$a^2 + (4-b)^2 = r^2$$  
 and  
-$$(3-a)^2 + (4-b)^2 = r^2. \qquad (3)$$  
+$$(3-a)^2 + (4-b)^2 = r^2.$$  
 
 Now solve these equations for $a$, $b$ and $r$:
 
-Taking equation (1) from equation (3) gives  
+Taking the first equation from the third gives  
 $$(4-b)^2 - b^2 = 0$$
 $$\Rightarrow b = 2.$$  
 
-Taking equation (2) from equation (3) gives  
+Taking the second equation from the third gives  
 $$(3-a)^2 - a^2 = 0$$
 $$\Rightarrow a = \frac{3}{2}.$$
 
-Now setting $a = \frac{3}{2}$ and $b = 2$ in equation (1) gives
+Now setting $a = \frac{3}{2}$ and $b = 2$ in the first equation gives
 $$\left(3-\frac{3}{2}\right)^2 + (2)^2 = r^2$$ 
 $$\Rightarrow r^2 = \frac{25}{4}$$
 $$\Rightarrow r = \frac{5}{2}$$  
 
-<div class="chalk pull-right">
+<div class="chalk span4 pull-right">
 Usually $r^2 = \frac{25}{4} \Rightarrow r = \pm \frac{5}{2}$, but as a radius must always have positive length, we know that we must take the positive square root.
 </div>
 

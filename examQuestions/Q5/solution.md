@@ -6,11 +6,11 @@ For the circles to touch, we must show that they intersect at only one point.
 </div>
 
 We have the equations of the two circles:  
-$$x^2 + y^2 = 25 \qquad (1)$$  
+$$x^2 + y^2 = 25$$  
 and  
-$$x^2 + y^2 - 24x - 18y + 125 = 0. \qquad (2)$$  
+$$x^2 + y^2 - 24x - 18y + 125 = 0.$$  
 
-Substituting equation (1) into equation (2) gives  
+Substituting the first equation into the second gives  
 $$25 - 24x - 18y + 125 = 0$$ 
 $$\Rightarrow 24x + 18y = 150$$
 $$\Rightarrow 4x + 3y = 25.$$  

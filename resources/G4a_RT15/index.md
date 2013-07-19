@@ -22,17 +22,16 @@ pvids2:
 
 Euclid and Archimedes are just two of the Greek mathematicians to have studied _conic sections_---the shapes created by slicing through a double cone with a flat plane. If the plane is perpendicular to the axis of the double cone, the intersection is a circle, and if the plane is angled parallel to the side of the cone the intersection is a parabola. If the plane cuts through both cones the intersection is a hyperbola. The only remaining case gives an ellipse.
 
-![Conic Sections](picture1.png)  
-_The conic sections_
+![The conic sections.  The circle is a special type of ellipse.](picture1.png)  
 
+_Image from NRICH.  Need permission or need to replace picture._
 
 
 As well as having a description in terms of slicing through a cone, these shapes also have a description in terms of _loci_ (locations) of points: a circle is the locus of points the same distance from the centre (the focus of the circle); an ellipse is the locus of points whose distance from two foci sums to a constant $c$ ($x+y = c$ in the image below); a hyperbola is the locus of points with the same difference $c$ of distances from two foci ($|x-y| = c$); and a parabola is the locus of points equidistant from a focus and a straight line called the directrix ($x=y$).
 
-![The conic sections as loci](picture2.png)  
-_The conic sections as loci_
+![The conic sections as loci](picture2.png)
 
-
+_Image from NRICH.  Need permission or need to replace image._
 
 Skip forward a couple of millennia and the mathematical properties of the conic sections have a very modern application. Suppose that you are lost in the jungle, but that luckily you are equipped with a device that can transmit and receive information, a clock, and a map. Your device picks up a signal from my device, which tells you my exact location and the exact time I sent my signal. 
 
@@ -124,7 +123,7 @@ Answer
 </button>
 
 <div id="answer7" class="collapse">
-As with circles, ellipses generally meet in two points. So we would need one more ellipse, that is, one more person. Only two transmissions are needed, mine and yours.
+As with circles, ellipses generally meet in two points. So we would need two more ellipses, that is, two more people. Only two transmissions are needed, mine and yours.
 </div>
 </div>
 
@@ -165,7 +164,7 @@ Answer
 </button>
 
 <div id="answer10" class="collapse">
-As for circles and ellipses, hyperbolae generally meet in two points. So we would need one more hyperbola, that is, one more person.
+As for circles and ellipses, hyperbolae generally meet in two points. So we would need two more hyperbolae, that is, two more people.
 </div>
 </div>
 
