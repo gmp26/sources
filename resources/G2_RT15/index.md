@@ -6,10 +6,18 @@ keywords:
   - Descartes
   - coordinates
   - algebraic geometry
+  - Cartesian coordinates
+  - line
+  - circle
+  - intersection
+  - parabola
+  - quadratic
 resourceType: RT15
 stids1:
   - G2
+  - E2
 stids2:
+  - G4a
 pvids1:
 pvids2:
   - PI1

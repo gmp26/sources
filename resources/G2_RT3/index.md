@@ -8,7 +8,8 @@ keywords:
   - Pythagoras
 resourceType: RT3
 stids1:
-  - G2*
+  - G2
+  - E2
 stids2:
 pvids1: 
 pvids2: 

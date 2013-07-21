@@ -8,6 +8,8 @@ keywords:
   - hyperbola
   - circle
   - parabola
+  - cone
+  - GPS
 resourceType: RT15
 stids1:
   - G4a

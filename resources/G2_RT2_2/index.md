@@ -6,10 +6,13 @@ keywords:
   - line
   - parallel
   - perpendicular
+  - intersection
+  - equation
 source: NRICH
 resourceType: RT2
 stids1:
   - G2
+  - E2
 stids2:
 pvids1:
 pvids2:
@@ -58,4 +61,4 @@ Can you find two lines that intersect at infinitely many points?
 
 * * *
 
-How many points of intersection might there be amongst three lines?  Or even more lines?
+How many points of intersection might there be amongst three lines?  What if there are even more lines?
