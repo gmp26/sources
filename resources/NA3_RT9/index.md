@@ -13,6 +13,9 @@ pvids1:
 pvids2:
   - PI3
   - PI4
+priors:
+  - NA3_RT1
+  - NA3_RT4
 
 ````
 

@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 0
+clearance: 1
 keywords:
   - Euclid's algorithm
   - highest common factor

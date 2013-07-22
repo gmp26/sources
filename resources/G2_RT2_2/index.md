@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 0
+clearance: 1
 title: Parallel and Perpendicular Lines
 keywords:
   - line
@@ -31,7 +31,7 @@ Experiment with the lines in several positions.  What can you say about the equa
 <iframe src="http://nrich.maths.org/content/id/5609/lines2.swf" class="nrich-embed" style="width:400px;height:400px"></iframe>
 </div>
 
-Can you _explain_ your findings?
+Can you __explain__ your findings?
 
 * * *
 
@@ -39,7 +39,7 @@ You can now use the interactivity to explore equations of perpendicular lines.  
 
 Experiment with the lines in several positions.  What can you say about the equations of perpendicular lines?
 
-Can you _explain_ your findings?
+Can you __explain__ your findings?
 
 * * *
 
