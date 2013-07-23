@@ -2,45 +2,58 @@
 alias: Solution
 ````
 
-The result for $p$ can be found by calculating the equation of the line $SV$:
-
-If the general equation of the line $SV$ is $y = ax + c$, then at the points $(s,ms)$ and $(v,nv)$ we have
-
-$ms = as + c$ and $nv = av + c$
-
-$\Rightarrow ms - nv = a(s - v)$
-
-$\Rightarrow a = \frac{ms - nv}{s - v}$
-
-$\Rightarrow y = \frac{ms - nv}{s - v}x + c$
-
-$\Rightarrow ms = \frac{ms - nv}{s - v}s + c$
-
-$\Rightarrow c = ms - \frac{ms - nv}{s - v}s$
-
-$\Rightarrow y - ms = \frac{ms - nv}{s - v}(x - s)$
-
-$\Rightarrow - ms = \frac{ms - nv}{s - v}(p - s)$.
-
-Then rearranging gives the required result for $p$, and relabelling $p \rightarrow q$, $s \rightarrow u$ and $v \rightarrow t$ gives the equivalent result for q:
-$$q = \frac{(m - n)ut}{mt - nu}.$$
-
-As $S$ and $T$ lie on the circle, $s$ and $t$ are solutions of the equation
-$$\lambda^2 + (m\lambda - c)^2 = r^2$$
-$$\Rightarrow (1 + m^2)\lambda^2 - 2mc\lambda + (c^2 - r^2) = 0.$$
-$$\Rightarrow \lambda^2 - \frac{2mc}{1 + m^2}\lambda + \frac{c^2 - r^2}{1 + m^2} = 0$$
-
-Then considering the sum and the product of the roots, we have that
-$st = \frac{c^2 - r^2}{1 + m^2}$, and $s + t = \frac{2mc}{1 + m^2}$.
-
-<div class="chalk pull-right">
-Here we use that a quadratic $ax^2 + bx + c = 0$ with roots $p$ and $q$ can be written as $0 = (x - p)(x - q) = x^2 -(p + q)x + pq$, so $pq = c$ and $p + q = -b$.
+If the equation of the line $AB$ is $y = mx + c$, then at the point $(0,b)$ we have $b = c$. So $$y = mx + b.$$ Then at $(a,0)$ we have $$0 = ma + b,$$ so $$m = \frac{-b}{a}.$$
+<div class="chalk span4 pull-right">
+Another way of obtaining this would be to think about the gradient of the line
+(which is what $m$ represents) as "the change in $y$ over the change in $x$".
+So we have
+$$m = \frac{0-b}{a-0} = \frac{-b}{a}.$$
 </div>
+So the equation of the line AB is $$y = \frac{-b}{a}x + b.$$
 
-Similarly, by interchanging letters we have $uv = \frac{c^2 - r^2}{1 + n^2}$ and $u + v = \frac{2nc}{1 + n^2}$.
+This line has gradient $\frac{-b}{a}$, so the line $NP$, which is perpendicular to it, has gradient $\frac{a}{b}$. So $NP$ has equation $$y = \frac{a}{b}x + k$$
+for some suitable $k$.  Now $NP$ passes through $P$, which has coordinates $(s,t)$. So $$t = \frac{as}{b} + k$$
+$$\iff k = \frac{bt - as}{b}$$
+So $NP$ has the equation $$y = \frac{a}{b}x + \frac{bt - as}{b}.$$
 
-Now, using our above values we have
-$$p + q = \frac{(m - n)sv}{ms - nv} + \frac{(m-n)tu}{mt - nu}$$
-$$= \frac{(m - n)}{(ms - nv)(mt - nu)}(stm(u + v) - nuv(s + t)).$$
+Now we know that $AB$ and $NP$ intersect at $N$, so to find the coordinates of $N$ we solve the simultaneous equations
+$$y = \frac{-b}{a}x + b$$
+and
+$$y = \frac{a}{b}x + \frac{bt - as}{b}.$$
 
-Finally, substituting the sum and product results gives the result.
+If we set them equal to each other we have
+$$\frac{-b}{a}x + b = \frac{a}{b}x + \frac{bt - as}{b}$$
+$$\iff b - \frac{bt - as}{b} = (\frac{a}{b} + \frac{b}{a})x$$
+$$\iff b - \frac{bt - as}{b} = \frac{a^2 + b^2}{ab}x$$
+$$\iff ab^2 - a(bt - as) = (a^2 + b^2)x$$
+
+$$\iff x = \frac{ab^2 - a(bt - as)}{a^2 + b^2}.$$
+
+Now we substitute this back into the equation for $AB$ to get the $y$-coordinate:
+$$y = \frac{\frac{-b}{a}(ab^2 - a(bt - as))}{a^2 + b^2} + b$$
+$$= \frac{-b^3 + b(bt - as) +a^2b + b^3}{a^2 + b^2}$$
+$$= \frac{a^2b + b(bt - as)}{a^2 + b^2}$$
+as required.
+
+***
+
+The points $X$ and $Y$ have coordinates $(s,0)$ and $(0,t)$ respectively, so by relabelling of the equation of $AB$ we have that the equation of the line $XY$ is
+$$y = \frac{-t}{s}x + t.$$
+
+For $N$ to lie on this line, we must have
+$$\frac{a^2b + b(bt - as)}{a^2 + b^2} = -\frac{t}{s}\frac{ab^2 - a(bt - as)}{a^2 + b^2} + t$$
+$$\iff a^2bs + bs(bt - as) = - ab^2t + at(bt - as) + st(a^2 + b^2)$$
+$$\iff a^2bs + b^2st -abs^2 + ab^2t -abt^2 + a^2st = st(a^2 + b^2)$$
+$$\iff a^2bs -abs^2 + ab^2t -abt^2 = 0$$
+<div class="chalk span4 pull-right">
+Here we can divide both sides by $a$ and $b$ since they are both positive---no danger of dividing by zero!
+</div>
+$$\Rightarrow as - s^2 + bt - t^2 = 0$$
+$$\iff t^2 - bt = -(s^2 - as)$$
+$$\iff t(t-b) = -s(s - a)$$
+$$\iff \frac{t(t - b)}{s(s - a)} = -1$$
+$$\iff (\frac{t - b}{s})(\frac{t}{s - a}) = -1.$$
+
+***
+
+A geometrical interpretation of this result is that $\frac{t - b}{s}$ and $\frac{t}{s - a}$ are the gradients of $BP$ and $AP$ respectively. So for $N$ to lie on $XY$, $BP$ and $AP$ must be perpendicular.

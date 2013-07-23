@@ -3,9 +3,9 @@ source: CamAss
 layout: resource
 clearance: 0
 keywords: 
-year: 2009
-paper: STEP I
-qno: 1
+year: 2003
+paper: STEP III
+qno: 7
 stids1:
   - G2
 stids2:
@@ -14,11 +14,7 @@ pvids2:
 
 ````
 
-The points $S$, $T$, $U$ and $V$ have coordinates $(s,ms)$, $(t,mt)$, $(u,nu)$ and $(v,nv)$ respectively. The lines $SV$ and $UT$ meet the line $y = 0$ at the points with coordinates $(p,0)$ and $(q,0)$, respectively. Show that
-$$p = \frac{(m - n)sv}{ms - nv},$$
+In the $x-y$ plane, the point $A$ has coordinates $(a,0)$ and the point $B$ has coordinates $(0,b)$, where $a$ and $b$ are positive. The point $P$, which is distinct from $A$ and $B$, has coordinates $(s,t)$. $X$ and $Y$ are the feet of the perpendiculars from $P$ to the $x$-axis and $y$-axis respectively, and $N$ is the foot of the perpendicular from $P$ to the line $AB$. Show that the coordinates $(x,y)$ of $N$ are given by
+$$x = \frac{ab^2 - a(bt - as)}{a^2 + b^2}, \quad y = \frac{a^2b + b(bt - as)}{a^2 + b^2}.$$
 
-and write down a similar expression for $q$.
-
-Given that $S$ and $T$ lie on the circle $x^2 + (y - c)^2 = r^2$, find a quadratic equation satisfied by $s$ and by $t$, and hence determine $st$ and $s + t$ in terms of $m$, $c$ and $r$.
-
-Given that $S$, $T$, $U$ and $V$ lie on the above circle, show that $p + q = 0$.
+Show that, if $$(\frac{t - b}{s})(\frac{t}{s - a}) = -1,$$ then $N$ lies on the line $XY$.
