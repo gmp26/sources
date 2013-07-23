@@ -1,6 +1,7 @@
 ````
 title: Parabella
 layout: resource
+alias: Problem
 source: NRICH
 clearance: 0
 keywords:

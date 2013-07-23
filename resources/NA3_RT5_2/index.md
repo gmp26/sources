@@ -4,7 +4,7 @@ clearance: 0
 keywords:
 resourceType: RT5
 stids1:
-  - NA3
+  - NA3*
 stids2:
 pvids1:
 pvids2:
@@ -16,31 +16,31 @@ priors:
 Here's a game for two players.
 
 <div class="well">
-Player 1: Choose a positive integer that is greater than 1.  Call it $n$.
+Player 1: Choose a positive integer that is greater than $1$.  Call it $n$.
 
-Player 2: Choose two positive integers, say $a$ and $b$, in such a way that $ab$ divides $n$ (that is, $n$ is a multiple of the product $ab$).
+Player 2: Choose two positive integers, say $a$ and $b$, in such a way that the product $ab$ divides $n$ (that is, $n$ is a multiple of $ab$).
 
 If $a$ divides $n$ or $b$ divides $n$, then Player 1 wins.
 
 If neither $a$ nor $b$ divides $n$, then Player 2 wins.
 </div>
 
-1.  Play this game against a partner a few times, to get a feel for the rules.  Can you find a strategy for Player 1?  Can you find a strategy for Player 2?
+1.  Play this game against a partner a few times, to get a feel for the rules.  You might want to swap so that you each experience being Player 1 and Player 2.  Can you find a winning strategy for Player 1?  Can you find a winning strategy for Player 2?
 
-2.  Why does your strategy work?  Are you _sure_ that it works?  There are some hints below that might help you to structure your proof, but do try to come up with your own ideas before you look below.
+2.  Why does your strategy work?  Are you __sure__ that it works?  There are some hints below that might help you to structure your proof, but do try to come up with your own ideas before you look below.
 
     You should be really careful that you use only facts about primes and integers that you can prove for yourself.  Otherwise you run the risk of having a circular argument: you use some fact to prove your conjecture in this question, and then use the result in this question to prove that fact.
 
 <div class="chalk">
-Tip: here's some notation that you might find useful while working on this problem.
+Tip: here's some conventional notation that you might find useful while working on this problem.
 
-If $a$ and $b$ are integers, then we might write $a \mid b$ (that is, $a$ then vertical line then $b$) to mean "$a$ divides $b$".  More formally, that tells us that there is some integer $c$ such that $b = ac$.  If you're reading $a \mid b$ out loud, then you should say "$a$ divides $b$".  
+If $a$ and $b$ are integers, then we might write $a \mid b$ (the symbol in the middle is a vertical line) to mean "$a$ divides $b$".  More formally, that tells us that there is some integer $c$ such that $b = ac$.  If you're reading $a \mid b$ out loud, then you should say "$a$ divides $b$".  
 
 If it is not true that $a$ divides $b$, then we can write $a \not\mid b$ (that is, a vertical line with a little dash through it), and we'd read that as "$a$ does not divide $b$".
 
 Be careful to get the symbols in the right order!  It is true that $3 \mid 12$, but it is definitely not true that $12 \mid 3$ (in fact, $12 \not\mid 3$).
 
-We haven't used that notation on this page, instead writing things out in words, but you might like to use it in your own working.
+On this page, we've written things out in words rather than using this notation, but you might like to use it in your own working.
 </div> 
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#hint1">
@@ -106,9 +106,9 @@ Possible answer to hint 3
 </button>
 
 <div id="answer3" class="collapse">
-We know that $p$ is prime and that $p$ does not divide $a$.  That tells us that the highest common factor of $a$ and $p$ is 1 (that is, they are _coprime_).
+We know that $p$ is prime and that $p$ does not divide $a$.  That tells us that the highest common factor of $a$ and $p$ is $1$ (that is, they are _coprime_).
 
-The statement that two numbers have highest common factor 1 can be quite a negative statement (they don't have any higher common factors), so can be quite difficult to work with.  But fortunately we have a way to turn that into a more positive statement: we know that if the highest common factor of two numbers is 1, then we can write 1 as a linear combination of them.  (You might have found this while working on [the open-ended investigation at this station](../NA3_RT9/index.html).)
+The statement that two numbers have highest common factor $1$ can be quite a negative statement (they don't have any higher common factors), so can be quite difficult to work with.  But fortunately we have a way to turn that into a more positive statement: we know that if the highest common factor of two numbers is $1$, then we can write $1$ as a linear combination of them.  (You might have found this while working on [the open-ended investigation at this station](../NA3_RT9/index.html).)
 
 So we know that there are integers $m$ and $n$ such that $am + pn = 1$.
 </div>
@@ -120,7 +120,7 @@ Hint 4
 <div id="hint4" class="collapse">
 We're almost there now.
 
-How can we involve $b$?  We haven't used the assumption that $p$ divides $ab$.  How might we use that?
+How can we involve $b$?  We haven't yet used the assumption that $p$ divides $ab$.  How might we use that?
 </div>
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer4">
