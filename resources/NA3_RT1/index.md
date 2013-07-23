@@ -26,7 +26,7 @@ Experiment with a few examples, and then consider the questions that follow.
 <iframe src="http://nrich.maths.org/psum/picture-this/full/?mobile=1" class="nrich-embed" style="width:700px;height:550px"></iframe>
 </div>
 
-_This will be tweaked to have a full screen version (in such a way that the numbers are still visible when displayed full screen).  We might also lose the option of a non-spiral version._
+_Interactivity reproduced from [Picture This!](http://nrich.maths.org/psum/picture-this/).  This will be tweaked to have a full screen version (in such a way that the numbers are still visible when displayed full screen).  We might also lose the option of a non-spiral version._
 
 <div class="well">
 * Given two positive integers, can you draw the corresponding diagram?
@@ -46,7 +46,7 @@ Question 1
 </button>
 
 <div id="question1" class="collapse">
-What is the relationship between the side length of the smallest square and the pair of positive integers?
+What is the relationship between the side length of the smallest square in the diagram and the pair of positive integers?
 </div>
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question2">
@@ -65,7 +65,6 @@ Question 3
 How can we record the information from the diagram in the form of equations?
 
 When might the diagram be more convenient?  When might the equations be more convenient?
-
 </div>
 
 <button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question4">

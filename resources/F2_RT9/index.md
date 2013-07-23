@@ -2,12 +2,22 @@
 layout: resource
 clearance: 0
 keywords:
+  - sine
+  - cosine
+  - trigonometric function
+  - trig function
+  - composition of functions
+  - sketch
+  - graph
+  - turning points
+  - roots
 resourceType: RT9
 stids1:
   - F2
 stids2:
 pvids1:
 pvids2:
+  - PI7
 
 ````
 
@@ -15,6 +25,6 @@ Sketch the function $y = \cos(\tan(x))$ for $-\pi < x \leq \pi$, being sure to i
 
 What happens if you compose other pairs of trig functions ($\sin(x)$, $\cos(x)$ and $\tan(x)$) for $-\pi < x \leq \pi$?  Can you sketch the resulting functions?
 
-Which compositions of pairs of trig functions lead to particularly interesting functions?  For example, which have no turning points, or finitely many turning points, or infinitely many turning points?  Which have no roots, or finitely many roots, or infinitely many roots?  Pick some properties of your own to investigate.
+Which compositions of pairs of trig functions lead to particularly interesting functions?  For example, which have no turning points, or finitely many turning points, or infinitely many turning points?  Which have no roots, or finitely many roots, or infinitely many roots?  What types of symmetry do the functions display? Pick some properties of your own to investigate.
 
 You could extend this further by composing even more functions, for example $y = \sin(\sin(\sin(x)))$ or $y = \sin(\cos(\sin(x)))$.

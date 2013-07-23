@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 0
+clearance: 1
 keywords:
   - circle
   - equation

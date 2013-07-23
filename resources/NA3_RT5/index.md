@@ -17,3 +17,7 @@ pvids2:
 <div class="row-fluid">
 <iframe src="http://nrich.maths.org/1950?mobile=1" class="span12 nrich-embed"></iframe>
 </div>
+
+<div class="row-fluid">
+<iframe src="https://www.desmos.com/calculator/wwstaoxo0o" class="span 12 nrich-embed"></iframe>
+</div>

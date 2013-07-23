@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 3
+clearance: 1
 title: Parallel and Perpendicular Lines
 keywords:
   - line
