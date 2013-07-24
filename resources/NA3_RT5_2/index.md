@@ -1,13 +1,18 @@
 ````
 layout: resource
-clearance: 0
+clearance: 1
 keywords:
+  - prime
+  - divisibility
 resourceType: RT5
 stids1:
   - NA3*
 stids2:
 pvids1:
 pvids2:
+  - PI3
+  - PI4
+  - PI12
 priors:
   - NA3_RT9
 

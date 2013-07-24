@@ -2,7 +2,7 @@
 layout: resource
 clearance: 0
 title: Geometry --- A History from Practice to Abstraction
-source: NRICH (Leo Rogers)
+source: NRICH
 keywords:
   - history
   - geometry
