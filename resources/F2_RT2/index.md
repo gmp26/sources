@@ -14,5 +14,5 @@ pvids2:
 ````
 
 <div class="row-fluid">
-<iframe src="http://nrich.maths.org/6493?mobile=1" class="span 12 nrich-embed"></iframe>
+<iframe src="http://nrich.maths.org/6493?mobile=1" class="span12 nrich-embed"></iframe>
 </div>
