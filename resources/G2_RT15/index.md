@@ -33,12 +33,25 @@ When we start learning geometry we usually think of simple shapes like lines, tr
 
 There are certain things, however, that you cannot do using these basic methods. Two shapes, say a line and a circle, may or may not intersect, and they may intersect in different ways: perhaps the line just touches the circle, perhaps it shaves a little arc off it, or perhaps it cuts it in half. To record this information you need a way of describing the shapes’ location.
 
+<div class="row">
+<div class="offset1 span3 grow1">
+
 ![Figure 1](cartesiancoordinatesdiagram1.png) 
 
-![Figure 2](cartesiancoordinatesdiagram2.png) 
+</div>
 
-![Figure 3](cartesiancoordinatesdiagram3.png)  
+<div class="span3 grow2">
 
+![Figure 2](cartesiancoordinatesdiagram2.png)
+
+</div>
+
+<div class="span3 grow3">
+
+![Figure 3](cartesiancoordinatesdiagram3.png)
+
+</div>
+</div>
 
 This is where the treasure island idea comes in useful. It illustrates what is called the _Cartesian coordinate system_. Choose a point in the plane, called the _origin_, and draw two perpendicular axes through it, one horizontal and one vertical. Any point in the plane can be reached from the origin by travelling a certain distance $x$ along the horizontal axis and a certain distance $y$ along the vertical axis. The numbers $(x,y)$ are the coordinates of the point. The origin itself has coordinates $(0,0)$. The part of the horizontal axis (also called the $x$-axis) that lies to the left of the origin and the part of the vertical axis (the $y$-axis) below the origin are described by negative numbers.
 
@@ -82,7 +95,11 @@ You can plot the graph of this function to see the required shape, which turns o
 $$y = ax^2 + bx + c$$  
 for $a$, $b$ and $c$ constants, gives you a parabola. This familiar shape, which can come in so many subtle variations---long and thin or squat and flat---is captured by this handy algebraic expression. The fact that today the terms “quadratic function” and “parabola” are almost considered synonymous highlights just how successful Descartes’ idea has been. More generally, any algebraic relationship between two variables $x$ and $y$ gives you a curve that you can plot using Cartesian coordinates.  
 
+<div class="grow3">
+
 ![Figure 7](cartesiancoordinatesdiagram7.png)
+
+</div>
 
 The algebraic representation makes it easy to answer a whole range of geometric questions. To work out the intersection points of the line given by  
 $$y = x$$  
