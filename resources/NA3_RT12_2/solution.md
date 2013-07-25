@@ -2,7 +2,7 @@
 alias: Solution
 ````
 
-We require $a^2=2b^3$, so $2|a$. Since $2$ is prime we must have $2|a$. Similarly, $a^2=3c^5$, so $3|a^2$ and because $3$ is prime we must have $3|a$.
+We require $a^2=2b^3$, so $2|a^2$. Since $2$ is prime, we must have $2|a$. Similarly, $a^2=3c^5$, so $3|a^2$ and because $3$ is prime we must have $3|a$.
 
 Therefore, let $a=2^{\alpha_1}3^{\alpha_2}a_1$ where ${\alpha_1}$ and ${\alpha_2}$ are positive integers and $a_1$ is a positive integer coprime to $2$ and $3$.
 

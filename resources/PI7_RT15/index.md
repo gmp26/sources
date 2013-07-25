@@ -23,9 +23,7 @@ Looking at the images below you’ll spot immediately which one is symmetric and
 
 But what exactly is symmetry? If you haven’t thought about this before, the answer may not be that obvious: symmetry is immunity to change. The picture of the butterfly shown below is symmetric because you can reflect it in the vertical  line running down the centre and the resulting image is the same as the one you started with.
 
-![Butterfly](picture2.png)
-
-_Butterfly picture needs replacing to avoid copyright problems._
+![Butterfly](butterfly.png)
 
 The picture of the snowflake also has mirror symmetry (there are lots of axes you can reflect it in), but in addition it is symmetric under rotation: spin it around the central point through a sixth of a full turn (that’s 60 degrees) and what you see is the same as the original image.
 
