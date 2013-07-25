@@ -16,3 +16,6 @@ pvids2:
 ````
 
 Text of the Question
+
+Syntax for pictures:
+![Figure 1](../../examQuestions/Q1/solutionfigure.png)

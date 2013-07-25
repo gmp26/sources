@@ -37,9 +37,7 @@ The picture of the bathroom tiling is symmetric because if you pick it up, shift
 
 So a shape is symmetric if it remains the same when we apply a certain operation to it. In the case of shapes drawn on the two-dimensional plane the operations we are interested in are those that move a shape without changing distances between points. We have already met three types of such rigid motions: reflections, rotations and translations (moving an object along in a certain direction and by a certain distance). And this is almost all there is. In two dimensions the only remaining one describes the symmetry of a line of footprints in the sand. In this case the picture remains the same when you translate it by a certain amount and then reflect it in the line running horizontally between your foot prints. This type of rigid motion is called a glide reflection. 
 
-![Footprints](picture5.png)
-
-_Footprints picture needs replacing to avoid copyright problems._
+![Footprints](footprints.png)
 
 We usually think of symmetry as something we can see; something associated with patterns and shapes. But the more general concept of symmetry---immunity to change---means that all sorts of other objects can be symmetric too, including mathematical expressions. Think for example of the expression $7x^6-10x^4+4x^2-1$. It’s complicated, but because all the powers involved are even, its value is the same for both $x$ and $-x$. The expression is symmetric with respect to the transformation $x \rightarrow -x$. Being able to spot this is extremely useful. For example, we often want to find the values of $x$ for which an expression is equal to zero.  The symmetry means that once you have found such a value, its negative also gives you an answer to your problem. The symmetry also means that when sketching the graph of the function $f(x)=7x^6-10x^4+4x^2-1$  you only need to work out its shape for non-negative values of  $x$ and the rest follows. The graph, which is again a visual object,  is symmetric under reflection in the $y$-axis.
 
