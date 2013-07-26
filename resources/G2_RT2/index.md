@@ -27,7 +27,7 @@ pvids2:
 	g. $x = 7y$
 	h. The points $(-1, -4)$, $(3, 7)$, and $(8, 8)$
 	i. $y - 10 = 3(x + 2)$
-	j. The points $(\frac{1}{2},-2)$, $(1,-1)$, and $(\frac{3}{2}, 0)$
+	j. The points $\left(\frac{1}{2},-2\right)$, $(1,-1)$, and $\eft(\frac{3}{2}, 0\right)$
 	k. $y = x^2 + 2$
 	l. $y^2 = x^2$
 	m. $0.5x - 7y + 2 = 0$
@@ -40,7 +40,7 @@ pvids2:
 
 3. Do any of them represent the same line?
 
-Now look just at the versions that _do_ describe a unique straight line.
+Now look just at the versions that __do__ describe a unique straight line.
 
 4. Pick two of the descriptions.  Can you take a line given by one description and express it using the other?
 
