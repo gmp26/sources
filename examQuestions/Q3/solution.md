@@ -5,13 +5,13 @@ alias: Solution
 
 <div class="chalk">
 We can think about solving the first part of this problem in two ways. The first involves thinking about the algebraic equation of a circle.
+</div>
 
 ###Method 1
 
 The general equation of a circle with radius $r$ and centre $(a,b)$ is $(x-a)^2 + (y-b)^2 = r^2$.
-</div>
 
-Substituting $(x,y) = (2,0)$, $(x,y) = (8,0)$ and $(x,y) = (10,4)$ into this equation for a circle, we get three simultaneous equations in $a$,$b$, and $r$:
+Substituting $(x,y) = (2,0)$, $(x,y) = (8,0)$ and $(x,y) = (10,4)$ into this equation for a circle, we get three simultaneous equations in $a$, $b$ and $r$:
 
 $$(2-a)^2 + b^2 = r^2$$
 
@@ -55,9 +55,9 @@ The second way of looking at this problem involves thinking about the circle geo
 
 Given any three points, we can think of a triangle with these points as its vertices. It is a fact that there is a unique circle passing through these three points, whose centre is the _circumcentre_ of the triangle we just described---that is, the intersection of the perpendicular bisectors of the three sides.
 
-Our three points are $A=(2,0)$, $B=(8,0)$, and $C=(10,4)$. The line segment between $(2,0)$ and $(8,0)$ is part of the $x$-axis, with midpoint $(\frac{2+8}{2},\frac{0+0}{2})=(5,0)$. So the perpendicular bisector of the side $AB$ is the line $x=5$.  
+Our three points are $A=(2,0)$, $B=(8,0)$, and $C=(10,4)$. The line segment between $(2,0)$ and $(8,0)$ is part of the $x$-axis, with midpoint $\left(\frac{2+8}{2},\frac{0+0}{2}\right)=(5,0)$. So the perpendicular bisector of the side $AB$ is the line $x=5$.  
 
-The line segment between $(8,0)$ and $(10,4)$ has gradient $\frac{4}{2}=2$ and midpoint $(\frac{8+10}{2},\frac{0+4}{2})=(9,2)$. So the perpendicular bisector of side $BC$ is the line with gradient $\frac{-1}{2}$ and passing through the point $(9,2)$---substituting this information into the general equation for a line $y=mx+c$ we find that the perpendicular bisector of side BC is the line $y=\frac{-1}{2}x+\frac{13}{2}$.  
+The line segment between $(8,0)$ and $(10,4)$ has gradient $\frac{4}{2}=2$ and midpoint $\left(\frac{8+10}{2},\frac{0+4}{2}\right)=(9,2)$. So the perpendicular bisector of side $BC$ is the line with gradient $\frac{-1}{2}$ and passing through the point $(9,2)$---substituting this information into the general equation for a line $y=mx+c$ we find that the perpendicular bisector of side BC is the line $y=\frac{-1}{2}x+\frac{13}{2}$.  
 
 <div class="chalk">
 We could also calculate the perpendicular bisector of side $CA$, which turns out to be the line $y=-2x+14$.

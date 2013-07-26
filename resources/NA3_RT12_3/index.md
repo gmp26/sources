@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+alias: Problem
 title: There's always one, isn't there?
 clearance: 0
 keywords:
