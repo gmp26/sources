@@ -27,7 +27,7 @@ pvids2:
 	g. $x = 7y$
 	h. The points $(-1, -4)$, $(3, 7)$, and $(8, 8)$
 	i. $y - 10 = 3(x + 2)$
-	j. The points $\left(\frac{1}{2},-2\right)$, $(1,-1)$, and $\eft(\frac{3}{2}, 0\right)$
+	j. The points $\left(\frac{1}{2},-2\right)$, $(1,-1)$, and $\left(\frac{3}{2}, 0\right)$
 	k. $y = x^2 + 2$
 	l. $y^2 = x^2$
 	m. $0.5x - 7y + 2 = 0$

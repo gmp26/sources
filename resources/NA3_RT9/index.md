@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 0
+clearance: 1
 alias: Problem
 weight: 1
 title: Buckets and ponds
