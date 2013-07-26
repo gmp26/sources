@@ -35,7 +35,7 @@ $$= \frac{-b^3 + b(bt - as) +a^2b + b^3}{a^2 + b^2}$$
 $$= \frac{a^2b + b(bt - as)}{a^2 + b^2}$$
 as required.
 
-***
+*** 
 
 We now assume that 
 $$\left(\frac{t - b}{s}\right)\left(\frac{t}{s - a}\right) = -1.$$
@@ -68,3 +68,4 @@ then $N$ lies on the line $XY$.
 ***
 
 A geometrical interpretation of this result is that $\frac{t - b}{s}$ and $\frac{t}{s - a}$ are the gradients of $BP$ and $AP$ respectively. So if $BP$ and $AP$ are perpendicular, then $N$ lies on $XY$.
+

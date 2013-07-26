@@ -34,7 +34,7 @@ When we start learning geometry we usually think of simple shapes like lines, tr
 There are certain things, however, that you cannot do using these basic methods. Two shapes, say a line and a circle, may or may not intersect, and they may intersect in different ways: perhaps the line just touches the circle, perhaps it shaves a little arc off it, or perhaps it cuts it in half. To record this information you need a way of describing the shapes’ location.
 
 <div class="row">
-<div class="offset1 span3 grow1">
+<div class="offset1 span3 grow2">
 
 ![Figure 1](cartesiancoordinatesdiagram1.png) 
 
@@ -46,7 +46,7 @@ There are certain things, however, that you cannot do using these basic methods.
 
 </div>
 
-<div class="span3 grow3">
+<div class="span3 grow2">
 
 ![Figure 3](cartesiancoordinatesdiagram3.png)
 
