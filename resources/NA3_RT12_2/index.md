@@ -3,6 +3,9 @@ layout: resource
 source: NRICH
 alias: Problem
 clearance: 0
+priors:
+  - NA3_RT5_2
+  - NA3_RT5_3
 keywords:
   - factorial
   - power

@@ -24,11 +24,11 @@ Here's a game for two players.
 <div class="well">
 Player 1: Choose a positive integer that is greater than $1$.  Call it $n$.
 
-Player 2: Choose two positive integers, say $a$ and $b$, in such a way that the product $ab$ divides $n$ (that is, $n$ is a multiple of $ab$).
+Player 2: Choose two positive integers, say $a$ and $b$, in such a way that $n$ divides the product $ab$ (that is, $ab$ is a multiple of $n$).
 
-If $a$ divides $n$ or $b$ divides $n$, then Player 1 wins.
+If $n$ divides $a$ or $n$ divides $b$, then Player 1 wins.
 
-If neither $a$ nor $b$ divides $n$, then Player 2 wins.
+If $n$ divides neither $a$ nor $b$, then Player 2 wins.
 </div>
 
 1.  Play this game against a partner a few times, to get a feel for the rules.  You might want to swap so that you each experience being Player 1 and Player 2.  Can you find a winning strategy for Player 1?  Can you find a winning strategy for Player 2?
