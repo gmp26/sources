@@ -38,7 +38,7 @@ $$(a+9)^2+(b+3)^2=25.$$
 
 We also know that $C$ just touches the circle $(x+2)^2+(y-4)^2=100$. So the centre of $C$, $(a,b)$, must lie a distance of exactly $5$ units away from one point on this circle, and a distance of greater than $5$ units away from all other points on this circle. This means that $(a,b)$ must lie on one of the faded circles in the diagram below.
 
-![Diagram](../../examQuestions/Q6/diagram1.png)  
+![Diagram](Q6diagram1.png)  
 
 We know that $(a,b)$ cannot lie on the outer circle because then the distance between $(a,b)$ and $(-9,-3)$ would be greater than $5$ units, because $(-9,-3)$ lies inside the circle. So $(a,b)$ must lie on the inner circle, which has equation $(x+2)^2+(y-4)^2=25$. Therefore  
 $$(a+2)^2+(b-4)^2=25.$$ 

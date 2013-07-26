@@ -18,4 +18,4 @@ pvids2:
 Text of the Question
 
 Syntax for pictures:
-![Figure 1](../../examQuestions/Q1/solutionfigure.png)
+![Figure 1](Q1solutionfigure.png)

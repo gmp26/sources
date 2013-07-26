@@ -15,6 +15,6 @@ pvids2:
 
 ````
 
-The website [Desmos](https://www.desmos.com/calculator/) gives us a way to draw circles by entering their equations.
+The website <a href="https://www.desmos.com/calculator/" target="_blank">Desmos</a> gives us a way to draw circles by entering their equations.
 
 Can you draw the Olympic rings on this site?

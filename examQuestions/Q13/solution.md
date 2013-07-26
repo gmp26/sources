@@ -36,4 +36,4 @@ So the curve meets the axes at the points $(-2,0)$, $(3,0)$ and $(0,3)$.
 
 The graph therefore has the following shape.
 
-![Figure 1](../../examQuestions/Q13/figure1.png)
+![Figure 1](Q13figure1.png)

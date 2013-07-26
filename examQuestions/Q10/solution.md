@@ -37,10 +37,15 @@ as required.
 
 ***
 
+We now assume that 
+$$\left(\frac{t - b}{s}\right)\left(\frac{t}{s - a}\right) = -1.$$
+
+Note that this means that $s \neq 0$.
+
 The points $X$ and $Y$ have coordinates $(s,0)$ and $(0,t)$ respectively, so by relabelling of the equation of $AB$ we have that the equation of the line $XY$ is
 $$y = \frac{-t}{s}x + t.$$
 
-For $N$ to lie on this line, we must have
+Now $N$ lies on this line exactly when
 $$\frac{a^2b + b(bt - as)}{a^2 + b^2} = -\frac{t}{s}\frac{ab^2 - a(bt - as)}{a^2 + b^2} + t$$
 $$\iff a^2bs + bs(bt - as) = - ab^2t + at(bt - as) + st(a^2 + b^2)$$
 $$\iff a^2bs + b^2st -abs^2 + ab^2t -abt^2 + a^2st = st(a^2 + b^2)$$
@@ -48,12 +53,18 @@ $$\iff a^2bs -abs^2 + ab^2t -abt^2 = 0$$
 <div class="chalk span4 pull-right">
 Here we can divide both sides by $a$ and $b$ since they are both positive---no danger of dividing by zero!
 </div>
-$$\Rightarrow as - s^2 + bt - t^2 = 0$$
+$$\iff as - s^2 + bt - t^2 = 0$$
 $$\iff t^2 - bt = -(s^2 - as)$$
 $$\iff t(t-b) = -s(s - a)$$
 $$\iff \frac{t(t - b)}{s(s - a)} = -1$$
-$$\iff (\frac{t - b}{s})(\frac{t}{s - a}) = -1.$$
+$$\iff \left(\frac{t - b}{s}\right)\left(\frac{t}{s - a}\right) = -1.$$
+
+So, in particular, if
+
+$$\left(\frac{t - b}{s}\right)\left(\frac{t}{s - a}\right) = -1$$
+
+then $N$ lies on the line $XY$.
 
 ***
 
-A geometrical interpretation of this result is that $\frac{t - b}{s}$ and $\frac{t}{s - a}$ are the gradients of $BP$ and $AP$ respectively. So for $N$ to lie on $XY$, $BP$ and $AP$ must be perpendicular.
+A geometrical interpretation of this result is that $\frac{t - b}{s}$ and $\frac{t}{s - a}$ are the gradients of $BP$ and $AP$ respectively. So if $BP$ and $AP$ are perpendicular, then $N$ lies on $XY$.

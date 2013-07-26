@@ -26,11 +26,11 @@ NOT CHECKED BEYOND HERE.
 
 This gives us enough information to sketch the curve:
 
-![Figure 1](../../examQuestions/Q14/graph1.png)
+![Figure 1](Q14graph1.png)
 
 Now to solve the equation given, we also plot the graph of $y = x + 1$ and find where they intersect:
 
-![Figure 2](../../examQuestions/Q14/graph2.png)
+![Figure 2](Q14graph2.png)
 
 So we clearly see that $x = 1$ is the only (real) solution.
 
@@ -50,7 +50,7 @@ We can also see that the graph passes through $(1,0)$ and $(0,2)$.
 
 From this, we sketch the two graphs on the same axis:
 
-![Figure 3](../../examQuestions/Q14/graph3.png)
+![Figure 3](Q14graph3.png)
 
 These curves intersect only once, when $x < 0$.
 
