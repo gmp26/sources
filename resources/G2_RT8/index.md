@@ -1,6 +1,7 @@
 ````
 layout: resource
 clearance: 0
+title: Olympic rings
 keywords:
   - equation of circle
   - annulus

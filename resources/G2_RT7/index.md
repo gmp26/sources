@@ -2,6 +2,7 @@
 alias: Problem
 layout: resource
 clearance: 1
+title: Equations of circles
 keywords:
   - circle
   - equation

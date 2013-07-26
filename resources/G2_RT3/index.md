@@ -1,6 +1,7 @@
 ````
 layout: resource
 clearance: 1
+title: The equation of a circle
 keywords:
   - circle
   - equation

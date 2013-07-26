@@ -3,6 +3,7 @@ layout: resource
 source: UKMT
 clearance: 0
 resourceType: RT14
+title: A BMO2 question
 keywords:
   - highest common factor
 year: 1998

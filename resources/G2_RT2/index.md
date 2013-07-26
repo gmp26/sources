@@ -2,6 +2,7 @@
 alias: Problem
 layout: resource
 clearance: 0
+title: Straight lines
 keywords:
   - straight line
   - equation

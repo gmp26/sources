@@ -1,6 +1,7 @@
 ````
 layout: resource
 clearance: 1
+title: Picture this!
 keywords:
   - Euclid's algorithm
   - highest common factor

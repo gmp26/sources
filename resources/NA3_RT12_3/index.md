@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+title: There's always one, isn't there?
 clearance: 0
 keywords:
 resourceType: RT12
