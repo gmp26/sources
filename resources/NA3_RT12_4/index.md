@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+title: $n^5 - n$
 clearance: 0
 keywords:
 resourceType: RT12

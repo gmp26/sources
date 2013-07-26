@@ -2,6 +2,7 @@
 layout: resource
 clearance: 0
 keywords:
+title: $S$-prime numbers
 resourceType: RT14
 stids1:
   - NA3
