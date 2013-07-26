@@ -23,7 +23,7 @@ The first thing we need to do is find the prime factorisation of $20!$. As $20!=
 +------+-------------------+
 |$3$   |$3$                |
 +------+-------------------+
-|$4$   |$2 \times 2$       |
+|$4$   |$2^2$       |
 +------+-------------------+
 |$5$   |$5$                |
 +------+-------------------+
@@ -63,7 +63,7 @@ Multiplying the prime factorisations in the right-hand column together and simpl
 
 $20!=2^{18} \times 3^8 \times 5^4 \times 7^2 \times 11 \times 13 \times 17 \times 19$.  
 
-Now, we can use this to calculate the number of divisors of $20!$. Each divisor will have a unique prime factorisation, that is 'contained' within the prime factorisation of $20!$. Let $m$ be a divisor of $20!$. Then there are nineteen possible values for the highest power of $2$ dividing $m$---$0$, $1$, ..., $18$. Similarly, there are nine possible values for the highest power of $3$ dividing $m$---$0$, $1$, ..., $8$. Continuing in this way for all the prime factors of $20!$, we can calculate that there are $19 \times 9 \times 5 \times 3 \times 2 \times 2 \times 2 \times 2 = 41040$ divisors of $20!$.  
+Now, we can use this to calculate the number of divisors of $20!$. Each divisor will have a unique prime factorisation, that is 'contained' within the prime factorisation of $20!$. Let $m$ be a divisor of $20!$. Then there are nineteen possible values for the highest power of $2$ dividing $m$ ($0$, $1$, ..., $18$). Similarly, there are nine possible values for the highest power of $3$ dividing $m$ ($0$, $1$, ..., $8$). Continuing in this way for all the prime factors of $20!$, we can calculate that there are $19 \times 9 \times 5 \times 3 \times 2 \times 2 \times 2 \times 2 = 41040$ divisors of $20!$.  
 
 (b)
 
