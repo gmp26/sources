@@ -78,3 +78,36 @@ this [jsFiddle example](http://jsfiddle.net/gmp26/gD3Vz/5/).
 ###Other Bootstrap styles
 
 The remaining bootstrap styles are not directly applicable to markdown content, though they are applicable to the HTML layouts which which pull in content. They can also apply to the interactive content.
+
+###How to write tables
+
+I'd recommend using Pandoc multiline format tables - even when you only need one line in each cell. They give you more control. Do be careful to insert blank lines where the docs say you should - between each row, and before and after the table.
+
+Here's an example:
+
+  --------------------------
+   $a$      $a^4$    $2a^4$ 
+  -------- -------- --------
+   $0$      $0$      $0$
+
+   $1$      $1$      $2$
+
+   $2$      $6$      $2$
+
+   $3$      $1$      $2$
+
+   $4$      $6$      $2$
+
+   $5$      $5$      $0$
+
+   $6$      $6$      $2$
+
+   $7$      $1$      $2$
+
+   $8$      $6$      $2$
+
+   $9$      $1$      $2$
+   ------------------------- 
+
+   Table: _Final digit of 4th powers_
+
