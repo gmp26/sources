@@ -32,7 +32,7 @@ $$\left(3-\frac{3}{2}\right)^2 + (2)^2 = r^2$$
 $$\Rightarrow r^2 = \frac{25}{4}$$
 $$\Rightarrow r = \frac{5}{2}$$  
 
-<div class="chalk span4 pull-right">
+<div class="chalk">
 Usually $r^2 = \frac{25}{4} \Rightarrow r = \pm \frac{5}{2}$, but as a radius must always have positive length, we know that we must take the positive square root.
 </div>
 

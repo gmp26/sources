@@ -5,7 +5,7 @@ Since $182^2=33124$ and $183^2=33489$, let $n=182$.
 
 Since $184^2-33127=729=27^2$, let $m=2$.
 
-<div class="chalk span4 pull-right">
+<div class="chalk">
 We might notice that we have a difference of two squares, which is often helpful for factorising something.
 </div>
 Therefore $184^2-27^2=33127$, so $33127=(184-27)\times(184+27)$, which implies that $33127=157\times211.$

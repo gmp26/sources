@@ -38,7 +38,7 @@ $$(1 - q)^2 - (-1 - q)^2 = 0$$
 $$\iff (1 - q)^2 = (1 + q)^2$$
 $$\iff q = - q$$
 $$\iff q = 0.$$
-<div class="chalk span4 pull-right">
+<div class="chalk">
 Note that it is clear anyway that the centre of the circle must lie on the $y$-axis.
 </div>
 Hence the equation of any circle passing through the intersections is

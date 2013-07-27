@@ -86,9 +86,8 @@ $25 + (y-4)^2 = 25 \iff (y-4)^2 = 0$.
 
 This equation has only one solution, $y=4$, so the circle touches the $y$-axis.
 
-<div class="chalk span4 pull-right">
+<div class="chalk">
 Setting $x=0$ in the equation for the circle gives an equation in $y$. If $y=d$ is a solution to this equation, then the circle intersects the $y$-axis at $(0,d)$. If this equation only has one solution, then the circle meets the $y$-axis at only one point, and therefore must be at a tangent to it.
-
 </div>
 
 ***
@@ -103,7 +102,13 @@ $$\iff x^2 - 10x + 25 + m^2x^2 - 8mx + 16 = 25$$
 
 $$\iff (m^2 +1)x^2 + (-10 - 8m)x+16 = 0.$$  
 
-For $y=mx$ to be a tangent to the circle, we must have only one root to this quadratic equation---that is, its discriminant must be zero.  Now
+For $y=mx$ to be a tangent to the circle, we must have only one root to this quadratic equation---that is, its discriminant must be zero.  
+
+<div class="chalk">
+The discriminant of a quadratic equation $ax^2+bx+c = 0$ is $b^2-4ac$. The discriminant equals zero if, and only if, the equation has a repeated root.
+</div>
+
+Now
   
 $$(-10-8m)^2 - 4(m^2+1)(16) = 0$$
 
@@ -114,10 +119,6 @@ $$\iff 100+160m+64m^2-64m^2-64=0$$
 $$\iff 160m+36=0$$
 
 $$\iff m=\frac{-9}{40}.$$
-
-<div class="chalk span4 pull-right">
-The discriminant of a quadratic equation $ax^2+bx+c = 0$ is $b^2-4ac$. The discriminant equals zero if, and only if, the equation has a repeated root.
-</div>
 
 So $y=\frac{-9}{40}x$ is the equation of this tangent.
 

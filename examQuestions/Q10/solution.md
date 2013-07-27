@@ -3,9 +3,8 @@ alias: Solution
 ````
 
 If the equation of the line $AB$ is $y = mx + c$, then at the point $(0,b)$ we have $b = c$. So $$y = mx + b.$$ Then at $(a,0)$ we have $$0 = ma + b,$$ so $$m = \frac{-b}{a}.$$
-<div class="chalk span4 pull-right">
-Another way of obtaining this would be to think about the gradient of the line
-(which is what $m$ represents) as "the change in $y$ over the change in $x$".
+<div class="chalk">
+Another way to obtain this would be to think about the gradient of the line (which is what $m$ represents) as "the change in $y$ over the change in $x$".
 So we have
 $$m = \frac{0-b}{a-0} = \frac{-b}{a}.$$
 </div>
@@ -50,7 +49,7 @@ $$\frac{a^2b + b(bt - as)}{a^2 + b^2} = -\frac{t}{s}\frac{ab^2 - a(bt - as)}{a^2
 $$\iff a^2bs + bs(bt - as) = - ab^2t + at(bt - as) + st(a^2 + b^2)$$
 $$\iff a^2bs + b^2st -abs^2 + ab^2t -abt^2 + a^2st = st(a^2 + b^2)$$
 $$\iff a^2bs -abs^2 + ab^2t -abt^2 = 0$$
-<div class="chalk span4 pull-right">
+<div class="chalk">
 Here we can divide both sides by $a$ and $b$ since they are both positive---no danger of dividing by zero!
 </div>
 $$\iff as - s^2 + bt - t^2 = 0$$

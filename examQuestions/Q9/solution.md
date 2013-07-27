@@ -46,7 +46,7 @@ $$q = \frac{(m - n)tu}{mt - nu}.$$
 
 * * *
 
-<div class="chalk span4 pull-right clearfix">
+<div class="chalk">
 Note that we may divide by $1 + m^2$ because it is positive, and so we are certainly not dividing by $0$.
 </div>
 
@@ -55,9 +55,7 @@ $$\lambda^2 + (m\lambda - c)^2 = r^2$$
 $$\iff (1 + m^2)\lambda^2 - 2mc\lambda + (c^2 - r^2) = 0$$
 $$\iff \lambda^2 - \frac{2mc}{1 + m^2}\lambda + \frac{c^2 - r^2}{1 + m^2} = 0.$$
 
-<div class="clearfix"></div>
-
-<div class="chalk span4 pull-right">
+<div class="chalk">
 If the roots of the quadratic equation $x^2 + wx + z = 0$ are $x = \alpha$ and $x = \beta$, then $\alpha + \beta = -w$ and $\alpha \beta = z$.  You can check this for yourself if you haven't met this useful idea before.
 </div>
 

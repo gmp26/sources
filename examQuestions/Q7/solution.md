@@ -18,7 +18,7 @@ This is a quadratic in $x$, and it only has one solution since we know that the 
 $$4a^2 - 4(a^2 + b^2 - r^2) = 0$$
 $$\Rightarrow b^2 = r^2.$$
 
-<div class="chalk span4 pull-right">
+<div class="chalk">
 There is also a neat way of reaching $|b|=r$ geometrically: the centre is $(a,b)$, and the $x$-axis is a tangent, so it will touch the circle directly below (or above) the centre, at $(a,0)$ (because any tangent of a circle is perpendicular to a radius of that circle). Then the distance from this point to the centre is $|b|$, but this is also the radial distance, so $|b| = r$.
 </div>
 

@@ -41,7 +41,7 @@ But $\frac{5}{2} < 4$, so the two ranges of $x$ do not overlap, therefore
 the two circles lie entirely outside each other.
 
 
-<div class="chalk span4 pull-right">
+<div class="chalk">
 
 The points with the shortest distance are the points lying on the line joining
 the two centres.
