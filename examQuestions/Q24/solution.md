@@ -37,6 +37,7 @@ $$d^3 + 3e^3 = 9f^3.$$
 
 <div class="row">
   <div class="offset2 span8">
+    
 <table class="table table-striped table-bordered table-hover table-condensed">
 <caption>
 
@@ -45,14 +46,15 @@ _Final digit of 4th powers_
 </caption>
 <thead>
 <tr>
-  <th>$a$</th>
-  <th>$a^4$</th>
+  <!-- the extra non-breaking spaces are to equalise final column widths -->
+  <th>&nbsp;&nbsp;$a$&nbsp;&nbsp;</th>
+  <th>&nbsp;$a^4$&nbsp;</th>
   <th>$2a^4$</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td>$0$</td>
+  <td class="text-center">$0$</td>
   <td>$0$</td>
   <td>$0$</td>
 </tr>
@@ -107,7 +109,7 @@ _Final digit of 4th powers_
 
 
 
-<div class="offset2 span8">
+<div class="offset3 span6">
 
   --------------------------
    $a$      $a^4$    $2a^4$ 
@@ -138,7 +140,7 @@ _Final digit of 4th powers_
 </div>
 
 
-<div class="offset2 span8">
+<div class="offset3 span6">
 
 +-------+-------+--------+
 | $a$   | $a^4$ | $2a^4$ |
