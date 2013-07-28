@@ -17,7 +17,7 @@ This means that a point $Q$ lies inside this circle if and only if the distance 
 
 So, to show that $P$ lies inside this circle, we must show that the distance between $(-9,-3)$ and $(-2,4)$ is less than $10$.
 
-Let $d$ be the distance between $(-9,-3)$ and $(-2,4). Then
+Let $d$ be the distance between $(-9,-3)$ and $(-2,4)$. Then
 
 $$d = \sqrt{(-9-(-2))^2+(-3-4)^2}$$
 

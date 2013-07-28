@@ -6,7 +6,7 @@ keywords:
 year: 2010
 paper: STEP I
 qno: 8
-stids1: 
+stids1:
   - NA3
 stids2:
 pvids1:
