@@ -35,82 +35,8 @@ $$d^3 + 3e^3 = 9f^3.$$
 (ii) We are interested in the equation $$p^4 + 2q^4 = 5r^4.$$
   We consider the final digit of fourth powers:
 
-<div class="row">
-  <div class="offset2 span8">
-    
-<table class="table table-striped table-bordered table-hover table-condensed">
-<caption>
 
-_Final digit of 4th powers_
-
-</caption>
-<thead>
-<tr>
-  <!-- the extra non-breaking spaces are to equalise final column widths -->
-  <th>&nbsp;&nbsp;$a$&nbsp;&nbsp;</th>
-  <th>&nbsp;$a^4$&nbsp;</th>
-  <th>$2a^4$</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td class="text-center">$0$</td>
-  <td>$0$</td>
-  <td>$0$</td>
-</tr>
-<tr>
-  <td>$1$</td>
-  <td>$1$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$2$</td>
-  <td>$6$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$3$</td>
-  <td>$1$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$4$</td>
-  <td>$6$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$5$</td>
-  <td>$5$</td>
-  <td>$0$</td>
-</tr>
-<tr>
-  <td>$6$</td>
-  <td>$6$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$7$</td>
-  <td>$1$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$8$</td>
-  <td>$6$</td>
-  <td>$2$</td>
-</tr>
-<tr>
-  <td>$9$</td>
-  <td>$1$</td>
-  <td>$2$</td>
-</tr>
-</tbody>
-</table>
-</div>
-
-
-
-<div class="offset3 span6">
-
+<div>
   --------------------------
    $a$      $a^4$    $2a^4$ 
   -------- -------- --------
@@ -134,42 +60,9 @@ _Final digit of 4th powers_
 
    $9$      $1$      $2$
    ------------------------- 
-
-   Table: _Final digit of 4th powers_
-
 </div>
 
 
-<div class="offset3 span6">
-
-+-------+-------+--------+
-| $a$   | $a^4$ | $2a^4$ |
-+=======+=======+========+
-| $0$   | $0$   | $0$    |
-+-------+-------+--------+
-| $1$   | $1$   | $2$    |
-+-------+-------+--------+
-| $2$   | $6$   | $2$    |
-+-------+-------+--------+
-| $3$   | $1$   | $2$    |
-+-------+-------+--------+
-| $4$   | $6$   | $2$    |
-+-------+-------+--------+
-| $5$   | $5$   | $0$    |
-+-------+-------+--------+
-| $6$   | $6$   | $2$    |
-+-------+-------+--------+
-| $7$   | $1$   | $2$    |
-+-------+-------+--------+
-| $8$   | $6$   | $2$    |
-+-------+-------+--------+
-| $9$   | $1$   | $2$    |
-+-------+-------+--------+
-
-Table: _Final digit of 4th powers_
-
-</div>
-</div>
 
   So the last digits of fourth powers are all either $0$, $1$, $5$ or $6$, and the last digits of twice fourth powers are all either $0$ or $2$.
 
@@ -177,21 +70,15 @@ Table: _Final digit of 4th powers_
 
   Therefore, if $2q^4$ ends in $0$ (which happens exactly when $q$ is a multiple of $5$), the possibilities for the final digit of $p^4 + 2q^4$ are  
 
-  <p class="text-center">  
-  ($0$ or $1$ or $5$ or $6$)$+ 0 = 0$ or $1$ or $5$ or $6$,
-  </p>
-
   $$(0 \mbox{ or } 1 \mbox{ or } 5 \mbox{ or } 6)+ 0 = 0 \mbox{ or } 1 \mbox{ or } 5 \mbox{ or } 6,$$
 
   so it can equal $5r^4$ (which ends in $0$ or $5$) only if $p^4$ ends in $0$ or $5$, which is exactly when $p$ is a multiple of $5$.
 
   Similarly, if $2q^4$ ends in $2$ (so $q$ is not a multiple of $5$), the possibilities for the final digit of $p^4 + 2q^4$ are
 
-  <div align='center'>  
-  ($0$ or $1$ or $5$ or $6$)$+ 2 = 2$ or $3$ or $7$ or $8$,
-  </div>
+  $$(0 \mbox{ or } 1 \mbox{ or } 5 \mbox{ or } 6)+ 2 = 2 \mbox{ or } 3 \mbox{ or } 7 \mbox{ or } 8,$$
 
-  so it can not be equal to $5r^4$ (which ends in $0$ or $5$).
+  so it can't be equal to $5r^4$ (which ends in $0$ or $5$).
 
   Therefore, if $p^4 + 2q^4 = 5r^4$, we must have $p$ and $q$ both being multiples of $5$.
 
