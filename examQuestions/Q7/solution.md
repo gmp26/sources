@@ -11,12 +11,12 @@ Since the point $(14,2)$ lies on the circle, we can substitute this and $2b = a$
 We also know that the $x$-axis just touches the circle, so we find their intersection by substituting $y = 0$ into our equation:
 
 $$(x - a)^2 + b^2 = r^2$$
-$$\Rightarrow x^2 - 2ax + (a^2 + b^2 - r^2) = 0.$$
+$$\iff x^2 - 2ax + (a^2 + b^2 - r^2) = 0.$$
 
-This is a quadratic in $x$, and it only has one solution since we know that the $x$-axis is a tangent to the circle. So the discriminant $B^2 - 4AC$ is equal to zero:
+This is a quadratic in $x$, and it has exactly one solution since we know that the $x$-axis is a tangent to the circle. So the discriminant $B^2 - 4AC$ is equal to zero:
 
 $$4a^2 - 4(a^2 + b^2 - r^2) = 0$$
-$$\Rightarrow b^2 = r^2.$$
+$$\iff b^2 = r^2.$$
 
 <div class="chalk">
 There is also a neat way of reaching $|b|=r$ geometrically: the centre is $(a,b)$, and the $x$-axis is a tangent, so it will touch the circle directly below (or above) the centre, at $(a,0)$ (because any tangent of a circle is perpendicular to a radius of that circle). Then the distance from this point to the centre is $|b|$, but this is also the radial distance, so $|b| = r$.
@@ -26,19 +26,19 @@ Now we can substitute this into $(\ast)$ and solve for $b$:
 
 $(14 - 2b)^2 + (2 - b)^2 = b^2$
 
-$\Rightarrow 196 - 56b + 4b^2 + 4 - 4b + b^2 = b^2$
+$\iff 196 - 56b + 4b^2 + 4 - 4b + b^2 = b^2$
 
-$\Rightarrow 4b^2 - 60b + 200 = 0$
+$\iff 4b^2 - 60b + 200 = 0$
 
-$\Rightarrow b^2 - 15b + 50 = 0$
+$\iff b^2 - 15b + 50 = 0$
 
-$\Rightarrow (b - 5)(b - 10) = 0$
+$\iff (b - 5)(b - 10) = 0$
 
-$\Rightarrow b = 5$ or $b = 10$.
+$\iff b = 5$ or $b = 10$.
 
 Finally, using $2b = a$ and $b^2 = r^2$, we have that the two possible solutions are
 
-$$b = 5, a = 10, r = 5$$ $$b = 10, a = 20, r = 10$$
+$$b = 5, \quad a = 10, \quad r = 5$$ and $$b = 10, \quad a = 20, \quad r = 10$$
 
 and so the equations of the two circles are
 

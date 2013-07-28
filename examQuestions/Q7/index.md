@@ -1,16 +1,17 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords:
+  - equation of a circle
+  - tangent
 year: June 1966
 paper: A level Maths/Pure Maths Paper 2
 qno: 2
 stids1:
   - G2
-stids2:
-  - G5
   - E2
+stids2:
 pvids1:
 pvids2:
 

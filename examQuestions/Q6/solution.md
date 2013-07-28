@@ -3,14 +3,14 @@ alias: Solution
 ````
 
 <div class="chalk">
-The first thing we want to do is re-write the equation of the circle in the form $(x-a)^2+(y-b)^2=r^2$ so that we can easily work out its centre and radius.
+The first thing we want to do is rewrite the equation of the circle in the form $(x-a)^2+(y-b)^2=r^2$ so that we can easily work out its centre and radius.
 </div>  
 
-$x^2+y^2+4x-8y-80=0$
+We have
 
-$\Rightarrow [(x+2)^2 - 4] + [(y-4)^2-16] - 80 =0$
-
-$\Rightarrow (x+2)^2 + (y-4)^2 = 100.$
+$$x^2+y^2+4x-8y-80=0$$
+$$\iff [(x+2)^2 - 4] + [(y-4)^2-16] - 80 =0$$
+$$\iff (x+2)^2 + (y-4)^2 = 100.$$
 
 This circle has centre $(-2,4)$ and radius $10$.
 This means that a point $Q$ lies inside this circle if and only if the distance between $Q$ and the point $(-2,4)$ is less than $10$.  
@@ -33,10 +33,10 @@ Now $\sqrt{98} < \sqrt{100} = 10$. That is, the distance between P and $(-2,4)$ 
 
 Let $C$ be a circle of radius $5$, passing through $P = (-9,-3)$ and touching the circle $(x+2)^2+(y-4)^2=100$. We want to find the centre of $C$. Call the centre $(a,b)$.
 
-Firstly, as $C$ passes through $(-9,-3)$, and as $C$ has radius $5$, we know that $(a,b)$ and $(-9,-3)$ are a distance of $5$ units apart. So $(a,b)$ must lie on the circle $(x+9)^2+(y+3)^2=25$, and therefore  
+Firstly, as $C$ passes through $(-9,-3)$, and as $C$ has radius $5$, we know that $(a,b)$ and $(-9,-3)$ are a distance of $5$ apart. So $(a,b)$ must lie on the circle $(x+9)^2+(y+3)^2=25$, and therefore  
 $$(a+9)^2+(b+3)^2=25.$$
 
-We also know that $C$ just touches the circle $(x+2)^2+(y-4)^2=100$. So the centre of $C$, $(a,b)$, must lie a distance of exactly $5$ units away from one point on this circle, and a distance of greater than $5$ units away from all other points on this circle. This means that $(a,b)$ must lie on one of the faded circles in the diagram below.
+We also know that $C$ just touches the circle $(x+2)^2+(y-4)^2=100$. So the centre of $C$, $(a,b)$, must lie a distance of exactly $5$ away from one point on this circle, and a distance of greater than $5$ away from all other points on this circle. This means that $(a,b)$ must lie on one of the faded circles in the diagram below.
 
 ![Diagram](Q6diagram1.png)  
 

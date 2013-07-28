@@ -1,7 +1,7 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
   - circles
   - touch
