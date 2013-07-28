@@ -7,7 +7,7 @@ year: 2000
 paper: STEP 2000 II
 qno: 1
 stids1: 
-  - F2
+  - NA3
 stids2:
 pvids1:
 pvids2:

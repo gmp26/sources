@@ -16,22 +16,27 @@ $$(x-a)^2 + (y-b)^2 = r^2.$$
 	* Centre $(a,b)$, radius $2r$: $(x-a)^2 + (y-b)^2 = 4r^2$
 	* Centre $(a,b)$, radius $\frac{1}{3}r$: $(x-a)^2 + (y-b)^2 = \frac{1}{9}r^2$
 	* Centre $(a,b)$, radius $r+1$: $(x-a)^2 + (y-b)^2 = (r+1)^2$  
-<br>
 
-2.  * $(x-\pi)^2 + (y+2)^2 = 3$ is the equation of a circle with centre $(\pi,-2)$ and radius $\sqrt{3}$. 
-	* There are no real values of $x$ and $y$ that satisfy the equation $(x+1)^2 + (y-4)^2 = -1$, so we can't plot this in the $x$,$y$ plane.
+2.  * $(x-\pi)^2 + (y+2)^2 = 3$ is the equation of a circle with centre $(\pi,-2)$ and radius $\sqrt{3}$.
+
+	* There are no real values of $x$ and $y$ that satisfy the equation $(x+1)^2 + (y-4)^2 = -1$, so we can't plot this in the $x$--$y$ plane.
+
 	* $x^2 + 2x + y = 2$ can be rearranged to give $y = -x^2-2x+2$, which is the standard form of a quadratic equation, and so describes a parabola:  
 	![Figure 1](figure1.png)  
+
 	* $x^2 + y^2 = 4$ is the equation of a circle centred at the origin with radius $2$.
+
 	* $(x-1)^2 + y^2 = 4$ is the equation of a circle with centre $(1,0)$ and radius $2$.
+
 	* $(x-1)^2 - y^2 = 4$ is the equation of a hyperbola:  
 	![Figure 2](figure2.png)  
+
 	* $x^2 + y^2 - 3x - y = -1.5$ can be rearranged to give $\left(x-\frac{3}{2}\right)^2 + \left(y-\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(\frac{3}{2},\frac{1}{2})$ and radius $1$.
-  <div class="chalk span4 pull-right">
-  This equation looks rather similar to the previous one.  Maybe we can use that to save ourselves some effort.
-  </div>
-	* $x^2 + y^2 + 3x + y = -1.5$ can be rearranged to give $\left(x+\frac{3}{2}\right)^2 + \left(y+\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(-\frac{3}{2},-\frac{1}{2})$ and radius $1$.  
-<br>
+
+  * <div class="chalk">
+    This equation looks rather similar to the previous one.  Maybe we can use that to save ourselves some effort.
+    </div>
+	  $x^2 + y^2 + 3x + y = -1.5$ can be rearranged to give $\left(x+\frac{3}{2}\right)^2 + \left(y+\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(-\frac{3}{2},-\frac{1}{2})$ and radius $1$.  
 
 3. The centre of the circle must be the midpoint of the line segment from $(-5,2)$ to $(3,-1)$, so the centre of the circle is at $\left(-1,\frac{1}{2}\right)$.
 The radius is then the distance from the centre to either of the points $(-5,2)$ or $(3,-1)$, say $(3,-1)$:  
@@ -44,7 +49,7 @@ $$(x+1)^2 + \left(y-\frac{1}{2}\right)^2 = \frac{73}{4}.$$
 
 	There are infinitely many circles that pass through both of the points $(-5,2)$ and $(3,-1)$. Some examples are shown in figure 3.  
 
-![Figure 3](figure3.png)  
+    ![Figure 3](figure3.png)  
 
 4. * We demonstrated above that if we specify two (distinct) points, there is not a unique circle that passes through them---there are many circles that pass through both points. Now let these two (distinct) points be called $A$ and $B$. For both $A$ and $B$ to lie on a circle, the distance from the centre of the circle to each of $A$ and $B$ must be equal. So consider the perpendicular bisector of the line $AB$.  
 ![Figure 4](figure4.png)  
