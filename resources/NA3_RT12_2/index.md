@@ -3,12 +3,12 @@ layout: resource
 source: NRICH
 alias: Problem
 title: A Diophantine equation
-clearance: 0
+clearance: 1
 priors:
   - NA3_RT5_2
   - NA3_RT5_3
 keywords:
-  - factorial
+  - Diophantine equation
   - power
   - prime factorisation
 resourceType: RT12

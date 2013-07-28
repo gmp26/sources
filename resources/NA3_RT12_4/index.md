@@ -1,9 +1,14 @@
 ````
 layout: resource
+alias: Problem
 source: NRICH
 title: $n^5 - n$
-clearance: 0
+clearance: 1
 keywords:
+  - difference of two squares
+  - divisors
+  - common factor
+  - lowest common multiple
 resourceType: RT12
 stids1:
   - NA3

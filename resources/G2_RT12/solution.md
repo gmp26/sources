@@ -26,10 +26,10 @@ The gradient of line $DE$ is equal to $\frac{d^2-e^2}{d-e}=d+e$. As $DE$ is para
 
 We can calculate the midpoint of a straight line between two points $(x_1,y_1)$ and $(x_2,y_2)$ as $(\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$.
 
-So, the midpoint of line $OC$ is equal to $(\frac{0+c}{2},\frac{0+c^2}{2})=(\frac{c}{2},\frac{c^2}{2})$.
+So the midpoint of line $OC$ is $$\left(\frac{0+c}{2},\frac{0+c^2}{2}\right) = \left(\frac{c}{2},\frac{c^2}{2}\right).$$
 
-The midpoint of line $AB$ is equal to $(\frac{a+b}{2},\frac{a^2+b^2}{2})=(\frac{c}{2},\frac{a^2+b^2}{2})$.
+The midpoint of line $AB$ is $$\left(\frac{a+b}{2},\frac{a^2+b^2}{2}\right) = \left(\frac{c}{2},\frac{a^2+b^2}{2}\right).$$
 
-The midpoint of line $DE$ is equal to $(\frac{d+e}{2},\frac{d^2+e^2}{2})=(\frac{c}{2},\frac{d^2+e^2}{2})$.
+The midpoint of line $DE$ is $$\left(\frac{d+e}{2},\frac{d^2+e^2}{2}\right) = \left(\frac{c}{2},\frac{d^2+e^2}{2}\right).$$
 
 All three of these points have an $x$-coordinate of $\frac{c}{2}$. This means that the line $x=\frac{c}{2}$ passes through the midpoints of the lines $OC$, $AB$ and $DE$.

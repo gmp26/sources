@@ -24,3 +24,9 @@ and let $h$ be the highest common factor of $x$, $y$, $z$.
 Prove that $hxyz$ is a perfect square.
 
 Prove also that $h(y-x)$ is a perfect square.
+
+<div class="well">
+_BMO2 1998 Q3._
+
+_Reproduced by kind permission of the <a href="http://ukmt.org.uk">United Kingdom Mathematics Trust</a>._
+</div>

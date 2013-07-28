@@ -13,6 +13,7 @@ stids1:
 stids2:
 pvids1:
 pvids2:
+  - PI2
 
 ````
 

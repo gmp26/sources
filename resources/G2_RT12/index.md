@@ -12,6 +12,7 @@ resourceType: RT12
 stids1:
   - G2
 stids2:
+  - A2
 pvids1:
 pvids2:
 

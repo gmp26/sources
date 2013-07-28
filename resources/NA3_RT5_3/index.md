@@ -1,7 +1,7 @@
 ````
 title: The Fundamental Theorem of Arithmetic
 layout: resource
-clearance: 0
+clearance: 1
 alias: Problem
 keywords:
   - fundamental theorem of arithmetic
@@ -12,6 +12,7 @@ stids1:
 stids2:
 pvids1:
 pvids2:
+  - PI3
 priors:
   - NA3_RT5_2
 
@@ -33,7 +34,9 @@ Note that the fundamental theorem of arithmetic is one good reason why it's conv
 
 * * *
 
+<div class="well">
 The statements below can be sorted into a proof of the Fundamental Theorem of Arithmetic.  You might want to print them out and cut them up to rearrange them.
+</div>
 
 * * *
 

@@ -3,8 +3,12 @@ layout: resource
 source: NRICH
 alias: Problem
 title: There's always one, isn't there?
-clearance: 0
+clearance: 1
 keywords:
+  - remainder
+  - lowest common multiple
+  - highest common factor
+  - division
 resourceType: RT12
 stids1:
   - NA3

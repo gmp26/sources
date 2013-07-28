@@ -13,7 +13,7 @@ Let two numbers $a$ and $b$ (with $a > b$) have a hcf of $d$, which is larger th
 
 #####Claim
 
-If instead the hcf of the two numbers is $1$ (i.e. they are coprime), then there will always be a remainder of 1.
+If instead the hcf of the two numbers is $1$ (i.e. they are _coprime_), then there will always be a remainder of 1.
 
 #####Proof
 

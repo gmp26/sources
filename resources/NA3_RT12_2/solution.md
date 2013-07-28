@@ -3,12 +3,11 @@ alias: Solution
 ````
 <div class="chalk span4 pull-right">
 Remember that we write $x \mid y$ to mean that $x$ divides $y$.
+
+We say that two whole numbers are _coprime_ if their highest common factor is $1$.
 </div>
 We require $a^2=2b^3$, so $2 \mid a^2$. Since $2$ is prime, we must have $2 \mid a$. Similarly, $a^2=3c^5$, so $3 \mid a^2$ and because $3$ is prime we must have $3 \mid a$.
 
-<div class="chalk span4 pull-right">
-We say that two whole numbers are _coprime_ if their highest common factor is $1$.
-</div>
 Therefore, let $a=2^{\alpha_1}3^{\alpha_2}a_1$ where ${\alpha_1}$ and ${\alpha_2}$ are positive integers and $a_1$ is a positive integer coprime to $2$ and $3$.
 
 When we substitute this representation of $a$ into the given equation, we obtain $$2^{2\alpha_1}3^{2\alpha_2}a_1^2=2b^3=3c^5.$$
