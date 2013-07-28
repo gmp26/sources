@@ -1,8 +1,11 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - circle
+  - coordinates
+  - Cartesian equation
 year: 2005
 paper: STEP I
 qno: 6

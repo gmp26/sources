@@ -1,13 +1,16 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - equation of circle
+  - ellipse
 year: 2002
 paper: STEP I
 qno: 1
 stids1:
   - G2
+  - E2
 stids2:
 pvids1:
 pvids2:

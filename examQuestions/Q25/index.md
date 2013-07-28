@@ -3,6 +3,8 @@ source: CamAss
 layout: resource
 clearance: 0
 keywords: 
+  - factor
+  - prime
 year: 2009
 paper: STEP I
 qno: 1

@@ -1,13 +1,17 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - equation of line
+  - perpendicular
+  - coordinates
 year: 2003
 paper: STEP III
 qno: 7
 stids1:
   - G2
+  - E2
 stids2:
 pvids1:
 pvids2:

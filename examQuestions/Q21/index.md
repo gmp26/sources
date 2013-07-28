@@ -1,8 +1,10 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - Diophantine equation
+  - factor
 year: 1998
 paper: STEP II
 qno: 1

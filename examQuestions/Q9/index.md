@@ -1,13 +1,18 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - line
+  - equation of line
+  - quadratic equation
+  - circle
 year: 2009
 paper: STEP I
 qno: 1
 stids1:
   - G2
+  - E2
 stids2:
 pvids1:
 pvids2:

@@ -3,11 +3,15 @@ source: CamAss
 layout: resource
 clearance: 0
 keywords: 
+  - factorisation
+  - difference of two squares
+  - prime
 year: 2006
 paper: STEP I
 qno: 1
 stids1:
   - NA3
+  - A2
 stids2:
 pvids1:
 pvids2:

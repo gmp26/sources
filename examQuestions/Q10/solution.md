@@ -22,7 +22,7 @@ $$y = \frac{a}{b}x + \frac{bt - as}{b}.$$
 
 If we set them equal to each other we have
 $$\frac{-b}{a}x + b = \frac{a}{b}x + \frac{bt - as}{b}$$
-$$\iff b - \frac{bt - as}{b} = (\frac{a}{b} + \frac{b}{a})x$$
+$$\iff b - \frac{bt - as}{b} = \left(\frac{a}{b} + \frac{b}{a}\right)x$$
 $$\iff b - \frac{bt - as}{b} = \frac{a^2 + b^2}{ab}x$$
 $$\iff ab^2 - a(bt - as) = (a^2 + b^2)x$$
 

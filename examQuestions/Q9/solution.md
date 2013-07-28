@@ -6,7 +6,7 @@ We can find the expression for $p$ by calculating the equation of the line $SV$.
 
 If the equation of the line $SV$ is $y = ax + c$, then at the points $(s,ms)$ and $(v,nv)$ we have
 
-$ms = as + c$ and $nv = av + c$
+$$ms = as + c \mbox{ and } nv = av + c$$
 
 $$\Rightarrow ms - nv = a(s - v)$$
 

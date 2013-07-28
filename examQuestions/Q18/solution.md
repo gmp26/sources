@@ -3,11 +3,11 @@ alias: Solution
 ````
 ###Method 1
 
-Let $\frac{n}{100-n}=x$ where $x$ is an integer. Hence $n=100x-nx$.  
+Let $\frac{n}{100-n}=x$ where $x$ is an integer. Hence $n=100x-nx$.
 
-Adding $nx$ to both sides of the equation and factorising, we have $n(1+x)=100x$, giving $n=\frac{100x}{1+x}$.  
+Adding $nx$ to both sides of the equation and factorising, we have $n(1+x)=100x$, giving $n=\frac{100x}{1+x}$.  (Note that we can check that $x \neq 1$.)
 
-Now $x$ and $1+x$ can have no common factors greater than $1$. Therefore, as $n$ is an integer, $1+x$ must be some factor of $100$.  
+Now $x$ and $1+x$ can have no common factors greater than $1$. Therefore, as $n$ is an integer, $1+x$ must be some factor of $100$.
 
 Hence, $x+1$ can take any of the values $\pm1,\pm2,\pm4,\pm5,\pm10,\pm20,\pm25,\pm50,\pm100$. This gives $18$ different values for $x+1$. Each value of $x+1$ gives unique corresponding values of $x$ and $n$, so there are $18$ possible values of $n$ for which $\frac{n}{100-n}$ is an integer.
 

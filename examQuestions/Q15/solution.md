@@ -3,7 +3,9 @@ alias: Solution
 ````
 <div class="chalk">
 We need to find the line through $(h,k)$ that is perpendicular to the original line. We can then find the point where the two lines cross. The distance from this point to $(h,k)$ is the perpendicular distance. See Figure 1.
+
 ![Figure 1](Q15solutionfigure1.png)
+
 </div>
 
 If $\sin\alpha=0$, then $\cos\alpha=\pm1$ so the equation of the line is $x=\frac{p}{\cos\alpha}=p\cos\alpha$. Then the perpendicular distance is $$|h-p\cos\alpha|=|h\cos^2\alpha-p\cos\alpha +k\sin\alpha\cos\alpha|$$ $$=|\cos\alpha(h\cos\alpha-p +k\sin\alpha)|$$ $$=|h\cos\alpha-p +k\sin\alpha|$$ as required.
@@ -14,7 +16,7 @@ $$= |\sin\alpha (h \cos\alpha - p + k \sin\alpha)|$$
 $$= |h \cos\alpha - p + k \sin\alpha|$$
 as required.
 
-So now assume $\sin\alpha\not=0$ and $\cos\alpha \noteq 0$..
+So now assume $\sin\alpha\not=0$ and $\cos\alpha \not = 0$.
 
 Rearranging the equation of the line into the form $y=mx+c$ gives $$y=-\frac{\cos\alpha}{\sin\alpha}x+\frac{p}{\sin\alpha}.$$
 

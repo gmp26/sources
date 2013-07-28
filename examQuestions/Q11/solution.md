@@ -22,10 +22,10 @@ Taking $x = 2$ and substituting into the first simultaneous equation, we have
 $$16 + 2y^2 = 18$$
 $$\iff y^2 = 1$$
 $$\iff y = \pm1.$$
-Taking $x = 48$ gives $50^2 + 2y^2 = 18$ which has no (real) roots, since we will have $y^2$ equal to a negative number. Hence there are two points of intersection, at $(2,1)$ and $(2,-1)$.
+Taking $x = 48$ gives $50^2 + 2y^2 = 18$ which has no (real) roots, since we will have $y^2$ equal to a negative number. Hence there are two points of intersection, at $(2,1)$ and $(2,-1)$ (it is easy to check that these points really do lie on both ellipses).
 
 
-Suppose a circle through these points has centre $(p,q)$ and radius $R$. Then the equation of the circle is
+Say a circle through these points has centre $(p,q)$ and radius $R$. Then the equation of the circle is
 $$(x - p)^2 + (y - q)^2 = R^2.$$
 Setting $(x,y) = (2,1)$ and $(x,y) = (2,-1)$ gives two equations:
 

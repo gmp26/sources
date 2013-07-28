@@ -1,8 +1,10 @@
 ````
 source: UKMT
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - factor
+  - fraction
 year: 2009
 paper: SMC
 qno: 15
