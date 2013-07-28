@@ -28,4 +28,4 @@ So $m = \frac{4}{3}$ or $m = - \frac{24}{7}$.
 
 If $m = \frac{4}{3}$, then $c = 11 - 2 \frac{4}{3} = \frac{25}{3}$, and if $m = - \frac{24}{7}$ then $c = 11 - 2 \frac{(-24)}{7} = \frac{125}{7}$.
 
-So the two tangents are $$y= \frac{4}{3} x + \frac{25}{3$$ and $$y= - \frac{24}{7} x + \frac{125}{7}.$$
+So the two tangents are $$y= \frac{4}{3} x + \frac{25}{3}$$ and $$y= - \frac{24}{7} x + \frac{125}{7}.$$

@@ -1,11 +1,11 @@
 ````
 alias: Solution
 ````
-Completing the square gives us the equation in the form $$(x+g)^2+(y-f)^2=g^2+f^2+c.(1)$$
+Completing the square gives us the equation in the form $$(x+g)^2+(y-f)^2=g^2+f^2+c. \qquad \qquad(\ast)$$
 
 By Pythagoras' Theorem, the distance between the points $(x_1,y_1)$ and $(x_2,y_2)$ is $$\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}.$$
 
-Taking square roots of both sides of $(1)$ gives $$\sqrt{(x+g)^2+(y-f)^2}=\sqrt{g^2+f^2+c}$$ and so the distance between points $(x,y)$ and $(-g,f)$ is $\sqrt{g^2+f^2+c}$. Therefore all points which satisfy this equation are the same distance away from $(-g,f)$, which shows they lie on a circle.
+Taking square roots of both sides of $(\ast)$ gives $$\sqrt{(x+g)^2+(y-f)^2}=\sqrt{g^2+f^2+c}$$ and so the distance between points $(x,y)$ and $(-g,f)$ is $\sqrt{g^2+f^2+c}$. Therefore all points which satisfy this equation are the same distance away from $(-g,f)$, which shows they lie on a circle.
 
 The circle has centre $(-g,f)$ and radius $\sqrt{g^2+f^2+c}$.
 
@@ -51,8 +51,8 @@ To find the length of the shortest distance between the two circles consider
 the diagram below.
 ![Figure 1](Q1solutionfigure.png)
 
-By Pythagoras' Theorem, the hypotenuse of the triangle is
+By Pythagoras' Theorem, the length of the hypotenuse of the triangle is
 $\sqrt{12^2+5^2}=\sqrt{169}=13$.
 
-Therefore the shortest distance between two points is
+Therefore the shortest distance between the two circles is
 $13-(6+\frac{9}{2})=\frac{5}{2}$.

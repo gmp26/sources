@@ -3,13 +3,16 @@ source: CamAss
 layout: resource
 clearance: 0
 keywords: 
+  - circles
+  - touch
+  - equation of a circle
 year: Summer 1986
-paper: Mathematics 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
+paper: A level Mathematics 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
 qno: 7
 stids1: 
   - G2
-stids2:
   - E2
+stids2:
 pvids1:
 pvids2:
 

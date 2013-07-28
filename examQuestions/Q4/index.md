@@ -1,10 +1,13 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
+  - line
+  - circle
+  - tangent
 year: June 1964
-paper: Mathematics 2, Pure Mathematics 2, A level
+paper: A level Mathematics 2, Pure Mathematics 2
 qno: 2
 stids1:
   - G2

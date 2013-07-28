@@ -5,7 +5,7 @@ title: Symmetry
 keywords:
   - symmetry
 resourceType: RT15
-stids1:
+stids1: 
 stids2:
 pvids1:
   - PI7

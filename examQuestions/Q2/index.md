@@ -1,10 +1,10 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 1
 keywords: 
 year: 1987
-paper: Mathematics 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
+paper: A level Mathematics 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
 qno: 6
 stids1: 
   - G2
