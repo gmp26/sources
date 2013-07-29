@@ -22,23 +22,21 @@ It is crucial to realise that $157$ and $211$ are both prime numbers, hence the
 only other factorisation of $33127$ is $33127=1\times33127$.
 
 Therefore the possible factorisations of $33127$ are:
-$33127=1 \times 33127,$
-$33127=157 \times 211,$
-$33127=(-1) \times (-33127),$
-$33127=(-157) \times (-211).$
+* $33127=1 \times 33127$,
+* $33127=157 \times 211$,
+* $33127=(-1) \times (-33127)$,
+* $33127=(-157) \times (-211)$.
 
 To find $m$ we must solve simultaneous equations of the form
 $$n+m-k=a$$
 $$n+m+k=b$$
 where $a \times b=33127$.
 
-Adding the two equations gives $2(n+m)=a+b$ and since $n=182$ we see that $m=\frac{a+b}{2}-n$, and so there are $4$ possible values for $m$:
+Adding the two equations gives $2(n+m)=a+b$ and since $n=182$ we see that $m=\frac{a+b}{2}-182$, and so there are $4$ possible values for $m$:
 
 $$m=\frac{33128}{2}-182=16382,$$
 $$m=\frac{368}{2}-182=2,$$
 $$m=\frac{-33128}{2}-182=16746,$$
 $$m=\frac{-368}{2}-182=-366.$$
 
-The question is based on the method of Fermat factorisation, which can
-sometimes be used effectively to factorise integers. Notice how we have
-factorised a number without ever dividing.
+The question is based on the method of Fermat factorisation, which can sometimes be used effectively to factorise integers. Notice how we have factorised a number without ever dividing.
