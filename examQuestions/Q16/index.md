@@ -1,7 +1,7 @@
 ````
 source: CamAss
 layout: resource
-clearance: 0
+clearance: 
 keywords: 
   - unit fraction
   - factors
