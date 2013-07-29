@@ -17,10 +17,11 @@ If $(n+m)^2 - 33127$ is a perfect square, say $k^2$ where $k$ is an integer, the
 It is crucial to realise that $157$ and $211$ are both prime numbers, hence the only other factorisation of $33127$ is $33127=1\times33127$.
 
 Therefore the possible factorisations of $33127$ are:
-  * $33127=1 \times 33127$,
-  * $33127=157 \times 211$,
-  * $33127=(-1) \times (-33127)$,
-  * $33127=(-157) \times (-211)$.
+
+* $33127=1 \times 33127$,
+* $33127=157 \times 211$,
+* $33127=(-1) \times (-33127)$,
+* $33127=(-157) \times (-211)$.
 
 To find $m$ we must solve simultaneous equations of the form
 $$n+m-k=a$$
