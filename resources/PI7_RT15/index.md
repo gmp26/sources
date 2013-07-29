@@ -41,7 +41,7 @@ We usually think of symmetry as something we can see; something associated with 
 
 ![Graph](picture6.png)
 
-Problems too can contain symmetries. For example, suppose you are given a 3x3 grid and you are asked to put the numbers 0 and 1 into the cells so that no two rows are the same and no two columns are the same. There is an inherent symmetry here: once you have found a solution, swapping the 0s and 1s is also a solution.
+Problems too can contain symmetries. For example, suppose you are given a 3 $\times$ 3 grid and you are asked to put the numbers 0 and 1 into the cells so that no two rows are the same and no two columns are the same. There is an inherent symmetry here: once you have found a solution, swapping the 0s and 1s is also a solution.
 
 ![Table 1](table 1.png)
 
@@ -55,7 +55,7 @@ This symmetry makes your task of finding solutions easier. Once you have found o
 
 Many problems that occur in real life are about filling grids subject to particular constraints, for example creating timetables for schools or planning fixtures for a football league. These problems can be extremely tricky and are usually solved using computer programs that essentially try out all possible ways of filling the grid. Programs that exploit the inherent symmetries can run substantially faster than those that don’t.
 
-In physics, symmetry has come to play an even more fundamental role. The laws of nature, such as those describing how gravity works, are symmetric under translations in space. Whether you drop an apple here, in Hawaii, or 2000 light years away, the same laws can be used to describe what will happen to it. Similarly, the laws of nature are symmetric under rotations. You are free to redefine North to be in the direction of the Eiffel tower rather than the North pole -- any experiments you perform will still have the same outcome. These symmetries are extremely useful: if the laws of nature changed depending on where you are or where you are looking, then there would be no hope of ever understanding them.
+In physics, symmetry has come to play an even more fundamental role. The laws of nature, such as those describing how gravity works, are symmetric under translations in space. Whether you drop an apple here, in Hawaii, or 2000 light years away, the same laws can be used to describe what will happen to it. Similarly, the laws of nature are symmetric under rotations. You are free to redefine North to be in the direction of the Eiffel tower rather than the North pole---any experiments you perform will still have the same outcome. These symmetries are extremely useful: if the laws of nature changed depending on where you are or where you are looking, then there would be no hope of ever understanding them.
 
 In the early part of the twentieth century, Albert Einstein decided that symmetry was such an important feature of nature that it should be put first. His theory of relativity resulted from the idea that the laws of nature should look _exactly the same to all observers_, no matter if they are riding an elephant or accelerating away from Earth in a spaceship.  Ever since then symmetry considerations have played a major role in physics. For example they have enabled physicists to predict particles that had never been observed, but were later found to exist in experiments. In physics, symmetry has become a guiding principle. As the Nobel Prize winner PW Anderson put it, "it is only slightly overstating the case to say that physics is the study of symmetry".
 
@@ -63,7 +63,7 @@ Studying symmetry is an important part of mathematics, not only because it is us
 
 ![Rectangle transformations](diagram1.png)
 
-You can represent all the different symmetries in a rectangle in a table which tells you how they combine. Writing $a$ for the reflection in the horizontal axis, $b$ for the reflection in the vertical axis, $c$ for the rotation through 180 degrees, and e for doing nothing at all, we get 
+You can represent all the different symmetries in a rectangle in a table which tells you how they combine. Writing $a$ for the reflection in the horizontal axis, $b$ for the reflection in the vertical axis, $c$ for the rotation through 180 degrees, and $e$ for doing nothing at all, we get 
 
 ![Table 5](table 5.png)
 
@@ -72,7 +72,7 @@ The surprising thing is that a completely different situation can give you the s
 
 ![Dot transpositions](diagram2.png)
 
-The picture will look the same, so this is a symmetry, for which we will write $a$. Interchanging dots 1 and 3 and dots 2 and 4 is also a symmetry, for which we will write $b$. The remaining possibility is to interchange 1 and 4 and 2 and 3, which we will denote by $c$. Writing down the table, again using the letter e for doing nothing, we see that these symmetries combine in exactly the same way as the symmetries of a rectangle!
+The picture will look the same, so this is a symmetry, for which we will write $a$. Interchanging dots 1 and 3 and dots 2 and 4 is also a symmetry, for which we will write $b$. The remaining possibility is to interchange 1 and 4 and 2 and 3, which we will denote by $c$. Writing down the table, again using the letter $e$ for doing nothing, we see that these symmetries combine in exactly the same way as the symmetries of a rectangle!
 
 ![Table 5 again!](table 5.png)
 

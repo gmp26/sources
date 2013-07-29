@@ -48,6 +48,6 @@ priors:
 
     How many other circles pass through both of these two points?  Can you find the equations of any of them?
 
-4. If we specify two (distinct) points, is there necessarily a unique circle that passes through them?  What if we specify three (distinct) points?  Or four?  Or...?
+<!--4. If we specify two (distinct) points, is there necessarily a unique circle that passes through them?  What if we specify three (distinct) points?  Or four?  Or...?
 
-    Pick examples of a suitable number of points.  Can you find the equation of the unique circle that passes through them?  How many ways can you find to do this?
+    Pick examples of a suitable number of points.  Can you find the equation of the unique circle that passes through them?  How many ways can you find to do this?-->

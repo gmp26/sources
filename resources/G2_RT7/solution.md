@@ -48,7 +48,7 @@ $$(x+1)^2 + \left(y-\frac{1}{2}\right)^2 = \frac{73}{4}.$$
 
     ![Figure 3](figure3.png)
 
-4. We shall consider the various numbers of points separately.
+<!--4. We shall consider the various numbers of points separately.
 
     ##### 2 points
 
@@ -103,3 +103,4 @@ $$(x+1)^2 + \left(y-\frac{1}{2}\right)^2 = \frac{73}{4}.$$
     So the equation of the circle passing through the points $(1,3)$, $(-2,6)$, $(4,2)$ is $$(x-5)^2 + (y-10)^2 = 65.$$
 	
     Of course, there are many other methods to find the equation of a circle through three points.
+-->

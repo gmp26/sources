@@ -5,3 +5,9 @@ I have temporarily removed a couple of dependencies in remaining stations, so as
 C7 depends on F4
 
 C13 depends on F6
+
+Bullet points removed from station G2 for the duration of the workshops:
+
+1. Which of our key examples of geometrical objects in two dimensions can we describe as regions of $\mathbb{R}^2$ bounded by lines? [was the first bullet point]
+
+1. Which shapes can easily be described algebraically, and which are harder to express in this way? [was the last bullet point]
