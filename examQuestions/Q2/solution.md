@@ -51,6 +51,7 @@ So the point $(4,2)$ also lies on the circle.
 If we have two non-parallel chords in a circle, then their perpendicular bisectors intersect at the centre of the circle, as shown in diagram 1.
 
 ![Diagram 1](Q2diagram1.png)
+
 </div>
 
 So if we take the two chords joining the points $(3,0)$ and $(3,4)$, and $(3,4)$ and $(0,4)$ as shown in diagram 2, then we know that the perpendicular bisectors of these chords must intersect at the centre of the circle passing through these three points.  

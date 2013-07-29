@@ -31,9 +31,7 @@ The picture of the snowflake also has mirror symmetry (there are lots of axes yo
 
 The picture of the bathroom tiling is symmetric because if you pick it up, shift it along by one square horizontally, vertically, or diagonally, and then put it down again you end up with the same pattern you started with---at least if you imagine the tiling to extend infinitely in both directions. 
 
-
 ![Tile grid](picture4.png)
-
 
 So a shape is symmetric if it remains the same when we apply a certain operation to it. In the case of shapes drawn on the two-dimensional plane the operations we are interested in are those that move a shape without changing distances between points. We have already met three types of such rigid motions: reflections, rotations and translations (moving an object along in a certain direction and by a certain distance). And this is almost all there is. In two dimensions the only remaining one describes the symmetry of a line of footprints in the sand. In this case the picture remains the same when you translate it by a certain amount and then reflect it in the line running horizontally between your foot prints. This type of rigid motion is called a glide reflection. 
 
@@ -42,7 +40,6 @@ So a shape is symmetric if it remains the same when we apply a certain operation
 We usually think of symmetry as something we can see; something associated with patterns and shapes. But the more general concept of symmetry---immunity to change---means that all sorts of other objects can be symmetric too, including mathematical expressions. Think for example of the expression $7x^6-10x^4+4x^2-1$. It’s complicated, but because all the powers involved are even, its value is the same for both $x$ and $-x$. The expression is symmetric with respect to the transformation $x \rightarrow -x$. Being able to spot this is extremely useful. For example, we often want to find the values of $x$ for which an expression is equal to zero.  The symmetry means that once you have found such a value, its negative also gives you an answer to your problem. The symmetry also means that when sketching the graph of the function $f(x)=7x^6-10x^4+4x^2-1$  you only need to work out its shape for non-negative values of  $x$ and the rest follows. The graph, which is again a visual object,  is symmetric under reflection in the $y$-axis.
 
 ![Graph](picture6.png)
-
 
 Problems too can contain symmetries. For example, suppose you are given a 3x3 grid and you are asked to put the numbers 0 and 1 into the cells so that no two rows are the same and no two columns are the same. There is an inherent symmetry here: once you have found a solution, swapping the 0s and 1s is also a solution.
 
@@ -56,7 +53,6 @@ This symmetry makes your task of finding solutions easier. Once you have found o
 
 ![Table 4](table 4.png)
 
-
 Many problems that occur in real life are about filling grids subject to particular constraints, for example creating timetables for schools or planning fixtures for a football league. These problems can be extremely tricky and are usually solved using computer programs that essentially try out all possible ways of filling the grid. Programs that exploit the inherent symmetries can run substantially faster than those that don’t.
 
 In physics, symmetry has come to play an even more fundamental role. The laws of nature, such as those describing how gravity works, are symmetric under translations in space. Whether you drop an apple here, in Hawaii, or 2000 light years away, the same laws can be used to describe what will happen to it. Similarly, the laws of nature are symmetric under rotations. You are free to redefine North to be in the direction of the Eiffel tower rather than the North pole -- any experiments you perform will still have the same outcome. These symmetries are extremely useful: if the laws of nature changed depending on where you are or where you are looking, then there would be no hope of ever understanding them.
@@ -67,7 +63,6 @@ Studying symmetry is an important part of mathematics, not only because it is us
 
 ![Rectangle transformations](diagram1.png)
 
-
 You can represent all the different symmetries in a rectangle in a table which tells you how they combine. Writing $a$ for the reflection in the horizontal axis, $b$ for the reflection in the vertical axis, $c$ for the rotation through 180 degrees, and e for doing nothing at all, we get 
 
 ![Table 5](table 5.png)
@@ -77,10 +72,8 @@ The surprising thing is that a completely different situation can give you the s
 
 ![Dot transpositions](diagram2.png)
 
-
 The picture will look the same, so this is a symmetry, for which we will write $a$. Interchanging dots 1 and 3 and dots 2 and 4 is also a symmetry, for which we will write $b$. The remaining possibility is to interchange 1 and 4 and 2 and 3, which we will denote by $c$. Writing down the table, again using the letter e for doing nothing, we see that these symmetries combine in exactly the same way as the symmetries of a rectangle!
 
 ![Table 5 again!](table 5.png)
-
 
 This example illustrates that symmetries can be treated in an abstract way: rather than studying the actual objects, patterns or problems that exhibit symmetries, mathematicians study tables such as the one above, made up of a collection of _elements_ that combine in ways that follow certain rules. Such collections are called _groups_. Group theory is a major part of mathematics which, unsurprisingly, finds applications in all sorts of areas, from fundamental physics to solving tricky real life problems.

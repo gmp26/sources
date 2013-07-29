@@ -49,6 +49,7 @@ the two centres.
 </div>
 To find the length of the shortest distance between the two circles consider
 the diagram below.
+
 ![Figure 1](Q1solutionfigure.png)
 
 By Pythagoras' Theorem, the length of the hypotenuse of the triangle is

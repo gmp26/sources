@@ -49,7 +49,9 @@ Answer
 </button>
 
 <div id="answer1" class="collapse">
+
 ![Picture](diagram.png)
+
 </div>
 
 </div>
