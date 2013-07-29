@@ -1,7 +1,7 @@
 ````
 layout: resource
 title: Cartesian coordinates
-clearance: 0
+clearance: 3
 keywords:
   - Descartes
   - coordinates

@@ -1,7 +1,7 @@
 ````
 alias: Problem
 layout: resource
-clearance: 1
+clearance: 3
 title: Equations of circles
 keywords:
   - circle

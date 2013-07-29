@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 1
+clearance: 3
 alias: Problem
 weight: 1
 title: Finding circles
