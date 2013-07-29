@@ -35,3 +35,4 @@ $$m=\frac{-33128}{2}-182=16746,$$
 $$m=\frac{-368}{2}-182=-366.$$
 
 The question is based on the method of Fermat factorisation, which can sometimes be used effectively to factorise integers. Notice how we have factorised a number without ever dividing.
+
