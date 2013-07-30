@@ -49,67 +49,59 @@ Be careful to get the symbols in the right order!  It is true that $3 \mid 12$, 
 On this page, we've written things out in words rather than using this notation, but you might like to use it in your own working.
 </div> 
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#hint1">
-Hint 1
-</button>
+<%= hint_group('Hint 1', '#hint1', 'A possible response', '#answer1') %>
 
-<div id="hint1" class="collapse">
-Before we can prove something, we need to formulate a precise statement of what it is that we are trying to prove.  So what statement are you trying to prove?
-</div>
+  <%= divReveal_("hint1") %>
+  Before we can prove something, we need to formulate a precise statement of what it is that we are trying to prove.  So what statement are you trying to prove?
+  <%= _div %>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer1">
-Possible answer to hint 1
-</button>
+  <%= divReveal_("answer1") %>
+  Here's one statement that we might try to prove.
 
-<div id="answer1" class="collapse">
-Here's one statement that we might try to prove.
+  If $p$ is prime and $p$ divides $ab$, then $p$ divides $a$ or $p$ divides $b$.
 
-If $p$ is prime and $p$ divides $ab$, then $p$ divides $a$ or $p$ divides $b$.
+  (Note that 'or' in maths is _inclusive_, so you should read the conclusion above as "$p$ divides $a$ or $p$ divides $b$ or both".)
 
-(Note that 'or' in maths is _inclusive_, so you should read the conclusion above as "$p$ divides $a$ or $p$ divides $b$ or both".)
+  It might be that you have a more refined version of this.
+  <%= _div %>
 
-It might be that you have a more refined version of this.
-</div>
+<%= hint_group('Hint 2', '#hint2', 'A possible response', '#answer2') %>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#hint2">
-Hint 2
-</button>
+  <%= divReveal_("hint2") %>
+  We are trying to prove a result of the form
 
-<div id="hint2" class="collapse">
-We are trying to prove a result of the form
+  If $X$, then $Y$ or $Z$.
 
-If $X$, then $Y$ or $Z$.
+  Do you have a strategy for proving such a result?  How might you set about it?
+  <%= _div %>
 
-Do you have a strategy for proving such a result?  How might you set about it?
-</div>
+  <%= divReveal_("answer1") %>
+  Here's one possible approach.
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer2">
-Possible answer to hint 2
-</button>
+  We are allowed to assume statement $X$.
 
-<div id="answer2" class="collapse">
-Here's one possible approach.
+  If statement $Y$ is true, then we are done: the result is true.
 
-We are allowed to assume statement $X$.
+  So we may assume that statement $Y$ is false, and then our job is to show that statement $Z$ is true.
 
-If statement $Y$ is true, then we are done: the result is true.
+  In our case, that means that our strategy is to assume that $p$ is prime, that $p$ divides $ab$, and that $p$ does not divide $a$, and then to deduce that $p$ divides $b$.
+  <%= _div %>
 
-So we may assume that statement $Y$ is false, and then our job is to show that statement $Z$ is true.
+<div class="btn-group hint">
 
-In our case, that means that our strategy is to assume that $p$ is prime, that $p$ divides $ab$, and that $p$ does not divide $a$, and then to deduce that $p$ divides $b$.
-</div>
-
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#hint3">
+<button type="button" class="btn btn-primary btn-action" data-toggle="collapse" data-target="#hint3">
 Hint 3
 </button>
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer3">
+Possible answer to hint 3
+</button>
+
+</div>
 
 <div id="hint3" class="collapse">
 If you're following the strategy suggested in the possible answer to hint 2 above, then you are making the extra assumption that $p$ does not divide $a$.  How can we use that information to help?
 </div>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer3">
-Possible answer to hint 3
-</button>
 
 <div id="answer3" class="collapse">
 We know that $p$ is prime and that $p$ does not divide $a$.  That tells us that the highest common factor of $a$ and $p$ is $1$ (that is, they are _coprime_).
@@ -119,9 +111,14 @@ The statement that two numbers have highest common factor $1$ can be quite a neg
 So we know that there are integers $m$ and $n$ such that $am + pn = 1$.
 </div>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#hint4">
+<div class="btn-group hint">
+<button type="button" class="btn btn-primary btn-action" data-toggle="collapse" data-target="#hint4">
 Hint 4
 </button>
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer4">
+Possible answer to hint 4
+</button>
+</div>
 
 <div id="hint4" class="collapse">
 We're almost there now.
@@ -129,9 +126,6 @@ We're almost there now.
 How can we involve $b$?  We haven't yet used the assumption that $p$ divides $ab$.  How might we use that?
 </div>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer4">
-Possible answer to hint 4
-</button>
 
 <div id="answer4" class="collapse">
 We could multiply the equation $am + pn = 1$ (from the possible answer to hint 3) by $b$.  That would introduce a $b$ somewhere, and also gives us an $ab$, which should be useful.
