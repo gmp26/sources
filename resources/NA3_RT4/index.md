@@ -28,7 +28,7 @@ Why is that?  Try to find your own explanation.
 
 Here's a picture that might be helpful.
 
-PICTURE
+![Diagram](airRods.png)
 
 We can use this idea to understand _Euclid's algorithm_.
 
