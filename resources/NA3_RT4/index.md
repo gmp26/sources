@@ -67,6 +67,8 @@ To show that $7$ is the highest common factor of these two numbers, we need to s
 
 We'll show these things in order.
 
+* * *
+
 ##### $7$ is a common factor of $122381$ and $35889$
 
 Let's first start at the bottom and then work up.
@@ -82,6 +84,8 @@ And so on, all the way up to the first equation, $122381 = 3 \times 35889 + 1471
 That's a good start. 
 
 You might reasonably think that it would be a lot easier just to check directly that $7$ divides both numbers, but the advantage of what we've just done is that we can generalise it to _any_ pair of starting numbers and still know that the last non-zero remainder divides both starting numbers.
+
+* * *
 
 ##### Any common factor of $122381$ and $35889$ is at most $7$
 
