@@ -1,7 +1,7 @@
 ````
 layout: resource
 source: NRICH
-clearance: 1
+clearance: 3
 alias: Problem
 title: Factorial fun
 keywords:

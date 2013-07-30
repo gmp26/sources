@@ -85,18 +85,18 @@ $$\left[\frac{500}{k}\right]+\left[\frac{500}{k^2}\right]+ \dotsb +\left[\frac{5
 
 #####Factors of $n!$  
 
-We can generalise the above result beyond the case of $500!$.  The highest power of $k$ that divides $n!$, where $k^t < n < k^{t+1}$, is equal to $$\left[\frac{n}{k}\right] + \left[\frac{n}{k^2}\right] + \dotsb + \left[\frac{n}{k^t}\right],$$ by exactly the same reasoning as in (b).  
+We can generalise the above result beyond the case of $500!$.  The highest power of $k$ that divides $n!$, where $k^t < n < k^{t+1}$, is equal to $$\left[\frac{n}{k}\right] + \left[\frac{n}{k^2}\right] + \dotsb + \left[\frac{n}{k^t}\right],$$ by exactly the same reasoning as in (b).
 
-We can use this information to find the prime factorisation of $n!$. Let $p$ be the largest prime with $p\leq n$. Also, for any number $m$, let $t_m$ be the integer such that $m^{t_m} \leq n< m^{t_m+1}$.  
+We can use this information to find the prime factorisation of $n!$. Let $p$ be the largest prime with $p\leq n$. Also, for any number $m$, let $t_m$ be the integer such that $m^{t_m} \leq n< m^{t_m+1}$.
 
-Using the information from part (b), we can then calculate the prime factorisation of $n!$: we have  
+Using the information from part (b), we can then calculate the prime factorisation of $n!$: we have
 
-$$n! = 2^{\left(\left[\frac{n}{2}\right]+\left[\frac{n}{2^2}\right] + \dotsb +\left[\frac{n}{2^{t_2}}\right]\right)} \times 3^{\left(\left[\frac{n}{3}\right]+\left[\frac{n}{3^3}\right]+ \dotsb +\left[\frac{n}{3^{t_3}}\right]\right)} \times \dotsm \times p^{\left(\left[\frac{n}{p}\right] + \left[\frac{n}{p^2}\right] + \dotsb +\left[\frac{n}{p^{t_p}}\right]\right)}.$$  
+$$n! = 2^{\left(\left[\frac{n}{2}\right]+\left[\frac{n}{2^2}\right] + \dotsb +\left[\frac{n}{2^{t_2}}\right]\right)} \times 3^{\left(\left[\frac{n}{3}\right]+\left[\frac{n}{3^3}\right]+ \dotsb +\left[\frac{n}{3^{t_3}}\right]\right)} \times \dotsm \times p^{\left(\left[\frac{n}{p}\right] + \left[\frac{n}{p^2}\right] + \dotsb +\left[\frac{n}{p^{t_p}}\right]\right)}.$$ 
 
 Then we can use the same reasoning as in part (a) to calculate the number of factors of $n!$: we get
 
 $$\left(1 + \left[\frac{n}{2}\right]+\left[\frac{n}{2^2}\right]+ \dotsb + \left[\frac{n}{2^{t_2}}\right]\right) \times \left(1 + \left[\frac{n}{3}\right] + \left[\frac{n}{3^2}\right] + \dotsb + \left[\frac{n}{3^{t_3}}\right]\right) \times \dotsm$$
-$$ \times \left(1 + \left[\frac{n}{p}\right] + \left[\frac{n}{p^2}\right] + \dotsb +\left[\frac{n}{p^{t_p}}\right]\right).$$  
+$$ \times \left(1 + \left[\frac{n}{p}\right] + \left[\frac{n}{p^2}\right] + \dotsb +\left[\frac{n}{p^{t_p}}\right]\right).$$ 
 
 We can check that this expression works for the example of $20!$:
 
