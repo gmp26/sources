@@ -3,7 +3,7 @@ layout: resource
 source: NRICH
 alias: Problem
 title: There's always one, isn't there?
-clearance: 1
+clearance: 3
 keywords:
   - remainder
   - lowest common multiple
