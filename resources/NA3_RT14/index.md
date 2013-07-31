@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 1
+clearance: 3
 keywords:
 title: $S$-prime numbers
 resourceType: RT14
