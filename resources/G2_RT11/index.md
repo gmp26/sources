@@ -2,7 +2,7 @@
 title: Diamond collector
 layout: resource
 source: NRICH
-clearance: 3
+clearance: 1
 keywords:
   - equation of line
   - equation of circle

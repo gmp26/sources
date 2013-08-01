@@ -1,7 +1,7 @@
 ````
 source: CamAss
 layout: resource
-clearance: 3
+clearance: 1
 keywords: 
   - line
   - equation of line

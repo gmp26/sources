@@ -3,7 +3,7 @@ title: Parabella
 layout: resource
 alias: Problem
 source: NRICH
-clearance: 3
+clearance: 1
 keywords:
   - parabola
   - line

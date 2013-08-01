@@ -3,7 +3,7 @@ layout: resource
 alias: Problem
 source: NRICH
 title: $n^5 - n$
-clearance: 3
+clearance: 1
 keywords:
   - difference of two squares
   - divisors

@@ -3,7 +3,7 @@ layout: resource
 source: NRICH
 alias: Problem
 title: A Diophantine equation
-clearance: 3
+clearance: 1
 priors:
   - NA3_RT5_2
   - NA3_RT5_3

@@ -1,7 +1,7 @@
 ````
 source: UKMT
 layout: resource
-clearance: 3
+clearance: 1
 keywords: 
   - factorisation
   - factor

@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 3
+clearance: 1
 title: Olympic rings
 keywords:
   - equation of circle
