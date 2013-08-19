@@ -5,7 +5,7 @@ alias: Solution
 Here's a summary of the matching between equations and circles.
 
 -----------------------------------
-Circle  Equations
+Circle  Equation
 ------- ---------------------------
 $a$     6
 

@@ -5,4 +5,5 @@ icon: icon-info-sign
 
 ````
 
-link to teacher support
+A presentation of some mathematics, perhaps in the form of an article or a video.  It might, but need not, include questions for the student to consider while reading/watching the presentation.
+
