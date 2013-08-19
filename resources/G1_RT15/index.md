@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 0
+clearance: 3
 title: Geometry --- A History from Practice to Abstraction
 source: NRICH
 keywords:
