@@ -24,17 +24,17 @@ There is also a neat way of reaching $|b|=r$ geometrically: the centre is $(a,b)
 
 Now we can substitute this into $(\ast)$ and solve for $b$:
 
-$(14 - 2b)^2 + (2 - b)^2 = b^2$
+$$(14 - 2b)^2 + (2 - b)^2 = b^2$$
 
-$\iff 196 - 56b + 4b^2 + 4 - 4b + b^2 = b^2$
+$$\iff 196 - 56b + 4b^2 + 4 - 4b + b^2 = b^2$$
 
-$\iff 4b^2 - 60b + 200 = 0$
+$$\iff 4b^2 - 60b + 200 = 0$$
 
-$\iff b^2 - 15b + 50 = 0$
+$$\iff b^2 - 15b + 50 = 0$$
 
-$\iff (b - 5)(b - 10) = 0$
+$$\iff (b - 5)(b - 10) = 0$$
 
-$\iff b = 5$ or $b = 10$.
+$$\iff b = 5$ or $b = 10.$$
 
 Finally, using $2b = a$ and $b^2 = r^2$, we have that the two possible solutions are
 
@@ -53,17 +53,17 @@ For the second part of the question, we give two methods. The first uses direct 
 
 For the first circle, expanding and substituting $x = \frac{3}{4}y$ we have
 
-$x^2 - 20x + y^2 - 10y + 100 = 0$ and $x = \frac{3}{4}y$
+$$x^2 - 20x + y^2 - 10y + 100 = 0$ and $x = \frac{3}{4}y$$
 
-$\Rightarrow \frac{9}{16}y^2 - 15y + y^2 - 10y + 100 = 0$
+$$\Rightarrow \frac{9}{16}y^2 - 15y + y^2 - 10y + 100 = 0$$
 
-$\Rightarrow \frac{25}{16}y^2 - 25y + 100 = 0$
+$$\Rightarrow \frac{25}{16}y^2 - 25y + 100 = 0$$
 
-$\Rightarrow y^2 - 16y + 64 = 0$
+$$\Rightarrow y^2 - 16y + 64 = 0$$
 
-$\Rightarrow (y - 8)^2 = 0$
+$$\Rightarrow (y - 8)^2 = 0$$
 
-$\Rightarrow y = 8$.
+$$\Rightarrow y = 8.$$
 
 Now we can use $x = \frac{3}{4}y$ to find that $x = 6$.
 
@@ -71,17 +71,17 @@ This has a single solution, as expected, and so the line is a tangent to the cir
 
 Similarly for the second circle:
 
-$x^2 - 40x + y^2 - 20y + 400 = 0$ and $x = \frac{3}{4}y$
+$$x^2 - 40x + y^2 - 20y + 400 = 0$ and $x = \frac{3}{4}y$$
 
-$\Rightarrow \frac{9}{16}y^2 - 30y + y^2 - 20y + 400 = 0$
+$$\Rightarrow \frac{9}{16}y^2 - 30y + y^2 - 20y + 400 = 0$$
 
-$\Rightarrow \frac{25}{16}y^2 - 50y + 400 = 0$
+$$\Rightarrow \frac{25}{16}y^2 - 50y + 400 = 0$$
 
-$\Rightarrow y^2 - 32y + 196 = 0$
+$$\Rightarrow y^2 - 32y + 196 = 0$$
 
-$\Rightarrow (y - 16)^2 = 0$
+$$\Rightarrow (y - 16)^2 = 0$$
 
-$\Rightarrow y = 16$.
+$$\Rightarrow y = 16.$$
 
 Again we can use $x = \frac{3}{4}y$ to find the corresponding value of $x$; this time $x = 12$.
 
@@ -99,15 +99,15 @@ So the radial line has equation $$y = \frac{-3}{4}x + \frac{25}{2}.$$
 
 Then the point at which the radial line and the tangent intersect satisfies
 
-$3y = 4x$ and $y = \frac{-3}{4}x + \frac{25}{2}$
+$$3y = 4x \textrm{ and } y = \frac{-3}{4}x + \frac{25}{2}$$
 
-$\Rightarrow \frac{-9}{4}x + \frac{75}{2} = 4x$
+$$\Rightarrow \frac{-9}{4}x + \frac{75}{2} = 4x$$
 
-$\Rightarrow -9x + 150 = 16x$
+$$\Rightarrow -9x + 150 = 16x$$
 
-$\Rightarrow 25x = 150$
+$$\Rightarrow 25x = 150$$
 
-$\Rightarrow x = 6$, $y = 8$
+$$\Rightarrow x = 6, \quad y = 8.$$
 
 This is indeed a point on the circle: $(6 - 10)^2 + (8 - 5)^2 = 4^2 + 3^2 = 25$. Hence the line $3y = 4x$ intersects the radial line at a point on the circle, and so is a tangent line.
 
