@@ -20,9 +20,9 @@ priors:
 ````
 
 
-![Plot of circles](missing_circles.png)
+![Circles](missing_bw.png)
 
-We have 13 circles. Some of them are represented in the above diagram, with the labels of the $x$-axis and $y$-axis removed.  Here are equations for eleven of the circles.
+We have thought of 13 circles. Some of them are represented in the above diagram, with the labels of the $x$-axis and $y$-axis removed.  Here are equations for some of the circles.
 
 1. $\left(x+10\right)^2 +\left(y+15\right)^2 = 4\pi ^2$
 2. $x^2 + y^2 = 324$
