@@ -1,7 +1,7 @@
 ````
 source: CamAss
 layout: resource
-clearance: 1
+clearance: 3
 keywords: 
   - factorisation
   - difference of two squares

@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 1
+clearance: 3
 title: Euclid's algorithm
 keywords:
   - Euclid's algorithm

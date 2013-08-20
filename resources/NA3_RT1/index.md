@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 1
+clearance: 3
 title: Picture this!
 keywords:
   - Euclid's algorithm

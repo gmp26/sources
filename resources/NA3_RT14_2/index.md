@@ -1,7 +1,7 @@
 ````
 layout: resource
 source: UKMT
-clearance: 1
+clearance: 3
 resourceType: RT14
 title: A BMO2 question
 keywords:

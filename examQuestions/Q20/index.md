@@ -1,7 +1,7 @@
 ````
 source: UKMT
 layout: resource
-clearance: 1
+clearance: 3
 keywords: 
   - primorial
   - prime

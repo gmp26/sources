@@ -2,7 +2,7 @@
 title: LCM sudoku
 layout: resource
 source: NRICH
-clearance: 1
+clearance: 3
 keywords:
   - least common multiple
 resourceType: RT12

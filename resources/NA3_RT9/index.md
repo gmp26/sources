@@ -2,7 +2,7 @@
 layout: resource
 clearance: 1
 alias: Problem
-weight: 1
+weight: 3
 title: Buckets and ponds
 keywords:
   - Diophantine equation

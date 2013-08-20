@@ -1,7 +1,7 @@
 ````
 title: The Fundamental Theorem of Arithmetic
 layout: resource
-clearance: 1
+clearance: 3
 alias: Problem
 keywords:
   - fundamental theorem of arithmetic
