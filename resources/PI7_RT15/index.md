@@ -1,6 +1,6 @@
 ````
 layout: resource
-clearance: 1
+clearance: 3
 title: Symmetry
 keywords:
   - symmetry
