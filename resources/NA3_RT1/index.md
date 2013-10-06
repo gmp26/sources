@@ -22,12 +22,20 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 <div class="well">
 Experiment with a few examples, and then consider the questions that follow.
 </div>
+<p>
+<a class="btn btn-primary" href="animation/index.html">Full Screen Version</a>
+</p>
 
-<div class="row-fluid">
-<iframe src="http://nrich.maths.org/psum/picture-this/full/?mobile=1" class="nrich-embed" style="width:700px;height:550px"></iframe>
-</div>
+<!-- <div class="row-fluid"> -->
+<iframe src="animation/index.html" class="nrich-embed" style="width:300px;height:300px"></iframe>
+<!-- </div> -->
 
+<!--
 _Interactivity reproduced from [Picture This!](http://nrich.maths.org/psum/picture-this/).  This will be tweaked to have a full screen version (in such a way that the numbers are still visible when displayed full screen).  We might also lose the option of a non-spiral version._
+
+...done, though thumbnail version on first screen can be cropped with some
+numbers, so full screen is preferable. -- gmp26
+-->
 
 <div class="well">
 * Given two positive integers, can you draw the corresponding diagram?

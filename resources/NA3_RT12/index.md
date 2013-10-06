@@ -14,7 +14,7 @@ pvids2:
 
 ````
 <div class="row-fluid">
-<iframe src="http://nrich.maths.org/content/id/6311/SudokuNov08v2.swf" style="width:600px; height:450px" class="nrich-embed"></iframe>
+<iframe src="SudokuNov08v2.swf" style="width:600px; height:450px" class="nrich-embed"></iframe>
 </div>
 
 Like a standard sudoku, this sudoku variant has the basic rule that every row, every column and every $3 \times 3$ box in the grid contains the digits $1$ to $9$. 

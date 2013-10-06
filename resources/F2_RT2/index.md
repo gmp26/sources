@@ -12,7 +12,20 @@ pvids2:
   - PI11
 
 ````
+The following five functions have been plotted accurately on the chart below
 
-<div class="row-fluid">
+$y=\sqrt{x}$ $\quad\quad y=x^2$ $\quad\quad y=x$
+$\quad\quad y=(x^2+x)/2$ $\quad\quad y=2\sqrt{x}-x$
+
+<!-- INSERT PICTURE -->
+![Curves](curves.jpg)
+
+Which is the $x$-axis and which is the $y$-axis? Which curves correspond to which functions?
+
+Imagine that you wish to plot a route between $(0,0)$ and $(1,1)$. Can you find a function which does this without intersecting any of the existing curves, except at the endpoints?
+
+What other curves can you plot which only intersect the existing curves at the end points? 
+
+<!-- <div class="row-fluid">
 <iframe src="http://nrich.maths.org/6493?mobile=1" class="span12 nrich-embed"></iframe>
-</div>
+</div> -->

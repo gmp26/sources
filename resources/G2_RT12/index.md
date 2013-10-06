@@ -25,11 +25,12 @@ Let $A$ have coordinates $(a,a^2)$, let $B$ have coordinates $(b,b^2)$ and let $
 
 Prove that $a+b = c$.
 
-NEED TO ADD PICTURE
+![The parabella](parabella.svg)
 
 Imagine drawing another parallel line $DE$, where $D$ and $E$ are two other points on the parabola.  Extend the ideas of the previous result to prove that the midpoints of each of the three parallel lines lie on a straight line.
 
-
+<!--
 <div class="row-fluid">
 <iframe src="http://nrich.maths.org/785?mobile=1" class="span12 nrich-embed"></iframe>
 </div>
+-->
