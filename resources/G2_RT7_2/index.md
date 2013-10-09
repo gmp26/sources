@@ -19,7 +19,6 @@ priors:
 
 ````
 
-
 ![Circles](missing_bw.png)
 
 We have thought of 13 circles. Some of them are represented in the above diagram, with the labels of the $x$-axis and $y$-axis removed.  Here are equations for some of the circles.

@@ -16,7 +16,6 @@ pvids1:
 pvids2:
 
 ````
-
 Suppose $x$, $y$, $z$ are positive integers satisfying the equation
 $$\frac{1}{x} - \frac{1}{y} = \frac{1}{z},$$
 and let $h$ be the highest common factor of $x$, $y$, $z$.

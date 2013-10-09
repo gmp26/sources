@@ -17,6 +17,7 @@ pvids1:
 pvids2:
 
 ````
+
 Take any two points $A$ and $B$ on the parabola $y = x^2$.
 
 Draw the line $OC$ through the origin, parallel to $AB$, cutting the parabola again at $C$.

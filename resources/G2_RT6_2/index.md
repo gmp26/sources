@@ -15,6 +15,7 @@ pvids2:
   - PI1
 
 ````
+
 If we specify two (distinct) points, is there necessarily a unique circle that passes through them?
 
 What if we specify three (distinct) points?

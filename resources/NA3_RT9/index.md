@@ -20,7 +20,6 @@ priors:
   - NA3_RT4
 
 ````
-
 ![River and pond](river.png)
 
 Here is a pond, near to a river.  We need to move 41 litres of water from the river to the pond.  To help with this, we have two buckets, one with capacity 10 litres and one with capacity 13 litres.  The buckets are not calibrated, so we cannot measure part-buckets.  We can move water from the river to the pond, and from the pond to the river, but we must use the buckets.

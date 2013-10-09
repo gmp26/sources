@@ -13,8 +13,6 @@ pvids2:
 
 ````
 
-##Stopping safely
-
 Quadratic equations lie at the heart of many classical dynamics problems.  The most basic equation of motion states that speed is equal to distance travelled divided by time.  So if you travel $s$ metres in $t$ seconds then your average speed is  
 $$v=\frac{s}{t}.$$
 

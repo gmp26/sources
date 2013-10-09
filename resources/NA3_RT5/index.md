@@ -16,6 +16,7 @@ pvids2:
   - PI12
 
 ````
+
 We denote the product of the first $20$ natural numbers by $20!$ and call this $20$ factorial.
 
 (a) What is the highest power of $5$ which is a divisor of $20$ factorial? Just how many factors does $20!$ have altogether?

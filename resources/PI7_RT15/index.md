@@ -14,8 +14,6 @@ pvids2:
 
 ````
 
-## Symmetry
-
 Looking at the images below you’ll spot immediately which one is symmetric and which one is not. Symmetry is something we all understand instinctively; it seems to be hardwired into our brains. As mathematical concepts go, symmetry is perhaps the one that people find easiest to understand.
 
 ![Symmetrees](picture1.png)
