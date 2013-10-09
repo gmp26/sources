@@ -38,46 +38,46 @@ The coordinate system gives us a very natural way to get a helpful right-angled 
 
 If the point $(x,y)$ were placed differently relative to $(-1,2)$, then we might get different triangles.
 
-<div class="well">
+<:= style(well) :>
 
 ####Exercise
 
 Find all the possible diagrams, and the side lengths of the resulting triangles.
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer1">
+<:= reveal("answer1") :>
 Answer
-</button>
+<:= reveal() :>
 
-<div id="answer1" class="collapse">
-
+<:= collapsed("answer1") :>
 ![Picture](diagram.png)
+<:= collapsed() :>
 
-</div>
-
-</div>
+<:= style() :>
 
 Now Pythagoras's theorem helps us to find the distance between the points $(x,y)$ and $(-1,2)$: it's $$\sqrt{(x+1)^2 + (2-y)^2}.$$
 
-<div class="well">####Exercise
+<:= style(well) :>
+
+####Exercise
 
 Find the corresponding expressions for the distances in the other possible diagrams.
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer2">
+<:= reveal("answer2") :>
 Answer
-</button>
+<:= reveal() :>
 
-<div id="answer2" class="collapse">
-The expressions for the distance between $(-1,2)$ and $(x,y)$ in each of the above diagrams are:  
+<:= collapsed("answer2") :>
+The expressions for the distance between $(-1,2)$ and $(x,y)$ in each of the above diagrams are: 
 
-1) $\sqrt{(x+1)^2+(2-y)^2}$,  
-2) $\sqrt{(-1-x)^2+(2-y)^2}$,  
-3) $\sqrt{(-1-x)^2+(y-2)^2}$,  
-4) $\sqrt{(x+1)^2+(y-2)^2}$.  
+1) $\sqrt{(x+1)^2+(2-y)^2}$, 
+2) $\sqrt{(-1-x)^2+(2-y)^2}$, 
+3) $\sqrt{(-1-x)^2+(y-2)^2}$, 
+4) $\sqrt{(x+1)^2+(y-2)^2}$. 
   
 Using the fact that $(-a)^2=a^2$ for any real number $a$, we can see that these expressions are all equivalent!
-</div>
+<:= collapsed() :>
 
-</div>
+<:= style() :>
 
 So $(x,y)$ lies on the circle of radius $3$ with centre $(-1,2)$ if, and only if, $$\sqrt{(x+1)^2 + (2-y)^2} = 3.$$
 
@@ -85,11 +85,11 @@ This, in turn, is satisfied if, and only if, $$(x+1)^2 + (2-y)^2 = 9.$$  (In one
 
 So the equation of the circle of radius $3$ with centre $(-1,2)$ is $$(x+1)^2 + (2-y)^2 = 9.$$
 
-<div class="well">####Exercise
+<:= style(well) :>####Exercise
 
-Expand out the brackets and experiment with different ways of writing this equation.  Which way(s) do you find most convenient, and why?</div>
+Expand out the brackets and experiment with different ways of writing this equation.  Which way(s) do you find most convenient, and why?<:= style() :>
 
-<div class="well">####Exercise
+<:= style(well) :>####Exercise
 
-Pick a radius and a centre, and find the equation of the corresponding circle, with an explanation.  Repeat until you feel confident.</div>
+Pick a radius and a centre, and find the equation of the corresponding circle, with an explanation.  Repeat until you feel confident.<:= style() :>
 
