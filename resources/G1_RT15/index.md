@@ -18,6 +18,7 @@ pvids2:
   - PI8
 
 ````
+<:= section(title, 2) :>
 
 ### 1. Ancient and Classical Geometries
 As an essential part of their daily lives, ancient cultures knew a considerable amount of geometry as practical measurement and as rules for dividing and combining shapes of different kinds for building temples, palaces and for civil engineering. For their everyday practical purposes, people lived on a 'flat' Earth. A 'straight line' was a tightly stretched rope, and a circle could be drawn by tracing round a fixed point.

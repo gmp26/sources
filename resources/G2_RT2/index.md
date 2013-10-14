@@ -15,7 +15,9 @@ pvids1:
 pvids2:
   - PI1
   - PI2
+acknowledgementText: wombat
 ````
+<:= section(title, 2) :>
 
 1. Which of the following describe a straight line?
 
