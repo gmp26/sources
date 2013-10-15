@@ -21,7 +21,7 @@ priors:
 
 Here's a game for two players.
 
-<div class="well">
+<:= style(well) :>
 Player 1: Choose a positive integer that is greater than $1$.  Call it $n$.
 
 Player 2: Choose two positive integers, say $a$ and $b$, in such a way that $n$ divides the product $ab$ (that is, $ab$ is a multiple of $n$).
@@ -29,7 +29,7 @@ Player 2: Choose two positive integers, say $a$ and $b$, in such a way that $n$ 
 If $n$ divides $a$ or $n$ divides $b$, then Player 1 wins.
 
 If $n$ divides neither $a$ nor $b$, then Player 2 wins.
-</div>
+<:= style() :>
 
 1.  Play this game against a partner a few times, to get a feel for the rules.  You might want to swap so that you each experience being Player 1 and Player 2.  Can you find a winning strategy for Player 1?  Can you find a winning strategy for Player 2?
 
@@ -37,25 +37,25 @@ If $n$ divides neither $a$ nor $b$, then Player 2 wins.
 
     You should be really careful that you use only facts about primes and integers that you can prove for yourself.  Otherwise you run the risk of having a circular argument: you use some fact to prove your conjecture in this question, and then use the result in this question to prove that fact.
 
-<div class="chalk">
+<:= style(chalk) :>
 Tip: here's some conventional notation that you might find useful while working on this problem.
 
-If $a$ and $b$ are integers, then we might write $a \mid b$ (the symbol in the middle is a vertical line) to mean "$a$ divides $b$".  More formally, that tells us that there is some integer $c$ such that $b = ac$.  If you're reading $a \mid b$ out loud, then you should say "$a$ divides $b$".  
+If $a$ and $b$ are integers, then we might write $a \mid b$ (the symbol in the middle is a vertical line) to mean "$a$ divides $b$".  More formally, that tells us that there is some integer $c$ such that $b = ac$.  If you're reading $a \mid b$ out loud, then you should say "$a$ divides $b$".
 
 If it is not true that $a$ divides $b$, then we can write $a \not\mid b$ (that is, a vertical line with a little dash through it), and we'd read that as "$a$ does not divide $b$".
 
 Be careful to get the symbols in the right order!  It is true that $3 \mid 12$, but it is definitely not true that $12 \mid 3$ (in fact, $12 \not\mid 3$).
 
 On this page, we've written things out in words rather than using this notation, but you might like to use it in your own working.
-</div> 
+<:= style() :>
 
-<%= hint_group('Hint 1', '#hint1', 'A possible response', '#answer1') %>
+<:= hintAnswer('Hint 1', '#hint1', 'A possible response', '#answer1') :>
 
-  <%= divReveal_("hint1") %>
+  <:= collapsed("hint1") :>
   Before we can prove something, we need to formulate a precise statement of what it is that we are trying to prove.  So what statement are you trying to prove?
-  <%= _div %>
+  <:= collapsed() :>
 
-  <%= divReveal_("answer1") %>
+  <:= collapsed("answer1") :>
   Here's one statement that we might try to prove.
 
   If $p$ is prime and $p$ divides $ab$, then $p$ divides $a$ or $p$ divides $b$.
@@ -63,19 +63,19 @@ On this page, we've written things out in words rather than using this notation,
   (Note that 'or' in maths is _inclusive_, so you should read the conclusion above as "$p$ divides $a$ or $p$ divides $b$ or both".)
 
   It might be that you have a more refined version of this.
-  <%= _div %>
+  <:= collapsed() :>
 
-<%= hint_group('Hint 2', '#hint2', 'A possible response', '#answer2') %>
+<:= hintAnswer('Hint 2', '#hint2', 'A possible response', '#answer2') :>
 
-  <%= divReveal_("hint2") %>
+  <:= collapsed("hint2") :>
   We are trying to prove a result of the form
 
   If $X$, then $Y$ or $Z$.
 
   Do you have a strategy for proving such a result?  How might you set about it?
-  <%= _div %>
+  <:= collapsed() :>
 
-  <%= divReveal_("answer1") %>
+  <:= collapsed("answer2") :>
   Here's one possible approach.
 
   We are allowed to assume statement $X$.
@@ -85,50 +85,34 @@ On this page, we've written things out in words rather than using this notation,
   So we may assume that statement $Y$ is false, and then our job is to show that statement $Z$ is true.
 
   In our case, that means that our strategy is to assume that $p$ is prime, that $p$ divides $ab$, and that $p$ does not divide $a$, and then to deduce that $p$ divides $b$.
-  <%= _div %>
+  <:= collapsed() :>
 
-<div class="btn-group hint">
+<:= hintAnswer('Hint 3', '#hint3', 'A possible response', '#answer3') :>
 
-<button type="button" class="btn btn-primary btn-action" data-toggle="collapse" data-target="#hint3">
-Hint 3
-</button>
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer3">
-Possible answer to hint 3
-</button>
-
-</div>
-
-<div id="hint3" class="collapse">
+<:= collapsed("hint3") :>
 If you're following the strategy suggested in the possible answer to hint 2 above, then you are making the extra assumption that $p$ does not divide $a$.  How can we use that information to help?
-</div>
+<:= collapsed() :>
 
 
-<div id="answer3" class="collapse">
+<:= collapsed("answer3") :>
 We know that $p$ is prime and that $p$ does not divide $a$.  That tells us that the highest common factor of $a$ and $p$ is $1$ (that is, they are _coprime_).
 
 The statement that two numbers have highest common factor $1$ can be quite a negative statement (they don't have any higher common factors), so can be quite difficult to work with.  But fortunately we have a way to turn that into a more positive statement: we know that if the highest common factor of two numbers is $1$, then we can write $1$ as a linear combination of them.  (You might have found this while working on [the open-ended investigation at this station](../NA3_RT9/index.html).)
 
 So we know that there are integers $m$ and $n$ such that $am + pn = 1$.
-</div>
+<:= collapsed() :>
 
-<div class="btn-group hint">
-<button type="button" class="btn btn-primary btn-action" data-toggle="collapse" data-target="#hint4">
-Hint 4
-</button>
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer4">
-Possible answer to hint 4
-</button>
-</div>
+<:= hintAnswer('Hint 4', '#hint4', 'A possible response', '#answer4') :>
 
-<div id="hint4" class="collapse">
+<:= collapsed("hint4") :>
 We're almost there now.
 
 How can we involve $b$?  We haven't yet used the assumption that $p$ divides $ab$.  How might we use that?
-</div>
+<:= collapsed() :>
 
 
-<div id="answer4" class="collapse">
+<:= collapsed("answer4") :>
 We could multiply the equation $am + pn = 1$ (from the possible answer to hint 3) by $b$.  That would introduce a $b$ somewhere, and also gives us an $ab$, which should be useful.
 
 Can you finish off the argument now?
-</div>
+<:= collapsed() :>

@@ -21,7 +21,7 @@ pvids2:
 
 Euclid and Archimedes are just two of the Greek mathematicians to have studied _conic sections_---the shapes created by slicing through a double cone with a flat plane. If the plane is perpendicular to the axis of the double cone, the intersection is a circle, and if the plane is angled parallel to the side of the cone the intersection is a parabola. If the plane cuts through both cones the intersection is a hyperbola. The only remaining case gives an ellipse.
 
-![The conic sections.  The circle is a special type of ellipse.](picture1.png)  
+![The conic sections.  The circle is a special type of ellipse.](picture1.png)
 
 _Image from NRICH.  Need permission or need to replace picture._
 

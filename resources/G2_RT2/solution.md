@@ -1,8 +1,6 @@
 ````
 alias: Solution
 ````
-<:= section(title, 2) :>
-
 
 1. There are many ways of tackling this problem.  Here is just one of those ways.
 
