@@ -49,13 +49,15 @@ Be careful to get the symbols in the right order!  It is true that $3 \mid 12$, 
 On this page, we've written things out in words rather than using this notation, but you might like to use it in your own working.
 <:= style() :>
 
-<:= hintAnswer('Hint 1', '#hint1', 'A possible response', '#answer1') :>
+<:= hintAnswer('Hint 1', 'hint1', 'A possible response', 'answer1') :>
 
-  <:= collapsed("hint1") :>
+  <:= collapsed('hint1') :>
+  <:= style(chalk) :>
   Before we can prove something, we need to formulate a precise statement of what it is that we are trying to prove.  So what statement are you trying to prove?
+  <:= style() :>
   <:= collapsed() :>
 
-  <:= collapsed("answer1") :>
+  <:= collapsed('answer1') :>
   Here's one statement that we might try to prove.
 
   If $p$ is prime and $p$ divides $ab$, then $p$ divides $a$ or $p$ divides $b$.
@@ -65,14 +67,16 @@ On this page, we've written things out in words rather than using this notation,
   It might be that you have a more refined version of this.
   <:= collapsed() :>
 
-<:= hintAnswer('Hint 2', '#hint2', 'A possible response', '#answer2') :>
+<:= hintAnswer('Hint 2', 'hint2', 'A possible response', 'answer2') :>
 
   <:= collapsed("hint2") :>
+  <:= style(chalk) :>
   We are trying to prove a result of the form
 
   If $X$, then $Y$ or $Z$.
 
   Do you have a strategy for proving such a result?  How might you set about it?
+  <:= style() :>
   <:= collapsed() :>
 
   <:= collapsed("answer2") :>
@@ -87,10 +91,12 @@ On this page, we've written things out in words rather than using this notation,
   In our case, that means that our strategy is to assume that $p$ is prime, that $p$ divides $ab$, and that $p$ does not divide $a$, and then to deduce that $p$ divides $b$.
   <:= collapsed() :>
 
-<:= hintAnswer('Hint 3', '#hint3', 'A possible response', '#answer3') :>
+<:= hintAnswer('Hint 3', 'hint3', 'A possible response', 'answer3') :>
 
 <:= collapsed("hint3") :>
+<:= style(chalk) :>
 If you're following the strategy suggested in the possible answer to hint 2 above, then you are making the extra assumption that $p$ does not divide $a$.  How can we use that information to help?
+<:= style() :>
 <:= collapsed() :>
 
 
@@ -102,12 +108,14 @@ The statement that two numbers have highest common factor $1$ can be quite a neg
 So we know that there are integers $m$ and $n$ such that $am + pn = 1$.
 <:= collapsed() :>
 
-<:= hintAnswer('Hint 4', '#hint4', 'A possible response', '#answer4') :>
+<:= hintAnswer('Hint 4', 'hint4', 'A possible response', 'answer4') :>
 
 <:= collapsed("hint4") :>
+<:= style(chalk) :>
 We're almost there now.
 
 How can we involve $b$?  We haven't yet used the assumption that $p$ divides $ab$.  How might we use that?
+<:= style() :>
 <:= collapsed() :>
 
 
