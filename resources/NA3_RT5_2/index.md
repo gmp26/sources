@@ -49,78 +49,57 @@ Be careful to get the symbols in the right order!  It is true that $3 \mid 12$, 
 On this page, we've written things out in words rather than using this notation, but you might like to use it in your own working.
 <:= style() :>
 
-<:= hintAnswer('Hint 1', 'hint1', 'A possible response', 'answer1') :>
 
-  <:= collapsed('hint1') :>
-  <:= style(chalk) :>
-  Before we can prove something, we need to formulate a precise statement of what it is that we are trying to prove.  So what statement are you trying to prove?
-  <:= style() :>
-  <:= collapsed() :>
+<:= hintAnswerBar(1, 'Hint 1', 'A possible response') :>
 
-  <:= collapsed('answer1') :>
-  Here's one statement that we might try to prove.
+<:= hint(1) :>
+Before we can prove something, we need to formulate a precise statement of what it is that we are trying to prove.  So what statement are you trying to prove?
+<:= hint() :>
 
-  If $p$ is prime and $p$ divides $ab$, then $p$ divides $a$ or $p$ divides $b$.
+<:= answer(1) :>Here's one statement that we might try to prove.  
+If $p$ is prime and $p$ divides $ab$, then $p$ divides $a$ or $p$ divides $b$.  
+(Note that 'or' in maths is _inclusive_, so you should read the conclusion above as "$p$ divides $a$ or $p$ divides $b$ or both".)  
+It might be that you have a more refined version of this.
+<:= answer() :>
 
-  (Note that 'or' in maths is _inclusive_, so you should read the conclusion above as "$p$ divides $a$ or $p$ divides $b$ or both".)
+<:= hintAnswerBar(2, 'Hint 2', 'A possible response') :>
 
-  It might be that you have a more refined version of this.
-  <:= collapsed() :>
+<:= hint(2) :>
+We are trying to prove a result of the form
 
-<:= hintAnswer('Hint 2', 'hint2', 'A possible response', 'answer2') :>
+If $X$, then $Y$ or $Z$.
 
-  <:= collapsed("hint2") :>
-  <:= style(chalk) :>
-  We are trying to prove a result of the form
+Do you have a strategy for proving such a result?  How might you set about it?
+<:= hint() :>
 
-  If $X$, then $Y$ or $Z$.
+<:= answer(2) :>Here's one possible approach.  
+We are allowed to assume statement $X$.  
+If statement $Y$ is true, then we are done: the result is true.  
+So we may assume that statement $Y$ is false, and then our job is to show that statement $Z$ is true.  
+In our case, that means that our strategy is to assume that $p$ is prime, that $p$ divides $ab$, and that $p$ does not divide $a$, and then to deduce that $p$ divides $b$.
+<:= answer() :>
 
-  Do you have a strategy for proving such a result?  How might you set about it?
-  <:= style() :>
-  <:= collapsed() :>
+<:= hintAnswerBar(3, 'Hint 3', 'A possible response') :>
 
-  <:= collapsed("answer2") :>
-  Here's one possible approach.
-
-  We are allowed to assume statement $X$.
-
-  If statement $Y$ is true, then we are done: the result is true.
-
-  So we may assume that statement $Y$ is false, and then our job is to show that statement $Z$ is true.
-
-  In our case, that means that our strategy is to assume that $p$ is prime, that $p$ divides $ab$, and that $p$ does not divide $a$, and then to deduce that $p$ divides $b$.
-  <:= collapsed() :>
-
-<:= hintAnswer('Hint 3', 'hint3', 'A possible response', 'answer3') :>
-
-<:= collapsed("hint3") :>
-<:= style(chalk) :>
+<:= hint(3) :>
 If you're following the strategy suggested in the possible answer to hint 2 above, then you are making the extra assumption that $p$ does not divide $a$.  How can we use that information to help?
-<:= style() :>
-<:= collapsed() :>
+<:= hint() :>
 
 
-<:= collapsed("answer3") :>
-We know that $p$ is prime and that $p$ does not divide $a$.  That tells us that the highest common factor of $a$ and $p$ is $1$ (that is, they are _coprime_).
-
-The statement that two numbers have highest common factor $1$ can be quite a negative statement (they don't have any higher common factors), so can be quite difficult to work with.  But fortunately we have a way to turn that into a more positive statement: we know that if the highest common factor of two numbers is $1$, then we can write $1$ as a linear combination of them.  (You might have found this while working on [the open-ended investigation at this station](../NA3_RT9/index.html).)
-
+<:= answer(3) :>We know that $p$ is prime and that $p$ does not divide $a$.  That tells us that the highest common factor of $a$ and $p$ is $1$ (that is, they are _coprime_).  
+The statement that two numbers have highest common factor $1$ can be quite a negative statement (they don't have any higher common factors), so can be quite difficult to work with.  But fortunately we have a way to turn that into a more positive statement: we know that if the highest common factor of two numbers is $1$, then we can write $1$ as a linear combination of them.  (You might have found this while working on [the open-ended investigation at this station](../NA3_RT9/index.html).)  
 So we know that there are integers $m$ and $n$ such that $am + pn = 1$.
-<:= collapsed() :>
+<:= answer() :>
 
-<:= hintAnswer('Hint 4', 'hint4', 'A possible response', 'answer4') :>
+<:= hintAnswerBar(4, 'Hint 4', 'A possible response') :>
 
-<:= collapsed("hint4") :>
-<:= style(chalk) :>
+<:= hint(4) :>
 We're almost there now.
 
 How can we involve $b$?  We haven't yet used the assumption that $p$ divides $ab$.  How might we use that?
-<:= style() :>
-<:= collapsed() :>
+<:= hint() :>
 
 
-<:= collapsed("answer4") :>
-We could multiply the equation $am + pn = 1$ (from the possible answer to hint 3) by $b$.  That would introduce a $b$ somewhere, and also gives us an $ab$, which should be useful.
-
+<:= answer(4) :>We could multiply the equation $am + pn = 1$ (from the possible answer to hint 3) by $b$.  That would introduce a $b$ somewhere, and also gives us an $ab$, which should be useful.  
 Can you finish off the argument now?
-<:= collapsed() :>
+<:= answer() :>
