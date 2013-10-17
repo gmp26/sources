@@ -35,23 +35,23 @@ _Image from NRICH.  Need permission or need to replace image._
 Skip forward a couple of millennia and the mathematical properties of the conic sections have a very modern application. Suppose that you are lost in the jungle, but that luckily you are equipped with a device that can transmit and receive information, a clock, and a map. Your device picks up a signal from my device, which tells you my exact location and the exact time I sent my signal. 
 
 
-<div class="well">
+<:= style(well) :>
 Assuming you know how fast the signal travels, how can you use the information you have to determine how far away you are from me? 
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer1">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer1">
 Answer
 </button>
 
 <div id="answer1" class="collapse">
 If the signal travels at $c$ metres per second and takes $s$ seconds to reach you, then you are $c \times s$ metres away from me.
 </div>
-</div>
+<:= style() :>
 
 
 <div class="well">
 Suppose you have worked out you are at distance $d$ from me. Which conic section describes all your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer2">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer2">
 Answer
 </button>
 
@@ -64,7 +64,7 @@ A circle with radius $d$ centred on me.
 <div class="well">
 Suppose you have picked up two signals, one from me and one from another friend, Anna, telling you where on your map each of us is and at what time we sent the signal. How does that narrow down your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer3">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer3">
 Answer
 </button>
 
@@ -76,7 +76,7 @@ You can use the time taken for both signals to reach you to calculate your dista
 <div class="well">
 GPS devices, like those in smart phones, use information sent out by GPS satellites (of which there are about 9 overhead at any one time) in a similar way.  Since the satellites are moving around in space, and therefore can't be located on a two-dimensional map of the Earth, we now need to consider three-dimensional geometry. Can you work out how many satellites are needed to pin-point the location of a smart phone?"
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer4">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer4">
 Answer
 </button>
 
@@ -93,7 +93,7 @@ Suppose again that you are lost in the jungle but that this time you have no map
 <div class="well">
 What distance can Anna and I work out using that information?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer5">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer5">
 Answer
 </button>
 
@@ -105,7 +105,7 @@ Writing $x$ for the distance between me and you and $y$ for the distance between
 <div class="well">
 Which conic section describes all your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer6">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer6">
 Answer
 </button>
 
@@ -117,7 +117,7 @@ An ellipse with foci at my and Anna's locations.
 <div class="well">
 How many more people are needed to pin-point your exact location? How many transmissions are needed?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer7">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer7">
 Answer
 </button>
 
@@ -134,7 +134,7 @@ Suppose now that you are hiding out in the jungle and that you are transmitting 
 <div class="well">
 What distance can Anna and I work out using that information?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer8">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer8">
 Answer
 </button>
 
@@ -146,7 +146,7 @@ Writing $x$ for the distance between me and you and $y$ for the distance between
 <div class="well">
 Which conic section describes all your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer9">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer9">
 Answer
 </button>
 
@@ -158,7 +158,7 @@ A hyperbola with foci at my and Anna's locations.
 <div class="well">
 How many more people would Anna and I need to pin-point your exact location?
 
-<button type="button" class="btn btn-action" data-toggle="collapse"data-target="#answer10">
+<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer10">
 Answer
 </button>
 
