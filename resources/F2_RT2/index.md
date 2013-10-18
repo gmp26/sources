@@ -22,9 +22,9 @@ $\quad\quad y=(x^2+x)/2$ $\quad\quad y=2\sqrt{x}-x$
 
 Which is the $x$-axis and which is the $y$-axis? Which curves correspond to which functions?
 
-Imagine that you wish to plot a route between $(0,0)$ and $(1,1)$. Can you find a function which does this without intersecting any of the existing curves, except at the endpoints?
+Imagine that you wish to plot a route between $(0,0)$ and $(1,1)$. Can you find a function that does this without intersecting any of the existing curves, except at the endpoints?
 
-What other curves can you plot which only intersect the existing curves at the end points? 
+What other curves can you plot which intersect the existing curves only at the end points? 
 
 <!-- <div class="row-fluid">
 <iframe src="http://nrich.maths.org/6493?mobile=1" class="span12 nrich-embed"></iframe>

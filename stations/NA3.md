@@ -10,4 +10,6 @@ dependencies:
 
 1. How can we find the highest common factor of two numbers?
 
+1. What is Euclid's algorithm all about?
+
 1. What is the _Fundamental theorem of arithmetic_, and why does it matter?
