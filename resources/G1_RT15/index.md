@@ -24,7 +24,7 @@ As an essential part of their daily lives, ancient cultures knew a considerable 
 <div class="media row">
   <div class="pull-left span3">
 
-![Aristotle (384-322) BCE](Aristotle.jpg)
+![Aristotle (384-322) BCE](Aristotle.png)
 
   </div>
   <div class="media-body span8">
@@ -75,7 +75,7 @@ Almost as soon as Euclid put his pen down, mathematicians and philosophers were 
 <div class="media row">
   <div class="pull-left span3">
 
-  ![Playfairs Axiom](Playfairs-axiom.jpg)
+  ![Playfairs Axiom](Playfairs-axiom.png)
 
   </div>
 
@@ -113,7 +113,7 @@ As a result of his trigonometric investigations, he developed ways of solving so
 <div class="media row well">
   <div class="pull-left span3">
 
-  ![Spherical Triangle](Spherical-Triangle.jpg)
+  ![Spherical Triangle](Spherical-Triangle.png)
 
   </div>
 

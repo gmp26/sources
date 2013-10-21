@@ -27,9 +27,10 @@ alias: Solution
     g. The original equation can be rearranged to give $y=\frac{1}{7}x$, so this also describes a straight line (passing through the origin).
 
     h. From part c, recall that for any two distinct points there is a unique straight line passing through both points. Therefore, three points describe a straight line only if the third point lies on the straight line passing through the first two points. The equation of the straight line through $(-1,-4)$ and $(3,7)$ is $y=\frac{11}{4}x - \frac{5}{4}$. However, $x=y=8$ does not satisfy this equation. Thus, the three points do not lie on the same straight line.
-    <div class="chalk">
+ 
+    <:= style(chalk) :>
     In fact, the three points given describe three different straight lines: the one through $(-1,-4)$ and $(3,7)$, the one through $(-1,-4)$ and $(8,8)$, and the one through $(3,7)$ and $(8,8)$.
-    </div>
+    <:= style() :>
 
     i. This can be rearranged to give $y=3x+16$ and so it also describes a straight line.
 

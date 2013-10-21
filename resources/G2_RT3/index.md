@@ -28,12 +28,10 @@ When is the point $(x,y)$ at distance $3$ from $(-1,2)$?
 
 Here's a useful picture.
 
-<!-- ADD PICTURE OF AXES WITH THESE TWO POINTS MARKED AND A LINE SHOWING THE DISTANCE BETWEEN THEM -->
 ![When is $(x,y)$ at distance $3$ from $(-1,2)$?](xy12-1.png)
 
 The coordinate system gives us a very natural way to get a helpful right-angled triangle from this.
 
-<!-- ADD PICTURE SHOWING RIGHT-ANGLED TRIANGLE WITH SHORTER SIDE LENGTHS LABELLED -->
 ![When is $(x,y)$ at distance $3$ from $(-1,2)$?](xy12-2.png)
 
 If the point $(x,y)$ were placed differently relative to $(-1,2)$, then we might get different triangles.
@@ -44,11 +42,9 @@ If the point $(x,y)$ were placed differently relative to $(-1,2)$, then we might
 
 Find all the possible diagrams, and the side lengths of the resulting triangles.
 
-<:= reveal("answer1") :>
-Answer
-<:= reveal() :>
+<:= toggle(1, "Answer") :>
 
-<:= collapsed("answer1") :>
+<:= collapsed(1) :>
 ![Picture](diagram.png)
 <:= collapsed() :>
 
@@ -62,11 +58,9 @@ Now Pythagoras's theorem helps us to find the distance between the points $(x,y)
 
 Find the corresponding expressions for the distances in the other possible diagrams.
 
-<:= reveal("answer2") :>
-Answer
-<:= reveal() :>
+<:= toggle(2, "Answer") :>
 
-<:= collapsed("answer2") :>
+<:= collapsed(2) :>
 The expressions for the distance between $(-1,2)$ and $(x,y)$ in each of the above diagrams are: 
 
 1) $\sqrt{(x+1)^2+(2-y)^2}$, 
@@ -85,11 +79,17 @@ This, in turn, is satisfied if, and only if, $$(x+1)^2 + (2-y)^2 = 9.$$  (In one
 
 So the equation of the circle of radius $3$ with centre $(-1,2)$ is $$(x+1)^2 + (2-y)^2 = 9.$$
 
-<:= style(well) :>####Exercise
+<:= style(well) :>
 
-Expand out the brackets and experiment with different ways of writing this equation.  Which way(s) do you find most convenient, and why?<:= style() :>
+####Exercise
 
-<:= style(well) :>####Exercise
+Expand out the brackets and experiment with different ways of writing this equation.  Which way(s) do you find most convenient, and why?
+<:= style() :>
 
-Pick a radius and a centre, and find the equation of the corresponding circle, with an explanation.  Repeat until you feel confident.<:= style() :>
+<:= style(well) :>
+
+####Exercise
+
+Pick a radius and a centre, and find the equation of the corresponding circle, with an explanation.  Repeat until you feel confident.
+<:= style() :>
 

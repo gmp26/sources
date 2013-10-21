@@ -19,16 +19,17 @@ pvids2:
 
 In this interactivity, you can specify two positive integers (whole numbers) and the computer will draw a corresponding diagram.
 
-<div class="well">
+<:= style(well) :>
 Experiment with a few examples, and then consider the questions that follow.
-</div>
+<:= style() :>
+
 <p>
 <a class="btn btn-primary" href="animation/index.html">Full Screen Version</a>
 </p>
 
-<!-- <div class="row-fluid"> -->
+
 <iframe src="animation/index.html" class="nrich-embed" style="width:300px;height:300px"></iframe>
-<!-- </div> -->
+
 
 <!--
 _Interactivity reproduced from [Picture This!](http://nrich.maths.org/psum/picture-this/).  This will be tweaked to have a full screen version (in such a way that the numbers are still visible when displayed full screen).  We might also lose the option of a non-spiral version._
@@ -37,49 +38,39 @@ _Interactivity reproduced from [Picture This!](http://nrich.maths.org/psum/pictu
 numbers, so full screen is preferable. -- gmp26
 -->
 
-<div class="well">
+<:= style(well) :>
 * Given two positive integers, can you draw the corresponding diagram?
 * Given a diagram, can you determine the corresponding pair of positive integers?
-</div>
+<:= style() :>
+
 
 You should now have a good understanding of the relationship between the diagram and the pair of positive integers.  There are many questions that you might now ask yourself.
 
-<div class="well">
+<:= style(well) :>
 Investigate the questions that interest you.  You might want to make some conjectures and then try to prove (justify) them or to disprove them by finding counterexamples.
-</div>
+<:= style() :>
+
 
 Then you can look at our list of questions below.
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question1">
-Question 1
-</button>
-
-<div id="question1" class="collapse">
+<:= toggle(1, "Question 1") :>
+<:= collapsed(1) :>
 What is the relationship between the side length of the smallest square in the diagram and the pair of positive integers?
-</div>
+<:= collapsed() :>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question2">
-Question 2
-</button>
-
-<div id="question2" class="collapse">
+<:= toggle(2, "Question 2") :>
+<:= collapsed(2) :>
 How many steps (different colours) can we have?  Which pairs of integers give many steps and which give few?
-</div>
+<:= collapsed() :>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question3">
-Question 3
-</button>
-
-<div id="question3" class="collapse">
+<:= toggle(3, "Question 3") :>
+<:= collapsed(3) :>
 How can we record the information from the diagram in the form of equations?
 
 When might the diagram be more convenient?  When might the equations be more convenient?
-</div>
+<:= collapsed() :>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#question4">
-Question 4
-</button>
-
-<div id="question4" class="collapse">
+<:= toggle(4, "Question 4") :>
+<:= collapsed(4) :>
 What is the point of the process captured by this diagram?  What is it useful for?  When might it be more or less useful than our existing techniques?
-</div>
+<:= collapsed() :>

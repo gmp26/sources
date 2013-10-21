@@ -38,134 +38,109 @@ Skip forward a couple of millennia and the mathematical properties of the conic 
 <:= style(well) :>
 Assuming you know how fast the signal travels, how can you use the information you have to determine how far away you are from me? 
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer1">
-Answer
-</button>
+<:= toggle(1, "Answer") :>
 
-<div id="answer1" class="collapse">
+<:= collapsed(1) :>
 If the signal travels at $c$ metres per second and takes $s$ seconds to reach you, then you are $c \times s$ metres away from me.
-</div>
+<:= collapsed() :>
+
 <:= style() :>
 
 
-<div class="well">
+<:= style(well) :>
 Suppose you have worked out you are at distance $d$ from me. Which conic section describes all your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer2">
-Answer
-</button>
+<:= toggle(2, "Answer") :>
 
-<div id="answer2" class="collapse">
+<:= collapsed(2) :>
 A circle with radius $d$ centred on me.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
 
-<div class="well">
+<:= style(well) :>
+
 Suppose you have picked up two signals, one from me and one from another friend, Anna, telling you where on your map each of us is and at what time we sent the signal. How does that narrow down your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer3">
-Answer
-</button>
-
-<div id="answer3" class="collapse">
+<:= toggle(3, "Answer") :>
+<:= collapsed(3) :>
 You can use the time taken for both signals to reach you to calculate your distance $d$ from me and $m$ from Anna. Then you know you are located on the circumference of two circles, one centred on me and one on Anna, with respective radii $d$ and $m$. Distinct circles intersect in at most two points, so you are at either of those. If the circles don't intersect but only touch each other at one point then you know unambiguously where you are.
-</div>
-</div>
 
-<div class="well">
+<:= collapsed() :>
+<:= style() :>
+
+<:= style(well) :>
 GPS devices, like those in smart phones, use information sent out by GPS satellites (of which there are about 9 overhead at any one time) in a similar way.  Since the satellites are moving around in space, and therefore can't be located on a two-dimensional map of the Earth, we now need to consider three-dimensional geometry. Can you work out how many satellites are needed to pin-point the location of a smart phone?"
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer4">
-Answer
-</button>
-
-<div id="answer4" class="collapse">
+<:= toggle(4, "Answer") :>
+<:= collapsed(4) :>
 If you know your distance $d$ from one satellite you know that you are located on a sphere of radius $d$ centred at that satellite. The sphere meets the surface of the Earth in a circle, hence one satellite gives a circle as the set of possible locations. As circles can intersect in at most two points, we will need at most three satellites to work out your exact location.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
 This method for finding a target’s location is called _trilateration_. Now let’s explore another method, _multireceiver radar_, which uses another conic section but requires fewer transmissions. 
 
 Suppose again that you are lost in the jungle but that this time you have no map. My friend Anna and I need to pin-point your location to come and rescue you. I send you a signal, you immediately reply and Anna picks up the reply. Anna and I can communicate to establish the time that passed between me sending the signal and Anna receiving your reply.
   
 
-<div class="well">
+<:= style(well) :>
 What distance can Anna and I work out using that information?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer5">
-Answer
-</button>
-
-<div id="answer5" class="collapse">
+<:= toggle(5, "Answer") :>
+<:= collapsed(5) :>
 Writing $x$ for the distance between me and you and $y$ for the distance between you and Anna, we can work out $x+y$ by multiplying the total time elapsed between me sending the signal and Anna receiving your reply by the signal's speed.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
-<div class="well">
+<:= style(well) :>
 Which conic section describes all your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer6">
-Answer
-</button>
-
-<div id="answer6" class="collapse">
+<:= toggle(6, "Answer") :>
+<:= collapsed(6) :>
 An ellipse with foci at my and Anna's locations.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
-<div class="well">
+<:= style(well) :>
 How many more people are needed to pin-point your exact location? How many transmissions are needed?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer7">
-Answer
-</button>
-
-<div id="answer7" class="collapse">
+<:= toggle(7, "Answer") :>
+<:= collapsed(7) :>
 As with circles, ellipses generally meet in two points. So we would need two more ellipses, that is, two more people. Only two transmissions are needed, mine and yours.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
 One downside of this method is that it assumes the target will immediately reply to any signal we send. What if we can't guarantee they will respond? Perhaps they don’t want to be found? Another conic section provides the answer.
 
 Suppose now that you are hiding out in the jungle and that you are transmitting signals to your conspirators elsewhere. So as to not give away your location too easily your signals do not include information as to when they were sent. Anna and I can both pick up a signal sent by you and communicate to each other the time at which we received it. This means that we can work out the difference between the time it took the signal to reach me and the time it took to reach Anna.
 
 
-<div class="well">
+<:= style(well) :>
 What distance can Anna and I work out using that information?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer8">
-Answer
-</button>
-
-<div id="answer8" class="collapse">
+<:= toggle(8, "Answer") :>
+<:= collapsed(8) :>
 Writing $x$ for the distance between me and you and $y$ for the distance between you and Anna, we can work out $|x-y|$ by multiplying the difference between the time it took the signal to reach me and the time it took to reach Anna by the speed of the signal.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
-<div class="well">
+<:= style(well) :>
 Which conic section describes all your possible locations?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer9">
-Answer
-</button>
-
-<div id="answer9" class="collapse">
+<:= toggle(9, "Answer") :>
+<:= collapsed(9) :>
 A hyperbola with foci at my and Anna's locations.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
-<div class="well">
+<:= style(well) :>
 How many more people would Anna and I need to pin-point your exact location?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#answer10">
-Answer
-</button>
-
-<div id="answer10" class="collapse">
+<:= toggle(10, "Answer") :>
+<:= collapsed(10) :>
 As for circles and ellipses, hyperbolae generally meet in two points. So we would need two more hyperbolae, that is, two more people.
-</div>
-</div>
+<:= collapsed() :>
+<:= style() :>
 
 This covert technique, called _multilateration_, was used in WWI to locate enemy artillery ranges by listening to the [sound of their gunfire](http://en.wikipedia.org/wiki/Sound_ranging). Mathematical ideas that are over 2,000 years old are used to find lost souls and uncover hidden enemies!
 

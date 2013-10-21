@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+sourceUrl: http://nrich.maths.org/6493?mobile=1
 clearance: 0
 keywords:
 resourceType: RT2
@@ -17,8 +18,7 @@ The following five functions have been plotted accurately on the chart below
 $y=\sqrt{x}$ $\quad\quad y=x^2$ $\quad\quad y=x$
 $\quad\quad y=(x^2+x)/2$ $\quad\quad y=2\sqrt{x}-x$
 
-<!-- INSERT PICTURE -->
-![Curves](curves.jpg)
+![Curves](curves.png)
 
 Which is the $x$-axis and which is the $y$-axis? Which curves correspond to which functions?
 
@@ -26,6 +26,3 @@ Imagine that you wish to plot a route between $(0,0)$ and $(1,1)$. Can you find 
 
 What other curves can you plot which intersect the existing curves only at the end points? 
 
-<!-- <div class="row-fluid">
-<iframe src="http://nrich.maths.org/6493?mobile=1" class="span12 nrich-embed"></iframe>
-</div> -->

@@ -30,17 +30,17 @@ $$(x-a)^2 + (y-b)^2 = r^2.$$
     ![Figure 2](figure2.png)
     
     * $x^2 + y^2 - 3x - y = -1.5$ can be rearranged to give $\left(x-\frac{3}{2}\right)^2 + \left(y-\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(\frac{3}{2},\frac{1}{2})$ and radius $1$.
-    * <div class="chalk">
+    * <:= style(chalk) :>
     This equation looks rather similar to the previous one.  Maybe we can use that to save ourselves some effort.
-    </div>
+    <:= style() :>
 	  $x^2 + y^2 + 3x + y = -1.5$ can be rearranged to give $\left(x+\frac{3}{2}\right)^2 + \left(y+\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(-\frac{3}{2},-\frac{1}{2})$ and radius $1$.
 
 3. The centre of the circle must be the midpoint of the line segment from $(-5,2)$ to $(3,-1)$, so the centre of the circle is at $\left(-1,\frac{1}{2}\right)$.
 The radius is then the distance from the centre to either of the points $(-5,2)$ or $(3,-1)$, say $(3,-1)$:
 $$r = \sqrt{(-1-3)^2 + \left(\frac{1}{2}-(-1)\right)^2} = \sqrt{16+\frac{9}{4}} = \frac{\sqrt{73}}{2}.$$
-<div class="chalk">
+<:= style(chalk) :>
 This is equivalent to working out the diameter, $d$, of the circle as the distance between the points $(5,2)$ and $(3,-1)$, and then saying $r = \frac{1}{2}d$.
-</div>
+<:= style() :>
 So the equation of the circle of which the line segment from $(-5,2)$ to $(3,-1)$ is a diameter is
 $$(x+1)^2 + \left(y-\frac{1}{2}\right)^2 = \frac{73}{4}.$$
 
@@ -64,9 +64,9 @@ $$(x+1)^2 + \left(y-\frac{1}{2}\right)^2 = \frac{73}{4}.$$
 
     Now take three (distinct) points, $A$, $B$ and $C$, that do not all lie on a straight line. For a circle to pass through all three points, the distance from the centre of the circle to each of the points $A$, $B$ and $C$ must be equal. Again, we know that the perpendicular bisector of the line $AB$ is the set of points equidistant from both $A$ and $B$, and similarly, the perpendicular bisector of the line $AC$ is the set of points equidistant from points $A$ and $C$. So the centre, $O$, of the circle that passes through all three points $A$, $B$ and $C$ must lie on both of these perpendicular bisectors.  (The centre $O$ is sometimes called the _circumcentre_ of the triangle $ABC$.)
 
-    <div class="chalk">
+    <:= style(chalk) :>
     $O$ must also lie on the perpendicular bisector of the line $BC$, but it's enough to consider just two perpendicular bisectors, because it turns out that the three perpendicular bisectors must meet at a single point.  Can you prove this?
-    </div>  
+    <:= style() :>  
 
     ![Figure 5](figure5.png)  
 

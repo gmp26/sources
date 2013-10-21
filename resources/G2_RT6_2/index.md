@@ -30,34 +30,22 @@ Pick $N$ points.  Can you find the equation of the unique circle that passes thr
 
 When you have found your own way(s), you might like to consider some of ours.  We've just given some starting points.  Can you complete each of the following?  Which way(s) do you prefer, and why?  Will they always work?
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#A">
-Approach A
-</button>
-
-<div id="A" class="collapse">
+<:= toggle(1, "Approach A") :>
+<:= collapsed(1) :>
 We want to find an equation of the form $(x - a)^2 + (y - b)^2 = r^2$, where $(a,b)$ is the (unknown) centre of the circle and $r$ is the (unknown) radius.  We have some points that lie on the circle, so we can use these to get some simultaneous equations...
-</div>
+<:= collapsed() :>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#B">
-Approach B
-</button>
-
-<div id="B" class="collapse">
+<:= toggle(2, "Approach B") :>
+<:= collapsed(2) :>
 The centre of the circle must be the same distance from all the points.  So it must lie on the perpendicular bisector of each line segment joining two points.  So we could find some perpendicular bisectors and find where they intersect...
-</div>
+<:= collapsed() :>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#C">
-Approach C
-</button>
-
-<div id="C" class="collapse">
+<:= toggle(3, "Approach C") :>
+<:= collapsed(3) :>
 If we have two non-parallel chords in a circle, then their perpendicular bisectors intersect at the centre of the circle.  Perhaps we can use that...
-</div>
+<:= collapsed() :>
 
-<button type="button" class="btn btn-action" data-toggle="collapse" data-target="#D">
-Approach D
-</button>
-
-<div id="D" class="collapse">
+<:= toggle(4, "Approach D") :>
+<:= collapsed(4) :>
 We know that the centre, say $(a,b)$, is at an equal distance from all points.  So we could write down the distances from $(a,b)$ to our known points, and then equate those...
-</div> 
+<:= collapsed() :> 
