@@ -58,7 +58,7 @@ $$y=\left(\frac{v}{u}\right)x-\frac{1}{2u^2}gx^2.$$
 
 This quadratic equation describes the motion of any object that is affected by a constant force.  Plotting this reveals the beautiful parabolic shape of any such trajectory.
 
-![Figure 1](figure1.png)
+![Figure 1](diagram1.png)
 
 We see parabolas, the physical representation of quadratic equations, around us every day: say when you throw a ball in the park, or in the fall of a water fountain.  But these quadratic equations have more deadly uses: they have been the basis for artillery calculations for centuries.
 
@@ -68,7 +68,7 @@ Parabolas have been fascinating mathematicians for millennia since they were fir
 
 To draw a circle you have a loop of string between the centre of the circle and your pencil, moving your pencil around keeping the string taut.  An ellipse can be drawn in a similar way, except this time the loop of string goes around the two foci and your pencil.  The same method works theoretically for the parabola, only this time your loop of string has to go around the two foci of the parabola and your pencil, the only problem being that the second focus of the parabola is infinitely far from the first!  As not many people have an infinitely long piece of string handy, we can instead think of the loop from infinity coming in as a straight line parallel to the axis of symmetry.  
 
-![Figure2](figure2.png)
+![Figure2](diagram2.png)
 
 This focussing property of the parabola has some very useful consequences.  Any line entering the parabola, parallel to the axis of symmetry, will be reflected off the parabola to the focus.  This is the reason satellite dishes are parabolic in shape---any signals effectively come from infinity, so they hit the dish parallel to its axis and are reflected to the satellite receiver placed at the focus of the parabola.
 

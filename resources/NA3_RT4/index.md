@@ -20,11 +20,11 @@ priors:
 
 Here's an interesting thought.  If I tell you that $122381 = 3 \times 35889 + 14714$ and that $7$ divides both $35889$ and $14714$, then we know immediately that $7$ also divides $122381$.
 
-<div class="well">
+<:= style(well) :>
 
 Why is that?  Try to find your own explanation.
 
-</div>
+<:= style() :>
 
 Here's a picture that might be helpful.
 
@@ -34,7 +34,7 @@ We can use this idea to understand _Euclid's algorithm_.
 
 To obtain the statement $122381 = 3 \times 35889 + 14714$, I divided $122381$ by $35889$ and looked for the _quotient_ (in this case $3$) and the _remainder_ (in this case $14714$).  We can now repeat this for the numbers $35889$ and $14714$, and so on.  Here's the list of equations that we get.
 
-$$\begin{eqnarray*}
+\begin{eqnarray*}
 122381 & = & 3 \times 35889 + 14714 \\
 35889 & = & 2 \times 14714 + 6461 \\
 14714 & = & 2 \times 6461 + 1792 \\
@@ -47,13 +47,13 @@ $$\begin{eqnarray*}
 49 & = & 1 \times 35 + 14 \\
 35 & = & 2 \times 14 + 7 \\
 14 & = & 2 \times 7
-\end{eqnarray*}$$
+\end{eqnarray*}
 
 We stop there because the remainder in the final equation is $0$.
 
-<div class="chalk">
+<:= style(chalk) :>
 Here's a handy tip.  I've written numbers that do the same job in the same column.  For example, the quotients are all just before the $\times$ sign, and the remainders are all at the end.  There's a lot of flexibility about the order in which we write the components of these equations, but it's a lot easier to keep track of which numbers are doing which jobs if you keep them in the same place each time.
-</div>
+<:= style() :>
 
 What can we deduce from these equations?
 
@@ -105,13 +105,15 @@ So if $d$ is any common factor of $122381$ and $35889$, then it divides $7$, and
 
 We do not have to write out all of that explanation every time we use Euclid's algorithm.  But it's important that you're able to explain why the algorithm finds the highest common factor.
 
-<div class="well">
+<:= style(well) :>
 Pick your own pair of positive integers, and run Euclid's algorithm on them.  Now explain to a friend why your equations have found the highest common factor for you.
-</div>
+<:= style() :>
+
 
 Here are some follow-up questions to help you develop your understanding of Euclid's algorithm.
 
-<div class="well">
+<:= style(well) :>
+
 1.  Find a pair of integers that have highest common factor $12$ and where it takes exactly four steps of Euclid's algorithm to find that highest common factor.
 
     Can you still do this if you change the highest common factor and/or the number of steps?
@@ -119,4 +121,6 @@ Here are some follow-up questions to help you develop your understanding of Eucl
 2.  Find a pair of four-digit numbers for which it takes very few steps for Euclid's algorithm to find their highest common factor.
 
 3.  Find a pair of four-digit numbers for which it takes many steps for Euclid's algorithm to find their highest common factor.
-</div>
+
+<:= style() :>
+

@@ -23,15 +23,13 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 Experiment with a few examples, and then consider the questions that follow.
 <:= style() :>
 
-<p>
-<a class="btn btn-primary" href="animation/index.html">Full Screen Version</a>
-</p>
+<:= linkedButton("animation/index.html", "Full Screen Version") :>
 
-
-<iframe src="animation/index.html" class="nrich-embed" style="width:300px;height:300px"></iframe>
-
+<:= iframe("animation/index.html", "View animation here", 300, 300) :>
 
 <!--
+<iframe src="animation/index.html" class="nrich-embed" style="width:300px;height:300px"></iframe>
+
 _Interactivity reproduced from [Picture This!](http://nrich.maths.org/psum/picture-this/).  This will be tweaked to have a full screen version (in such a way that the numbers are still visible when displayed full screen).  We might also lose the option of a non-spiral version._
 
 ...done, though thumbnail version on first screen can be cropped with some
@@ -39,8 +37,10 @@ numbers, so full screen is preferable. -- gmp26
 -->
 
 <:= style(well) :>
+
 * Given two positive integers, can you draw the corresponding diagram?
 * Given a diagram, can you determine the corresponding pair of positive integers?
+
 <:= style() :>
 
 

@@ -43,12 +43,12 @@ If the point $(x,y)$ were placed differently relative to $(-1,2)$, then we might
 Find all the possible diagrams, and the side lengths of the resulting triangles.
 
 <:= toggle(1, "Answer") :>
+<:= style() :>
 
 <:= collapsed(1) :>
-![Picture](diagram.png)
+![Picture](diagram.png)\ 
 <:= collapsed() :>
 
-<:= style() :>
 
 Now Pythagoras's theorem helps us to find the distance between the points $(x,y)$ and $(-1,2)$: it's $$\sqrt{(x+1)^2 + (2-y)^2}.$$
 
@@ -61,14 +61,12 @@ Find the corresponding expressions for the distances in the other possible diagr
 <:= toggle(2, "Answer") :>
 
 <:= collapsed(2) :>
-The expressions for the distance between $(-1,2)$ and $(x,y)$ in each of the above diagrams are: 
-
-1) $\sqrt{(x+1)^2+(2-y)^2}$, 
-2) $\sqrt{(-1-x)^2+(2-y)^2}$, 
-3) $\sqrt{(-1-x)^2+(y-2)^2}$, 
-4) $\sqrt{(x+1)^2+(y-2)^2}$. 
-  
-Using the fact that $(-a)^2=a^2$ for any real number $a$, we can see that these expressions are all equivalent!
+  The expressions for the distance between $(-1,2)$ and $(x,y)$ in each of the above diagrams are:  
+  1) $\sqrt{(x+1)^2+(2-y)^2}$,  
+  2) $\sqrt{(-1-x)^2+(2-y)^2}$,  
+  3) $\sqrt{(-1-x)^2+(y-2)^2}$,  
+  4) $\sqrt{(x+1)^2+(y-2)^2}$.  
+  Using the fact that $(-a)^2=a^2$ for any real number $a$, we can see that these expressions are all equivalent!
 <:= collapsed() :>
 
 <:= style() :>
