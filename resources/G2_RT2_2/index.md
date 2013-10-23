@@ -9,6 +9,7 @@ keywords:
   - intersection
   - equation
 source: NRICH
+sourceUrl: http://nrich.maths.org/5609
 resourceType: RT2
 stids1:
   - G2
@@ -27,7 +28,7 @@ Move the dots until the lines are parallel.  What do you notice about the equati
 
 Experiment with the lines in several positions.  What can you say about the equations of parallel lines?
 
-<:= iframe("lines2.swf", "View the animation here") :>
+<:= iframe( "View the animation at", "lines2.swf", 600, 600, "thumbnail.png") :>
 
 Can you __explain__ your findings?
 

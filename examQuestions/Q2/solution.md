@@ -32,9 +32,9 @@ $$\left(3-\frac{3}{2}\right)^2 + (2)^2 = r^2$$
 $$\Rightarrow r^2 = \frac{25}{4}$$
 $$\Rightarrow r = \frac{5}{2}$$  
 
-<div class="chalk">
+<:= style(chalk) :>
 Usually $r^2 = \frac{25}{4} \Rightarrow r = \pm \frac{5}{2}$, but as a radius must always have positive length, we know that we must take the positive square root.
-</div>
+<:= style() :>
 
 So the circle has equation  
 $$\left(x-\frac{3}{2}\right)^2 + (y-2)^2 = \frac{25}{4},$$  
@@ -47,12 +47,12 @@ So the point $(4,2)$ also lies on the circle.
 
 ##Second method
 
-<div class="chalk">
+<:= style(chalk) :>
 If we have two non-parallel chords in a circle, then their perpendicular bisectors intersect at the centre of the circle, as shown in diagram 1.
 
 ![Diagram 1](Q2diagram1.png)
 
-</div>
+<:= style() :>
 
 So if we take the two chords joining the points $(3,0)$ and $(3,4)$, and $(3,4)$ and $(0,4)$ as shown in diagram 2, then we know that the perpendicular bisectors of these chords must intersect at the centre of the circle passing through these three points.  
 

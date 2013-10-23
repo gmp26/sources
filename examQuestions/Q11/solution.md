@@ -38,9 +38,11 @@ $$(1 - q)^2 - (-1 - q)^2 = 0$$
 $$\iff (1 - q)^2 = (1 + q)^2$$
 $$\iff q = - q$$
 $$\iff q = 0.$$
-<div class="chalk">
+
+<:= style(chalk) :>
 Note that it is clear anyway that the centre of the circle must lie on the $y$-axis.
-</div>
+<:= style() :>
+
 Hence the equation of any circle passing through the intersections is
 $$(x - p)^2 + y^2 = R^2.$$
 This $R$ is the same for any point on the circle, so we can replace $R^2$ by $(x - p)^2 + y^2$ for any specific point $(x,y)$ on the circle, such as $(2, 1)$.  Thus

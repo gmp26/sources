@@ -10,11 +10,11 @@ Taking square roots of both sides of $(\ast)$ gives $$\sqrt{(x+g)^2+(y-f)^2}=\sq
 The circle has centre $(-g,f)$ and radius $\sqrt{g^2+f^2+c}$.
 
 
-<div class="chalk">
+<:= style(chalk) :>
 We have explained why the points satisfying $$(x-a)^2+(y-b)^2=r^2$$ lie on a circle with centre $(a,b)$ and radius $r$. 
 In the next part of the question we can use this to
 quickly identify the centres and radii of the circles.
-</div>
+<:= style() :>
 
 Call the first circle $A$ and the second circle $B$.
 
@@ -41,12 +41,12 @@ But $\frac{5}{2} < 4$, so the two ranges of $x$ do not overlap, therefore
 the two circles lie entirely outside each other.
 
 
-<div class="chalk">
+<:= style(chalk) :>
 
 The points with the shortest distance are the points lying on the line joining
 the two centres.
 
-</div>
+<:= style() :>
 To find the length of the shortest distance between the two circles consider
 the diagram below.
 

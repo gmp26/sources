@@ -3,6 +3,7 @@ layout: resource
 clearance: 0
 title: Negatively Triangular
 source: NRICH
+sourceUrl: http://nrich.maths.org/5871
 keywords:
 resourceType: RT6
 stids1:

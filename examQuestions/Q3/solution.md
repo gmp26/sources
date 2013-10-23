@@ -3,9 +3,9 @@ alias: Solution
 ````
 
 
-<div class="chalk">
+<:= style(chalk) :>
 We can think about solving the first part of this problem in two ways. The first involves thinking about the algebraic equation of a circle.
-</div>
+<:= style() :>
 
 ###Method 1
 
@@ -41,17 +41,17 @@ $$25 = r^2$$.
 
 This is true if, and only if, $r = 5$.
 
-<div class="chalk">
+<:= style(chalk) :>
 We know that $r$ must be 5 rather than $-5$ as the radius of a circle must be positive.
-</div>
+<:= style() :>
 
 So the equation of this circle is $(x-5)^2 + (y-4)^2 = 25$. 
 
 ###Method 2
   
-<div class="chalk">
+<:= style(chalk) :>
 The second way of looking at this problem involves thinking about the circle geometrically.
-</div>
+<:= style() :>
 
 Given any three points, we can think of a triangle with these points as its vertices. It is a fact that there is a unique circle passing through these three points, whose centre is the _circumcentre_ of the triangle we just described---that is, the intersection of the perpendicular bisectors of the three sides.
 
@@ -59,11 +59,11 @@ Our three points are $A=(2,0)$, $B=(8,0)$, and $C=(10,4)$. The line segment betw
 
 The line segment between $(8,0)$ and $(10,4)$ has gradient $\frac{4}{2}=2$ and midpoint $\left(\frac{8+10}{2},\frac{0+4}{2}\right)=(9,2)$. So the perpendicular bisector of side $BC$ is the line with gradient $\frac{-1}{2}$ and passing through the point $(9,2)$.  Substituting this information into the general equation for a line $y=mx+c$, we find that the perpendicular bisector of side BC is the line $y=\frac{-1}{2}x+\frac{13}{2}$.
 
-<div class="chalk">
+<:= style(chalk) :>
 We could also calculate the perpendicular bisector of side $CA$, which turns out to be the line $y=-2x+14$.
 
 But we don't need to do this, because we are using the standard fact that the three perpendicular bisectors of the sides of a triangle meet at a single point.  You could check that this is true in this specific case if you wanted.
-</div>
+<:= style() :>
 
 Substituting $x=5$ into $y=\frac{-1}{2}x + \frac{13}{2}$, we get the equation $y=-\frac{5}{2}+\frac{13}{2}$ which is true if and only if $y=4$. So these two perpendicular bisectors intersect at the point $(5,4)$, making this the centre of the circle.
 
@@ -86,9 +86,9 @@ $25 + (y-4)^2 = 25 \iff (y-4)^2 = 0$.
 
 This equation has only one solution, $y=4$, so the circle touches the $y$-axis.
 
-<div class="chalk">
+<:= style(chalk) :>
 Setting $x=0$ in the equation for the circle gives an equation in $y$. If $y=d$ is a solution to this equation, then the circle intersects the $y$-axis at $(0,d)$. If this equation only has one solution, then the circle meets the $y$-axis at only one point, and therefore the $y$-axis must be a tangent to the circle.
-</div>
+<:= style() :>
 
 ***
 
@@ -104,9 +104,9 @@ $$\iff (m^2 +1)x^2 + (-10 - 8m)x+16 = 0.$$
 
 For $y=mx$ to be a tangent to the circle, we must have only one root to this quadratic equation---that is, its discriminant must be zero.
 
-<div class="chalk">
+<:= style(chalk) :>
 The discriminant of a quadratic equation $ax^2+bx+c = 0$ is $b^2-4ac$. The discriminant equals zero if, and only if, the equation has a repeated root.
-</div>
+<:= style() :>
 
 Now
   

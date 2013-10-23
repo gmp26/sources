@@ -4,3 +4,4 @@ npm-debug.log
 *.aux
 .DS_Store
 *.DS_Store
+reference/slides/*.pdf

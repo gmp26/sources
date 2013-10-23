@@ -1,9 +1,9 @@
 ````
 alias: Solution
 ````
-<div class="chalk">
+<:= style(chalk) :>
 For the line to 'touch' the circle there must be exactly one point of intersection between them---the line must be a tangent to the circle. 
-</div>
+<:= style() :>
 
 To find the points of intersection of the line and circle we need to solve their equations for $x$ and $y$.
 
@@ -13,9 +13,9 @@ If $c^2 = 25(1+m^2)$ then the discriminant is $0$. This tells us that there is e
 
 * * *
 
-<div class="chalk">
+<:= style(chalk) :>
 We can save some time by using the first part of the question to solve the next part.
-</div>
+<:= style() :>
 
 We want to find straight lines of the form $y=mx+c$ which go through the the point $(2,11)$ and are tangents to the circle.
 

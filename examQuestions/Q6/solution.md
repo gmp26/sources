@@ -2,9 +2,9 @@
 alias: Solution
 ````
 
-<div class="chalk">
+<:= style(chalk) :>
 The first thing we want to do is rewrite the equation of the circle in the form $(x-a)^2+(y-b)^2=r^2$ so that we can easily work out its centre and radius.
-</div>  
+<:= style() :> 
 
 We have
 

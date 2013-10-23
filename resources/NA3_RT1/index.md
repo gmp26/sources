@@ -23,9 +23,10 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 Experiment with a few examples, and then consider the questions that follow.
 <:= style() :>
 
-<:= linkedButton("animation/index.html", "Full Screen Version") :>
+<: var animation = "/resources/NA3_RT1/animation/index.html" :>
+<:= buttonLink(primary, "Full Screen Version", animation) :>
 
-<:= iframe("animation/index.html", "View animation here", 300, 300) :>
+<:= iframe("See " + animation, animation, 300, 300) :>
 
 <!--
 <iframe src="animation/index.html" class="nrich-embed" style="width:300px;height:300px"></iframe>

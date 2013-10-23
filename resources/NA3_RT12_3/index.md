@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+sourceUrl: http://nrich.maths.org/5339
 alias: Problem
 title: There's always one, isn't there?
 clearance: 3
@@ -53,9 +54,3 @@ Pick the pairs how you like, somewhere there'll always be a one - won't there?
 What actually happens?
 
 Why?
-
-<!-- 
-<div class="row-fluid">
-<iframe src="http://nrich.maths.org/5339?mobile=1" class="span12 nrich-embed"></iframe>
-</div>
-  -->

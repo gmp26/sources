@@ -1,11 +1,12 @@
 ````
 alias: Solution
 ````
-<div class="chalk span4 pull-right">
+<:= style(chalk) :>
 Remember that we write $x \mid y$ to mean that $x$ divides $y$.
 
 We say that two whole numbers are _coprime_ if their highest common factor is $1$.
-</div>
+<:= style() :>
+
 We require $a^2=2b^3$, so $2 \mid a^2$. Since $2$ is prime, we must have $2 \mid a$. Similarly, $a^2=3c^5$, so $3 \mid a^2$ and because $3$ is prime we must have $3 \mid a$.
 
 Therefore, let $a=2^{\alpha_1}3^{\alpha_2}a_1$ where ${\alpha_1}$ and ${\alpha_2}$ are positive integers and $a_1$ is a positive integer coprime to $2$ and $3$.
@@ -19,9 +20,10 @@ Similarly $2 \mid c$ and $3 \mid c$, so let $$b=2^{\beta_1}3^{\beta_2}b_1$$ and 
 When we substitute these representations of $b$ and $c$---along with the representation of $a$ we used earlier---into the given equation, we obtain
 $$2^{2\alpha_1}3^{2\alpha_2}a_1^2=2^{1+3\beta_1}3^{3\beta_2}b_1^3=2^{5\gamma_1}3^{1+5\gamma_2}c_1^5.$$
 
-<div class="chalk span4 pull-right">
+<:= style(chalk) :>
 We are using the uniqueness of prime factorisation here.
-</div>
+<:= style() :>
+
 Since $3$, $a_1$, $b_1$ and $c_1$ are coprime to $2$ we must equate the powers of $2$, and similarly we must equate the powers of $3$.
 
 So we must have $$2\alpha_1=1+3\beta_1=5\gamma_1$$ and $$2\alpha_2=3\beta_2=1+5\alpha_2.$$

@@ -3,6 +3,7 @@ layout: resource
 clearance: 3
 title: Geometry --- A History from Practice to Abstraction
 source: NRICH
+sourceUrl: http://nrich.maths.org/6352
 keywords:
   - history
   - geometry

@@ -4,9 +4,9 @@ alias: Solution
 
 (i) We are told that $AP = 2BP$, which is the same as $(AP)^2 = 4(BP)^2$ (since distances are positive).
 
-<div class="chalk">
+<:= style(chalk) :>
 We use the formula for the distance $d$ between two points $(x_1,y_1)$ and $(x_2,y_2)$, which is $d^2 = (x_2-x_1)^2 + (y_2-y_1)^2$.
-</div>
+<:= style() :>
 
 So the above expression becomes
 
@@ -40,9 +40,9 @@ If this locus is the same as the locus of $P$, then the ratios of the coefficien
 
 $$\frac{2a - 2b k^2}{k^2 - 1} = 14$$ and $$\frac{b^2 k^2 - a^2}{k^2 - 1} = -51.$$
 
-<div class="chalk">
+<:= style(chalk) :>
 Note that we cannot conclude that $k^2 - 1 = 1$, and must instead divide by it to make the coefficients of the $x^2$ and $y^2$ terms equal to 1.
-</div>
+<:= style() :>
 
 The first of these gives
 $$2a - 2b k^2 = 14k^2 - 14,$$

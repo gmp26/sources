@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+sourceUrl: http://nrich.maths.org/1950
 clearance: 3
 alias: Problem
 title: Factorial fun
@@ -28,8 +29,3 @@ $$[500/k]+[500/k2]+\dots+[500/kt],$$
 where the square brackets are used to denote the integer part of the number inside.
 
 (c) How many factors does $n!$ have?
-<!-- 
-<div class="row-fluid">
-<iframe src="http://nrich.maths.org/1950?mobile=1" class="span12 nrich-embed"></iframe>
-</div>
- -->

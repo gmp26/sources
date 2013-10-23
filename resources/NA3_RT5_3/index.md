@@ -18,11 +18,11 @@ priors:
 
 ````
 
-<div class="well">
+<:= style(well) :>
 #####Theorem (the Fundamental Theorem of Arithmetic)
 
 Every integer greater than $1$ can be expressed as a product of primes.  Moreover, this product is unique up to reordering the factors.
-</div>
+<:= style() :>
 
 This is a really important theorem---that's why it's called "fundamental"!  It tells us two things: existence (there _is_ a prime factorisation), and uniqueness (the prime factorisation is unique).  Both parts are useful in all sorts of places.  
 
@@ -34,9 +34,9 @@ Note that the fundamental theorem of arithmetic is one good reason why it's conv
 
 * * *
 
-<div class="well">
+<:= style(well) :>
 The statements below can be sorted into a proof of the Fundamental Theorem of Arithmetic.  You might want to print them out and cut them up to rearrange them.
-</div>
+<:= style() :>
 
 * * *
 

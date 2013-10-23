@@ -1,6 +1,7 @@
 ````
 layout: resource
 source: NRICH
+sourceUrl: http://nrich.maths.org/301
 alias: Problem
 title: A Diophantine equation
 clearance: 3

@@ -18,9 +18,9 @@ This is a quadratic in $x$, and it has exactly one solution since we know that t
 $$4a^2 - 4(a^2 + b^2 - r^2) = 0$$
 $$\iff b^2 = r^2.$$
 
-<div class="chalk">
+<:= style(chalk) :>
 There is also a neat way of reaching $|b|=r$ geometrically: the centre is $(a,b)$, and the $x$-axis is a tangent, so it will touch the circle directly below (or above) the centre, at $(a,0)$ (because any tangent of a circle is perpendicular to a radius of that circle). Then the distance from this point to the centre is $|b|$, but this is also the radial distance, so $|b| = r$.
-</div>
+<:= style() :>
 
 Now we can substitute this into $(\ast)$ and solve for $b$:
 
@@ -45,9 +45,9 @@ and so the equations of the two circles are
 $$(x - 10)^2 + (y - 5)^2 = 25$$ and $$(x - 20)^2 + (y - 10)^2 = 100.$$
 
 
-<div class="chalk">
+<:= style(chalk) :>
 For the second part of the question, we give two methods. The first uses direct substitution to find where the line intersects the two circles. The second uses the fact that the tangent to the circle will be perpendicular to the radius at that point, and avoids having to deal with quadratics.
-</div>
+<:= style() :>
 
 ##Method 1
 

@@ -2,6 +2,7 @@
 layout: resource
 alias: Problem
 source: NRICH
+sourceUrl: http://nrich.maths.org/377
 title: $n^5 - n$
 clearance: 3
 keywords:
