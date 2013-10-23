@@ -5,8 +5,8 @@ clearance: 3
 keywords:
   - equation of circle
   - tangent
-year: 1963
-paper: A level maths - pure mathematics 2
+year: June 1963
+paper: UCLES A level Maths, QP 417/2 and 447/2
 qno: 2
 stids1:
   - G2

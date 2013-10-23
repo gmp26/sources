@@ -8,7 +8,7 @@ keywords:
   - line
   - circle
 year: June 1951
-paper: A level Mathematics, paper 2, 187
+paper: UCLES A level Maths, QP 187/II
 qno: 2
 stids1:
   - E2

@@ -6,7 +6,7 @@ keywords:
   - Diophantine equation
   - factor
 year: 1998
-paper: STEP II
+paper: UCLES STEP Maths II
 qno: 1
 stids1:
   - NA3

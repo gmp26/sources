@@ -7,7 +7,7 @@ keywords:
   - touch
   - equation of a circle
 year: Summer 1986
-paper: A level Mathematics 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
+paper: UCLES A level Maths, QP 9200/1 and 9208/1
 qno: 7
 stids1: 
   - G2

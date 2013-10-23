@@ -7,7 +7,7 @@ keywords:
   - difference of two squares
   - prime
 year: 2006
-paper: STEP I
+paper: UCLES STEP Maths I
 qno: 1
 stids1:
   - NA3

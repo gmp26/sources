@@ -7,7 +7,7 @@ keywords:
   - coordinates
   - Cartesian equation
 year: 2005
-paper: STEP I
+paper: UCLES STEP Maths I
 qno: 6
 stids1:
   - G2

@@ -4,7 +4,7 @@ layout: resource
 clearance: 3
 keywords: 
 year: 1987
-paper: A level Mathematics 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
+paper: UCLES A level Maths 1, Syllabus A, Pure Mathematics 1, 9200/1, 9208/1
 qno: 6
 stids1: 
   - G2

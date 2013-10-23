@@ -8,7 +8,7 @@ keywords:
   - quadratic equation
   - circle
 year: 2009
-paper: STEP I
+paper: UCLES STEP Maths I
 qno: 1
 stids1:
   - G2

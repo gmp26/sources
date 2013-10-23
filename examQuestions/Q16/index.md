@@ -7,7 +7,7 @@ keywords:
   - factors
   - prime
 year: 2000
-paper: STEP II
+paper: UCLES STEP Maths II
 qno: 1
 stids1: 
   - NA3

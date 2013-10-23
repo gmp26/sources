@@ -5,7 +5,7 @@ clearance: 3
 keywords:
   - equation of a circle
 year: June 1953
-paper: A level Mathematics paper 2, 185
+paper: UCLES A level Maths, QP 185/2
 qno: 2
 stids1:
   - G2

@@ -6,7 +6,7 @@ keywords:
   - equation of a circle
   - tangent
 year: June 1966
-paper: A level Maths/Pure Maths Paper 2
+paper: UCLES A level Maths, QP 417/2 and 447/2
 qno: 2
 stids1:
   - G2

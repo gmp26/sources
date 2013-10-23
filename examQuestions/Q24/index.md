@@ -8,7 +8,7 @@ keywords:
   - divisibility
   - prime
 year: 2010
-paper: STEP I
+paper: UCLES STEP Maths I
 qno: 8
 stids1:
   - NA3

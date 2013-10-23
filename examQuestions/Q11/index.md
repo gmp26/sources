@@ -6,7 +6,7 @@ keywords:
   - equation of circle
   - ellipse
 year: 2002
-paper: STEP I
+paper: UCLES STEP Maths I
 qno: 1
 stids1:
   - G2

@@ -7,7 +7,7 @@ keywords:
   - circle
   - tangent
 year: June 1964
-paper: A level Mathematics 2, Pure Mathematics 2
+paper: UCLES A level Maths 2, QP 417/2 and 447/2
 qno: 2
 stids1:
   - G2

@@ -7,7 +7,7 @@ keywords:
   - perpendicular
   - coordinates
 year: 2003
-paper: STEP III
+paper: UCLES STEP Maths III
 qno: 7
 stids1:
   - G2
