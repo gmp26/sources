@@ -31,27 +31,23 @@ $$(x-a)^2 + (y-b)^2 = r^2.$$
     
     * $x^2 + y^2 - 3x - y = -1.5$ can be rearranged to give $\left(x-\frac{3}{2}\right)^2 + \left(y-\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(\frac{3}{2},\frac{1}{2})$ and radius $1$.
 
-    * 
-    <:= style(chalk) :>
-    This equation looks rather similar to the previous one.  Maybe we can use that to save ourselves some effort.
+    * <:= style(chalk) :>This equation looks rather similar to the previous one.  Maybe we can use that to save ourselves some effort.
     <:= style() :>
 
-	  $x^2 + y^2 + 3x + y = -1.5$ can be rearranged to give $\left(x+\frac{3}{2}\right)^2 + \left(y+\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(-\frac{3}{2},-\frac{1}{2})$ and radius $1$.
+	    $x^2 + y^2 + 3x + y = -1.5$ can be rearranged to give $\left(x+\frac{3}{2}\right)^2 + \left(y+\frac{1}{2}\right)^2 = 1$, so this is the equation of a circle with centre $(-\frac{3}{2},-\frac{1}{2})$ and radius $1$.
 
 3. The centre of the circle must be the midpoint of the line segment from $(-5,2)$ to $(3,-1)$, so the centre of the circle is at $\left(-1,\frac{1}{2}\right)$.
 The radius is then the distance from the centre to either of the points $(-5,2)$ or $(3,-1)$, say $(3,-1)$:
 $$r = \sqrt{(-1-3)^2 + \left(\frac{1}{2}-(-1)\right)^2} = \sqrt{16+\frac{9}{4}} = \frac{\sqrt{73}}{2}.$$
 
-<:= style(chalk) :>
-This is equivalent to working out the diameter, $d$, of the circle as the distance between the points $(5,2)$ and $(3,-1)$, and then saying $r = \frac{1}{2}d$.
-<:= style() :>
+    <:= style(chalk) :> This is equivalent to working out the diameter, $d$, of the circle as the distance between the points $(5,2)$ and $(3,-1)$, and then saying $r = \frac{1}{2}d$.<:= style() :>
 
 So the equation of the circle of which the line segment from $(-5,2)$ to $(3,-1)$ is a diameter is
 $$(x+1)^2 + \left(y-\frac{1}{2}\right)^2 = \frac{73}{4}.$$
 
-	There are infinitely many circles that pass through both of the points $(-5,2)$ and $(3,-1)$. Some examples are shown in figure 3.
+There are infinitely many circles that pass through both of the points $(-5,2)$ and $(3,-1)$. Some examples are shown in figure 3.
 
-    ![Figure 3](figure3.png)
+![Figure 3](figure3.png)
 
 <!--4. We shall consider the various numbers of points separately.
 
