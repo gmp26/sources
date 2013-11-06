@@ -5,7 +5,6 @@ layout: docs
 clearance: -1
 title: CMEP Contribution Documentation
 author: Ewan Davies
-lastUpdated: NOT YET IMPLEMENTED
 acknowledgementText: So long and thanks for all the fish.
 keywords:
   - lodash

@@ -62,7 +62,7 @@ If you must go for bitmap, note that we would like images at 600 pixels per inch
 
 ## Paragraph styling
 
-Markdown is quite limited and beyond inline _emphasis_ (`_emphasis_`) you can't style the text. That is why we have our own syntax for special things, using `lodash` templates. It's explained in the [Lodash Guide](index.html#tab2).
+Markdown is quite limited and beyond inline _emphasis_ (`_emphasis_`) you *can't* style the text. That is why we have our own syntax for special things, using `lodash` templates. It's explained in the [Lodash Guide](index.html#tab2).
 
 You might be tempted to use HTML snippets which seem to work fine. That is until our latex processor gets hold of the page... If you would like a style that isn't in the lodash library please ask and we'll try to accomodate something.
 
