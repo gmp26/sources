@@ -23,7 +23,7 @@ In this interactivity, you can specify two positive integers (whole numbers) and
 Experiment with a few examples, and then consider the questions that follow.
 <:= style() :>
 
-<: var animation = "/resources/NA3_RT1/animation/index.html" :>
+<: var animation = "animation/index.html" :>
 <:= buttonLink(primary, "Full Screen Version", animation) :>
 
 <:= iframe("See " + animation, animation, 300, 300) :>
