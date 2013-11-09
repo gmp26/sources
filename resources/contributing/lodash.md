@@ -53,28 +53,28 @@ Below are examples of the syntax, and the output of our paragraph styles.
 
 <:= showLodashed('style(chalk)') :>
 
-This text looks like it's been written in chalk.
+This text looks like it's been written in chalk.  This style is good for informal comments (e.g. about what we might be thinking when writing a bit of maths, or hints).
 
 <:= showLodashed('style()') :>
 
 <: grunt.log.write("  style(chalk)...") :>
 <:= style(chalk) :>
 
-This text looks like it's been written in chalk.
+This text looks like it's been written in chalk.  This style is good for informal comments (e.g. about what we might be thinking when writing a bit of maths, or hints).
 
 <:= style() :>
 <: grunt.log.ok() :>
 
 <:= showLodashed('style(well)') :>
 
-This text looks like it's been written in a well.
+This text looks like it's been written in a well.  This style is good for highlighting things (e.g. exercises in a longer piece).
 
 <:= showLodashed('style()') :>
 
 <: grunt.log.write("  style(well)...") :>
 <:= style(well) :>
 
-This text looks like it's been written in a well.
+This text looks like it's been written in a well.  This style is good for highlighting things (e.g. exercises in a longer piece).
 
 <:= style() :>
 <: grunt.log.ok() :>

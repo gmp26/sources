@@ -118,7 +118,7 @@ The language for metadata is YAML. Look it up if you must, but it's simple enoug
 
 ## The paper copy
 
-Our system uses pandoc and latex to produce pdfs of certain resources. These are designed to be printed on paper and have much of the interactive content disables for this reason. Don't be afraid to use interactive content, we love it! Just don't expect paper users of CMEP to enjoy it quite so much.
+Our system uses pandoc and latex to produce pdfs of certain resources. These are designed to be printed on paper and have much of the interactive content disabled for this reason. Don't be afraid to use interactive content, we love it! Just don't expect paper users of CMEP to enjoy it quite so much.
 
 ## Submitting your resource
 
