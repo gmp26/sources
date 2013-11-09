@@ -98,6 +98,8 @@ weight: determines the order of this part in a multipart tab bar. larget numbers
 id: (optional = can omit if same as filename and url)
 title: (optional) but may be identified by resource type
 layout: resource (but some resources will have special layouts)
+source: a key into sources.yaml indexing some acknowledgment. Currently NRICH, CamAss, or UKMT.
+sourceUrl: An associated url from the source. e.g. http://nrich.maths.org/785?mobile=1. 
 author: (optional. If more than one, make it a yaml list)
 date: (of first publication - this should be automated soon)
 clearance: 0 (a number which determines who sees your resource, go with 0 for now)
