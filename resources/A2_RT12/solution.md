@@ -5,13 +5,15 @@ weight: 3
 
 <:= style(chalk) :>
 
-We can think of $3 - 2$ as a difference of two squares, since $3 - 2 = (\sqrt{3})^2 - (\sqrt{2})^2)$.
+We can think of $3 - 2$ as a difference of two squares, since $3 - 2 = \left(\sqrt{3}\right)^2 - \left(\sqrt{2}\right)^2$.
 
 <:= style() :>
 
 Let the sum we're interested in be $S$, so $$S = \frac{1}{\sqrt{1} + \sqrt{2}} + \frac{1}{\sqrt{2} + \sqrt{3}} + \frac{1}{\sqrt{3} + \sqrt{4}} + \dotsb + \frac{1}{\sqrt{15} + \sqrt{16}}.$$
 
 Then $$S = \frac{\sqrt{2} - \sqrt{1}}{2 - 1} + \frac{\sqrt{3} - \sqrt{2}}{3 - 2} + \frac{\sqrt{4} - \sqrt{3}}{4 - 3} + \dotsb + \frac{\sqrt{16} - \sqrt{15}}{16 - 15}.$$
+
+We can simplify the denominators very nicely, to get $$S = (-\sqrt{1} + \sqrt{2}) + (-\sqrt{2} + \sqrt{3}) + (-\sqrt{3} + \sqrt{4}) + \dotsb + (-\sqrt{15} + \sqrt{16}).$$
 
 The sums on the right-hand side now telescope (lots of adjacent terms cancel), so we are just left with the first and last terms.
 
