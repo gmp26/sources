@@ -9,7 +9,7 @@ keywords:
   - linear equation
 resourceType: RT9
 stids1:
-  - NA3*
+  - NA3
 stids2:
 pvids1:
 pvids2:

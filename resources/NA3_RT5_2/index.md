@@ -7,7 +7,7 @@ keywords:
   - divisibility
 resourceType: RT5
 stids1:
-  - NA3*
+  - NA3
 stids2:
 pvids1:
 pvids2:

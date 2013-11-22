@@ -1,7 +1,7 @@
 ````
 layout: resource
 source: NRICH
-sourceUrl: http://nrich.maths.org/6493?mobile=1
+sourceUrl: http://nrich.maths.org/6493
 clearance: 0
 keywords:
 resourceType: RT2

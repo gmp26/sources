@@ -3,7 +3,7 @@ title: Parabella
 layout: resource
 alias: Problem
 source: NRICH
-sourceUrl: http://nrich.maths.org/785?mobile=1
+sourceUrl: http://nrich.maths.org/785
 clearance: 3
 keywords:
   - parabola
