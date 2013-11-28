@@ -1,6 +1,6 @@
 ````
 alias: Lodash Guide
-weight: 5
+weight: 2
 clearance: -1
 title: Lodash Markup Documentation
 author: Douglas Adams
