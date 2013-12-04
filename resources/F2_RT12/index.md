@@ -18,4 +18,4 @@ represents a family of functions, with each member of the family corresponding t
 
 Sketch some graphs of functions in this family corresponding to different values of $a$.  You might want to rearrange the equation into the form $y = f(x)$ first.
 
-What might be the domain of the function $f$?
+What might be the domain of the function $f$? 

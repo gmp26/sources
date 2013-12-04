@@ -1,6 +1,6 @@
 ````
 alias: Markdown Guide
-weight: 1
+weight: 2
 clearance: -1
 title: Markdown Guide
 
