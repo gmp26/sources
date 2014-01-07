@@ -1,5 +1,5 @@
 ````
-id: G
+id: g
 title: Geometry
 colour: '#d62728'
 ````

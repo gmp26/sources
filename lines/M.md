@@ -1,10 +1,10 @@
 ````
-id: M
-title: Mechanics
+id: m
+title: Mappings
 colour: '#7f7f7f'
 ````
 
-The Mechanics Line
+The Mappings Line
 ================
 
 Intro text

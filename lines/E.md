@@ -1,5 +1,5 @@
 ````
-id: E
+id: e
 title: Equations and Inequalities
 colour: '#1f77b4'
 ````
