@@ -1,5 +1,5 @@
 ````
-id: NA
+id: na
 title: Numbers and Algorithms
 colour: '#17becf'
 ````

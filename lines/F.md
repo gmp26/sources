@@ -1,5 +1,5 @@
 ````
-id: F
+id: f
 title: Functions
 colour: '#2ca02c'
 ````

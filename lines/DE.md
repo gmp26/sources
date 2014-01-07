@@ -1,5 +1,5 @@
 ````
-id: DE
+id: de
 title: Differential Equations
 colour: '#000000'
 ````

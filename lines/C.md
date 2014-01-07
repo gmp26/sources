@@ -1,5 +1,5 @@
 ````
-id: C
+id: c
 title: Calculus
 colour: '#bcbd22'
 ````

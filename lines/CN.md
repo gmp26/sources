@@ -1,5 +1,5 @@
 ````
-id: CN
+id: cn
 title: Complex Numbers
 colour: '#ff7f0e'
 ````

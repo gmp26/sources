@@ -1,5 +1,5 @@
 ````
-id: P
+id: p
 title: Probability
 colour: '#8c564b'
 ````
