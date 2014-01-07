@@ -1,7 +1,7 @@
 ````
 id: n
 title: Number
-colour: '#17becf'
+colour: '#ff9896'
 ````
 
 The Number Line
