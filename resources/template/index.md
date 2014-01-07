@@ -5,7 +5,6 @@ id: (optional = can omit if same as filename and url)
 title: (optional) but may be identified by resource type
 layout: resource (but some resources will have special layouts)
 author: (optional. If more than one, make it a yaml list)
-date: (of first publication - maybe this should be automated)
 clearance: 0
 keywords: a yaml list of words or short phrases
 resourceType: resourceTypeId
