@@ -1,5 +1,5 @@
 ````
-id: A
+id: a
 title: Algebra
 colour: "#9467bd"
 ````
