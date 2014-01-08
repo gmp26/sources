@@ -1,6 +1,6 @@
 ````
 alias: problem
-weight:1
+weight: 1
 layout: resource
 clearance: 1
 keywords:
