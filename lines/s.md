@@ -1,10 +1,10 @@
 ````
-id: c
-title: Calculus
+id: s
+title: Statistics
 colour: '#bcbd22'
 ````
 
-The Calculus Line
+The Statistics Line
 ================
 
 Intro text

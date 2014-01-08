@@ -1,10 +1,10 @@
 ````
 id: n
-title: Number
+title: Numbers and Algorithms
 colour: '#17becf'
 ````
 
-The Number Line
+The Numbers and Algorithms Line
 ================
 
 Intro text
