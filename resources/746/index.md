@@ -1,8 +1,8 @@
 ````
 layout: resource
-clearance: 0
+clearance: 1
 keywords:
-resourceType: RT1
+resourceType: RT9
 stids1: 
   - a1
 stids2:
