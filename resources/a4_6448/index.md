@@ -11,5 +11,5 @@ pvids2:
 
 ````
 
-<:= iframe("See http://nrich.maths.org/6448?mobile=1", "http://nrich.maths.org/6448?mobile=1", 700, 2300, image="thumbnail.png") :>
+<:= iframe("See http://nrich.maths.org/6448?mobile=1", "http://nrich.maths.org/6448?mobile=1", 700, 1200, image="thumbnail.png") :>
 
