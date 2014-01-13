@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Diffy'
+alias: problem
+source: Don
 resourceType: RT9
 stids1: 
   - a1
@@ -10,10 +13,6 @@ pvids1:
 pvids2:
 
 ````
-
-### Diffy\
-
-The following problem was provided by Don Steward. You can find more of his problems [on his website](http://donsteward.blogspot.co.uk/).\
 
 
 ![ ](http://2.bp.blogspot.com/-1sW_yuK0BIs/T2S6pcDF3sI/AAAAAAAADxI/xt9B2fOzzc4/s320/Picture1.png)

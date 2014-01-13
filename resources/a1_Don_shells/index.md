@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Shells and Hexagons'
+alias: problem
+source: Don
 resourceType: RT12
 stids1: 
   - a1
@@ -11,7 +14,6 @@ pvids2:
 
 ````
 
-### Shells and hexagons\
 
 The following problem was provided by Don Steward. You can find more of his problems [on his website](http://donsteward.blogspot.co.uk/).\
 

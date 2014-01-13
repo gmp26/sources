@@ -14,7 +14,6 @@ pvids2:
 
 ````
 
-### Sequences of multiples\
 
 The following problem was provided by Don Steward. You can find more of his problems [on his website](http://donsteward.blogspot.co.uk/).\
 
