@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: '2-digit square'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - a2

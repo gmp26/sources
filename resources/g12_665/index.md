@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Sitting Pretty'
+alias: problem
+source: NRICH
 resourceType: RT13
 stids1: 
   - g12

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Square It'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g1

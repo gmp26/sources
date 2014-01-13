@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Kite in a square'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - g13

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Your Number Was...'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - e1

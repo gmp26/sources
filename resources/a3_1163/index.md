@@ -1,7 +1,9 @@
 ````
 layout: resource
 clearance: 1
-keywords:
+keywords:title: 'A Reward for Sissa'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - a3

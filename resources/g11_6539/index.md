@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Translating Lines'
+alias: problem
+source: NRICH
 resourceType: RT7
 stids1: 
   - g11

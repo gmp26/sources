@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Far Horizon'
+alias: problem
+source: NRICH
 resourceType: RT14
 stids1: 
   - g15

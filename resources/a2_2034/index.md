@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Always Perfect'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - a2

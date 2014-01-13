@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'An Unusual Shape'
+alias: problem
+source: NRICH
 resourceType: RT5
 stids1: 
   - g10

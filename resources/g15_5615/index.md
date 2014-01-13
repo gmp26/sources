@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Where is the dot?'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - g15

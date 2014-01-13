@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'What is Possible?'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - a2

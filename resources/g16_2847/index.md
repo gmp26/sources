@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Right Angles'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - g16

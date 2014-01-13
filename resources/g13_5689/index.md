@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Visiting all the vertices'
+alias: problem
+source: NRICH
 resourceType: RT14
 stids1: 
   - g13

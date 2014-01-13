@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Multiplication Arithmagon'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - e3

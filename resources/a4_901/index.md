@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'The Root of the Problem'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - a4

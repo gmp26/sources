@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'How steep is the slope?'
+alias: problem
+source: NRICH
 resourceType: RT4
 stids1: 
   - g11

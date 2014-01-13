@@ -1,7 +1,9 @@
 ````
 layout: resource
 clearance: 1
-keywords:
+keywords:title: 'Do not add up'
+alias: problem
+source: NRICH
 resourceType: RT14
 stids1: 
   - g11

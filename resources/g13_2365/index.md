@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'The Spider and the Fly'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - g13

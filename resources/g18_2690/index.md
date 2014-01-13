@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Cubestick'
+alias: problem
+source: NRICH
 resourceType: RT14
 stids1: 
   - g18

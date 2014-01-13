@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Perfectly Square'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - a2

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Diamond Collector'
+alias: problem
+source: NRICH
 resourceType: RT11
 stids1: 
   - g11

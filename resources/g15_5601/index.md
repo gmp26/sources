@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Trigonometric Protractor'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - g15

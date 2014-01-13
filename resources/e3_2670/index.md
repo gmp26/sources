@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Arithmagons'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - e3

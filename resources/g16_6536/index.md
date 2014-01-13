@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Circles in Quadrilaterals'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g16

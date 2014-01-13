@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Pick Theorem'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - e1

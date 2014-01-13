@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Round and Round and Round'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g15

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Cinema Problem'
+alias: problem
+source: NRICH
 resourceType: RT5
 stids1: 
   - e3

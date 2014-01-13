@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Shady Symmetry'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - g1

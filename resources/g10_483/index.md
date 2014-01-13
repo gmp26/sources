@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Triangle Mid Points'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - g10
