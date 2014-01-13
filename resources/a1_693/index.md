@@ -1,9 +1,11 @@
 ````
-alias: problem
 weight: 1
 layout: resource
 clearance: 1
 keywords:
+title: 'Of all the Areas'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - a1

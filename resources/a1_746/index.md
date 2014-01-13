@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Where Can We Visit?'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - a1

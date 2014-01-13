@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Partially Painted Cube'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - a1

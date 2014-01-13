@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Summing Geometric Progressions'
+alias: problem
+source: NRICH
 resourceType: RT4
 stids1: 
   - a1

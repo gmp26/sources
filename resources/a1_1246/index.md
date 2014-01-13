@@ -2,9 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
-title: 'Sequences of multiples'
+title: 'Frogs'
 alias: problem
-source: Don
+source: NRICH
 resourceType: RT9
 stids1: 
   - a1

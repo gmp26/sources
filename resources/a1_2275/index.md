@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Picturing Square Numbers'
+alias: problem
+source: NRICH
 resourceType: RT7
 stids1: 
   - a1

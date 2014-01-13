@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Steel Cables'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - a1

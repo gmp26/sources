@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Slick Summing'
+alias: problem
+source: NRICH
 resourceType: RT4
 stids1: 
   - a1

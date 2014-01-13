@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Odds, Evens and More Evens'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - a1

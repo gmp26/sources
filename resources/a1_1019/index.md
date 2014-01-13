@@ -2,9 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
-title: 'Sequences of multiples'
+title: '1 Step 2 Step'
 alias: problem
-source: Don
+source: NRICH
 resourceType: RT14
 stids1: 
   - a1
