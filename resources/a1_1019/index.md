@@ -1,4 +1,7 @@
 ````
+title: "1 Step 2 Step"
+alias: problem
+source: NRICH
 layout: resource
 clearance: 1
 keywords:
