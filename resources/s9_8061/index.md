@@ -4,7 +4,7 @@ clearance: 1
 keywords:
 resourceType: RT9
 stids1: 
-  - s10
+  - s9
 stids2:
 pvids1:
 pvids2:

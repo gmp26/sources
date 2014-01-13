@@ -4,7 +4,7 @@ clearance: 1
 keywords:
 resourceType: RT2
 stids1: 
-  - s8
+  - s3
 stids2:
 pvids1:
 pvids2:
