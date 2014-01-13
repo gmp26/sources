@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Sequences of multiples'
+alias: problem
+source: Don
 resourceType: RT9
 stids1: 
   - a1

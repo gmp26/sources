@@ -1,10 +1,10 @@
 ````
-title: "1 Step 2 Step"
-alias: problem
-source: NRICH
 layout: resource
 clearance: 1
 keywords:
+title: 'Sequences of multiples'
+alias: problem
+source: Don
 resourceType: RT14
 stids1: 
   - a1
