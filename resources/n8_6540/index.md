@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Keep It Simple'
+alias: problem
+source: NRICH
 resourceType: RT7
 stids1: 
   - n8

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Charting Success'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - s6

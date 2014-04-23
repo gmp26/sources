@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Can They be Equal?'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g7

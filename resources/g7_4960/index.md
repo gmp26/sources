@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Trapezium Four'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g7

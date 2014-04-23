@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'How Much Can We Spend?'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - n5

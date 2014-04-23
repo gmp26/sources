@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'A Chance to Win?'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - n9

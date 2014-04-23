@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'M, M and M'
+alias: problem
+source: NRICH
 resourceType: RT11
 stids1: 
   - s2

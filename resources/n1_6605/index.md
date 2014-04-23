@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Some Games That May Be Nice or Nasty'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - n1

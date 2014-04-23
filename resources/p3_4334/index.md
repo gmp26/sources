@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'The Better Bet'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - p3

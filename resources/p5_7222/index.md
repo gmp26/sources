@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Do You Feel Lucky?'
+alias: problem
+source: NRICH
 resourceType: RT8
 stids1: 
   - p5

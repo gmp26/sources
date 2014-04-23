@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Missing Multipliers'
+alias: problem
+source: NRICH
 resourceType: RT11
 stids1: 
   - n3

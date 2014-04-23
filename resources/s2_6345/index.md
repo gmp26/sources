@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Searching for Mean(ing)'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - s2

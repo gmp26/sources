@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Who is the Fairest of Them All?'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g6

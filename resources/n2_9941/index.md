@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Up, Down, Flying Around'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - n2

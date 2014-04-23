@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'What Does Random Look Like?'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - p3

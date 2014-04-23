@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'A Question of Scale'
+alias: problem
+source: NRICH
 resourceType: RT8
 stids1: 
   - n10

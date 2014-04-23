@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Nutrition and Cycling'
+alias: problem
+source: NRICH
 resourceType: RT8
 stids1: 
   - n10

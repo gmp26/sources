@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'In a Box'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - p4

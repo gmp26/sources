@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Attractive Rotations'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - g6

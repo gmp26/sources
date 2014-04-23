@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Fit for Photocopying'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - g7

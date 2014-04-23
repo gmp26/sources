@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Non-transitive Dice'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - p4

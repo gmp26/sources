@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Factorising With Multilink'
+alias: problem
+source: NRICH
 resourceType: RT4
 stids1: 
   - n6

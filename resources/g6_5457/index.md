@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Transformation Game'
+alias: problem
+source: NRICH
 resourceType: RT11
 stids1: 
   - g6

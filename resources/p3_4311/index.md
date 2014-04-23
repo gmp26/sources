@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Twos Company'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - p3

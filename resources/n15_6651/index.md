@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Going Round in Circles'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - n15

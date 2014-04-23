@@ -3,6 +3,9 @@ layout: resource
 clearance: 1
 keywords:
 resourceType: RT2
+title: 'Vector Walk'
+alias: problem
+source: NRICH
 stids1: 
   - g6
 stids2:

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Cosy Corner'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - p3

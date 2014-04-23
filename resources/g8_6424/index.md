@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Maths Filler'
+alias: problem
+source: NRICH
 resourceType: RT13
 stids1: 
   - g8

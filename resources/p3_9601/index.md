@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'The Wisdom of the Crowd'
+alias: problem
+source: NRICH
 resourceType: RT2
 stids1: 
   - p3

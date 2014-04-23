@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Why 24?'
+alias: problem
+source: NRICH
 resourceType: RT5
 stids1: 
   - n14

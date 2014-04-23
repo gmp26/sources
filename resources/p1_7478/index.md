@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Whos the Winner?'
+alias: problem
+source: NRICH
 resourceType: RT13
 stids1: 
   - p1

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Stars'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - n14

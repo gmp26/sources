@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Spotting the Loophole'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - g6

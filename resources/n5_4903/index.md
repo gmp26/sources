@@ -1,7 +1,9 @@
 ````
 layout: resource
 clearance: 1
-keywords:
+keywords: 'Product Sudoku'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - n5

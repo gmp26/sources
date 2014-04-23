@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Twisting and Turning'
+alias: problem
+source: NRICH
 resourceType: RT4
 stids1: 
   - n9

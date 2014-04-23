@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Which List is Which?'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - s3

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'How Would You Score It?'
+alias: problem
+source: NRICH
 resourceType: RT12
 stids1: 
   - s3

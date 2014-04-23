@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Method in Multiplying Madness?'
+alias: problem
+source: NRICH
 resourceType: RT3
 stids1: 
   - n3

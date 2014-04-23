@@ -2,7 +2,7 @@
 layout: resource
 clearance: 1
 keywords:
-title: 'What is the weather like?'
+title: 'What is the Weather like?'
 alias: problem
 source: NRICH
 resourceType: RT9

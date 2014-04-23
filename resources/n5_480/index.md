@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: '14 Divisors'
+alias: problem
+source: NRICH
 resourceType: RT14
 stids1: 
   - n5

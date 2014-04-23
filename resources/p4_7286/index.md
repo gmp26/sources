@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'At Least One...'
+alias: problem
+source: NRICH
 resourceType: RT7
 stids1: 
   - p4

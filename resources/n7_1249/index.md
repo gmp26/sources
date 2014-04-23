@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Matching Fractions Decimals Percentages'
+alias: problem
+source: NRICH
 resourceType: RT11
 stids1: 
   - n7

@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Chances Are'
+alias: problem
+source: NRICH
 resourceType: RT13
 stids1: 
   - p4

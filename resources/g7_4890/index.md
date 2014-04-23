@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Areas of Parallelograms'
+alias: problem
+source: NRICH
 resourceType: RT7
 stids1: 
   - g7

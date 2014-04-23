@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Statistical Shorts'
+alias: problem
+source: NRICH
 resourceType: RT8
 stids1: 
   - s4

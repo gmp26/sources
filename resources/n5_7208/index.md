@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Always a Multiple?'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - n5

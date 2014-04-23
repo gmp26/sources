@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Adding and Subtracting Positive and Negative Numbers'
+alias: problem
+source: NRICH
 resourceType: RT3
 stids1: 
   - n2

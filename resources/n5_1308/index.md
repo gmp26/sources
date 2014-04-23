@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Divisibility Tests'
+alias: problem
+source: NRICH
 resourceType: RT3
 stids1: 
   - n5

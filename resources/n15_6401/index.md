@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Power Mad!'
+alias: problem
+source: NRICH
 resourceType: RT7
 stids1: 
   - n15

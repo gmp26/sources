@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Magic Letters'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - n2

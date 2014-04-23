@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'What Numbers Can We Make?'
+alias: problem
+source: NRICH
 resourceType: RT6
 stids1: 
   - n15

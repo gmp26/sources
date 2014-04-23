@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Who is the Best?'
+alias: problem
+source: NRICH
 resourceType: RT9
 stids1: 
   - s4

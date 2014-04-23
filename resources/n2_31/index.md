@@ -2,6 +2,9 @@
 layout: resource
 clearance: 1
 keywords:
+title: 'Consecutive Numbers'
+alias: problem
+source: NRICH
 resourceType: RT1
 stids1: 
   - n2
