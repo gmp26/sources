@@ -7,7 +7,7 @@ alias: problem
 source: NRICH
 resourceType: RT11
 stids1: 
-  - n2
+  - n4b
 stids2:
 pvids1:
 pvids2:

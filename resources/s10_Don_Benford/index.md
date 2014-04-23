@@ -5,7 +5,7 @@ keywords:
 title: 
 alias: problem
 source: Don
-resourceType:
+resourceType: RT14
 stids1: 
   - s10
 stids2:

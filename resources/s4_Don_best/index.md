@@ -5,7 +5,7 @@ keywords:
 title: 'Best Guesser'
 alias: problem
 source: Don
-resourceType: R2
+resourceType: RT2
 stids1: 
   - s4
 stids2:
