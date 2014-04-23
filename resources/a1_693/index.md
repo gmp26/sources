@@ -6,7 +6,7 @@ keywords:
 title: 'Of all the Areas'
 alias: problem
 source: NRICH
-resourceType: RT1
+resourceType: RT9
 stids1: 
   - a1
 stids2:
