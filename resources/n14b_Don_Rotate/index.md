@@ -7,7 +7,7 @@ alias: problem
 source: Don
 resourceType: RT6
 stids1: 
-  - 14b
+  - n14b
 stids2:
 pvids1:
 pvids2:
